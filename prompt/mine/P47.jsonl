@@ -1,0 +1,51 @@
+{"relation": "P47", "template": "[X] shares border with [Y] .", "label": "shares border with", "description": "countries or administrative subdivisions, of equal level, that this item borders, either by land or water", "type": "N-M"}
+{"relation": "P47", "template": "[Y] and northern [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 915}
+{"relation": "P47", "template": "[X] and northern [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 903}
+{"relation": "P47", "template": "[X] and southern [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 705}
+{"relation": "P47", "template": "[Y] and southern [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 674}
+{"relation": "P47", "template": "[Y] and parts of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 598}
+{"relation": "P47", "template": "[X] and parts of [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 588}
+{"relation": "P47", "template": "[X] and western [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 557}
+{"relation": "P47", "template": "[Y] and western [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 554}
+{"relation": "P47", "template": "[X] defeated [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 444}
+{"relation": "P47", "template": "[Y] near [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 410}
+{"relation": "P47", "template": "[X] near [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 391}
+{"relation": "P47", "template": "[X] invaded [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 326}
+{"relation": "P47", "template": "[X] and eastern [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 324}
+{"relation": "P47", "template": "[Y] and eastern [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 321}
+{"relation": "P47", "template": "[X] suburb of [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 303}
+{"relation": "P47", "template": "[Y] suburb of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 300}
+{"relation": "P47", "template": "[X] and southwestern [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 245}
+{"relation": "P47", "template": "[Y] and southwestern [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 245}
+{"relation": "P47", "template": "[X] and southeastern [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 217}
+{"relation": "P47", "template": "[Y] and southeastern [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 216}
+{"relation": "P47", "template": "[X] and northeastern [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 207}
+{"relation": "P47", "template": "[Y] and northeastern [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 202}
+{"relation": "P47", "template": "[Y] to the north , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 196}
+{"relation": "P47", "template": "[X] to the north , [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 193}
+{"relation": "P47", "template": "[Y] invaded [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 178}
+{"relation": "P47", "template": "[X] to the west , [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 133}
+{"relation": "P47", "template": "[Y] to the east , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 130}
+{"relation": "P47", "template": "[Y] to the west , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 130}
+{"relation": "P47", "template": "[X] to the east , [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 125}
+{"relation": "P47", "template": "[X] near the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 117}
+{"relation": "P47", "template": "[Y] near the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 114}
+{"relation": "P47", "template": "[Y] joined the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 108}
+{"relation": "P47", "template": "[Y] border with [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 108}
+{"relation": "P47", "template": "[X] border with [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 106}
+{"relation": "P47", "template": "[Y] to the south , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 91}
+{"relation": "P47", "template": "[X] to the north and [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 89}
+{"relation": "P47", "template": "[X] to the west and [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 89}
+{"relation": "P47", "template": "[Y] to the north and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 88}
+{"relation": "P47", "template": "[Y] to the west and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 88}
+{"relation": "P47", "template": "[X] is bordered by [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 86}
+{"relation": "P47", "template": "[Y] is bordered by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 85}
+{"relation": "P47", "template": "[X] to the south , [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 85}
+{"relation": "P47", "template": "[X] borders [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 83}
+{"relation": "P47", "template": "[Y] and possibly [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 83}
+{"relation": "P47", "template": "[Y] borders [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 82}
+{"relation": "P47", "template": "[X] and possibly [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 82}
+{"relation": "P47", "template": "[Y] and northwest [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 79}
+{"relation": "P47", "template": "[X] and northwest [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 78}
+{"relation": "P47", "template": "[X] and adjacent [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 78}
+{"relation": "P47", "template": "[Y] and adjacent [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 78}

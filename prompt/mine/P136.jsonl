@@ -1,0 +1,51 @@
+{"relation": "P136", "template": "[X] plays [Y] music .", "label": "genre", "description": "creative work's genre or an artist's field of work (P101). Use main subject (P921) to relate creative works to their topic", "type": "N-1"}
+{"relation": "P136", "template": "[Y] artist [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 3151}
+{"relation": "P136", "template": "[Y] singer [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 2203}
+{"relation": "P136", "template": "[Y] rock band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 2020}
+{"relation": "P136", "template": "[Y] band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1530}
+{"relation": "P136", "template": "[Y] group [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1114}
+{"relation": "P136", "template": "[Y] metal band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 961}
+{"relation": "P136", "template": "[Y] duo [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 609}
+{"relation": "P136", "template": "[Y] series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 591}
+{"relation": "P136", "template": "[Y] television series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 571}
+{"relation": "P136", "template": "[Y] legend [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 460}
+{"relation": "P136", "template": "[Y] musician [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 378}
+{"relation": "P136", "template": "[Y] like [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 374}
+{"relation": "P136", "template": "[Y] singer - songwriter [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 356}
+{"relation": "P136", "template": "[Y] star [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 325}
+{"relation": "P136", "template": "[Y] rock group [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 308}
+{"relation": "P136", "template": "[Y] artists such as [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 294}
+{"relation": "P136", "template": "[Y] bands such as [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 293}
+{"relation": "P136", "template": "[Y] artists [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 280}
+{"relation": "P136", "template": "[X] is an american [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 278}
+{"relation": "P136", "template": "[Y] written by [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 203}
+{"relation": "P136", "template": "[Y] bands [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 197}
+{"relation": "P136", "template": "[Y] musicians [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 191}
+{"relation": "P136", "template": "[Y] horror television series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 189}
+{"relation": "P136", "template": "[Y] including [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 180}
+{"relation": "P136", "template": "[Y] acts such as [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 169}
+{"relation": "P136", "template": "[X] favorite [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 167}
+{"relation": "P136", "template": "[Y] album by [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 161}
+{"relation": "P136", "template": "[Y] musicians such as [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 150}
+{"relation": "P136", "template": "[X] series of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 144}
+{"relation": "P136", "template": "[Y] bands like [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 139}
+{"relation": "P136", "template": "[Y] composer [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 137}
+{"relation": "P136", "template": "[Y] composed by [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 137}
+{"relation": "P136", "template": "[Y] pioneer [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 133}
+{"relation": "P136", "template": "[Y] recording artist [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 131}
+{"relation": "P136", "template": "[Y] in three acts by [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 127}
+{"relation": "P136", "template": "[Y] guitarist [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 123}
+{"relation": "P136", "template": "[Y] drama [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 121}
+{"relation": "P136", "template": "[Y] icon [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 115}
+{"relation": "P136", "template": "[Y] singers [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 110}
+{"relation": "P136", "template": "[Y] pioneers [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 104}
+{"relation": "P136", "template": "[Y] trio [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 101}
+{"relation": "P136", "template": "[X] best [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 100}
+{"relation": "P136", "template": "[Y] superstar [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 100}
+{"relation": "P136", "template": "[Y] act [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 96}
+{"relation": "P136", "template": "[Y] legends [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 89}
+{"relation": "P136", "template": "[Y] artists , including [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 85}
+{"relation": "P136", "template": "[Y] drama series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 85}
+{"relation": "P136", "template": "[Y] artists like [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 85}
+{"relation": "P136", "template": "[Y] was composed by [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 84}
+{"relation": "P136", "template": "[Y] tv series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 84}

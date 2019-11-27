@@ -1,0 +1,18 @@
+{"relation": "P127", "template": "[X] is owned by [Y] ."}
+{"relation": "P127", "template": "[X] belongs to [Y].", "bt_log_prob": -0.29943443834781647}
+{"relation": "P127", "template": "[X] is the property of [Y].", "bt_log_prob": -0.42440296709537506}
+{"relation": "P127", "template": "[X] is owned by [Y].", "bt_log_prob": -0.4341026693582535}
+{"relation": "P127", "template": "[X] is property of [Y].", "bt_log_prob": -0.44610826671123505}
+{"relation": "P127", "template": "[X] belongs [Y].", "bt_log_prob": -0.6186162233352661}
+{"relation": "P127", "template": "[X] belongs to [Y]", "bt_log_prob": -0.6753619611263275}
+{"relation": "P127", "template": "[X] is [Y].", "bt_log_prob": -0.6926833093166351}
+{"relation": "P127", "template": "[X] belong to [Y].", "bt_log_prob": -0.6993231475353241}
+{"relation": "P127", "template": "[X] is held by [Y].", "bt_log_prob": -0.7094496488571167}
+{"relation": "P127", "template": "[X] is part of [Y].", "bt_log_prob": -0.7120486199855804}
+{"relation": "P127", "template": "[X] is a property of [Y].", "bt_log_prob": -0.7175538837909698}
+{"relation": "P127", "template": "[X] is the property of [Y]", "bt_log_prob": -0.756218820810318}
+{"relation": "P127", "template": "[X] is owned by [Y]", "bt_log_prob": -0.8009243607521057}
+{"relation": "P127", "template": "[X] is property of [Y]", "bt_log_prob": -0.8127739131450653}
+{"relation": "P127", "template": "[X] is one of [Y].", "bt_log_prob": -1.0335924625396729}
+{"relation": "P127", "template": "[X] are property of [Y]", "bt_log_prob": -1.4134132266044617}
+{"relation": "P127", "template": "[X] property of [Y]", "bt_log_prob": -1.4687682390213013}

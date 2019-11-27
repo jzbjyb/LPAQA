@@ -1,0 +1,51 @@
+{"relation": "P279", "template": "[X] is a subclass of [Y] .", "label": "subclass of", "description": "all instances of these items are instances of those items; this item is a class (subset) of that item. Not to be confused with P31 (instance of)", "type": "N-1"}
+{"relation": "P279", "template": "[X] the following [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1588}
+{"relation": "P279", "template": "[Y] like [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1192}
+{"relation": "P279", "template": "[Y] including [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1176}
+{"relation": "P279", "template": "[Y] include [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 775}
+{"relation": "P279", "template": "[X] high [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 519}
+{"relation": "P279", "template": "[Y] called [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 409}
+{"relation": "P279", "template": "[Y] known as [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 219}
+{"relation": "P279", "template": "[Y] including the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 217}
+{"relation": "P279", "template": "[X] is a type of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 185}
+{"relation": "P279", "template": "[X] form of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 185}
+{"relation": "P279", "template": "[Y] like the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 168}
+{"relation": "P279", "template": "[X] and national [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 166}
+{"relation": "P279", "template": "[Y] to five years [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 161}
+{"relation": "P279", "template": "[X] and related [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 156}
+{"relation": "P279", "template": "[Y] include the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 148}
+{"relation": "P279", "template": "[X] sect of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 140}
+{"relation": "P279", "template": "[Y] and / or [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 128}
+{"relation": "P279", "template": "[X] births per 1,000 live [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 127}
+{"relation": "P279", "template": "[Y] included [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 124}
+{"relation": "P279", "template": "[X] and commercial [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 124}
+{"relation": "P279", "template": "[X] united states [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 122}
+{"relation": "P279", "template": "[Y] to five years ' [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 122}
+{"relation": "P279", "template": "[X] and small [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 113}
+{"relation": "P279", "template": "[Y] in the form of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 109}
+{"relation": "P279", "template": "[Y] to ten years [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 103}
+{"relation": "P279", "template": "[X] soviet union [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 99}
+{"relation": "P279", "template": "[Y] 5 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 99}
+{"relation": "P279", "template": "[Y] similar to [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 95}
+{"relation": "P279", "template": "[X] is a form of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 94}
+{"relation": "P279", "template": "[X] and / or [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 93}
+{"relation": "P279", "template": "[X] based [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 92}
+{"relation": "P279", "template": "[Y] ranging from [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 89}
+{"relation": "P279", "template": "[Y] called the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 87}
+{"relation": "P279", "template": "[X] middle [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 85}
+{"relation": "P279", "template": "[Y] instead of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 84}
+{"relation": "P279", "template": "[X] 3 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 82}
+{"relation": "P279", "template": "[Y] include a [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 78}
+{"relation": "P279", "template": "[Y] to ten years ' [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 72}
+{"relation": "P279", "template": "[Y] approved a [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 72}
+{"relation": "P279", "template": "[X] as a separate [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 70}
+{"relation": "P279", "template": "[Y] are : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 66}
+{"relation": "P279", "template": "[X] and similar [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 65}
+{"relation": "P279", "template": "[X] branch of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 65}
+{"relation": "P279", "template": "[X] and senior [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 64}
+{"relation": "P279", "template": "[Y] known as the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 64}
+{"relation": "P279", "template": "[Y] are called [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 61}
+{"relation": "P279", "template": "[X] and associated [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 60}
+{"relation": "P279", "template": "[X] stuka [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 60}
+{"relation": "P279", "template": "[X] is the main [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 59}
+{"relation": "P279", "template": "[Y] of 0 - [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 59}

@@ -1,0 +1,20 @@
+{"relation": "P178", "template": "[X] is developed by [Y] ."}
+{"relation": "P178", "template": "[X] is developed by [Y].", "bt_log_prob": -0.2924048900604248}
+{"relation": "P178", "template": "[X] was developed by [Y].", "bt_log_prob": -0.40140603482723236}
+{"relation": "P178", "template": "[X] is a development of [Y].", "bt_log_prob": -0.5682801604270935}
+{"relation": "P178", "template": "[X] is developed by [Y]", "bt_log_prob": -0.5957274734973907}
+{"relation": "P178", "template": "[X] is created by [Y].", "bt_log_prob": -0.6391295790672302}
+{"relation": "P178", "template": "[X] developed by [Y].", "bt_log_prob": -0.6528235375881195}
+{"relation": "P178", "template": "[X] is an evolution of [Y].", "bt_log_prob": -0.6530794203281403}
+{"relation": "P178", "template": "[X] is designed by [Y].", "bt_log_prob": -0.6578033864498138}
+{"relation": "P178", "template": "[X] was created by [Y].", "bt_log_prob": -0.6593458950519562}
+{"relation": "P178", "template": "[X] was designed by [Y].", "bt_log_prob": -0.7013656497001648}
+{"relation": "P178", "template": "[X] was developed by [Y]", "bt_log_prob": -0.7282096743583679}
+{"relation": "P178", "template": "[X] is developed from [Y].", "bt_log_prob": -0.729101836681366}
+{"relation": "P178", "template": "[X] is the development of [Y].", "bt_log_prob": -0.7874553501605988}
+{"relation": "P178", "template": "[X] has been developed by [Y]", "bt_log_prob": -0.8319261074066162}
+{"relation": "P178", "template": "[X] is a [Y] development.", "bt_log_prob": -0.9491373002529144}
+{"relation": "P178", "template": "[X] is developed through [Y].", "bt_log_prob": -0.9507783353328705}
+{"relation": "P178", "template": "[X] is an evolution of [Y]", "bt_log_prob": -1.0393657386302948}
+{"relation": "P178", "template": "[X] is being developed by [Y]", "bt_log_prob": -1.0558330714702606}
+{"relation": "P178", "template": "[X] is the evolution of [Y]", "bt_log_prob": -1.2020178139209747}

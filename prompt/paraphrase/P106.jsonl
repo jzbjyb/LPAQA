@@ -1,0 +1,27 @@
+{"relation": "P106", "template": "[X] is a [Y] by profession ."}
+{"relation": "P106", "template": "[X] is a [Y] by profession.", "bt_log_prob": -0.46288856863975525}
+{"relation": "P106", "template": "[X] is [Y] by profession.", "bt_log_prob": -0.517681360244751}
+{"relation": "P106", "template": "[X] is by profession [Y].", "bt_log_prob": -0.5275440216064453}
+{"relation": "P106", "template": "[X] is a [Y] by trade.", "bt_log_prob": -0.5942374169826508}
+{"relation": "P106", "template": "[X] is a [Y].", "bt_log_prob": -0.5968063771724701}
+{"relation": "P106", "template": "[X] is a [Y] profession.", "bt_log_prob": -0.6291221082210541}
+{"relation": "P106", "template": "[X] is a [Y] by occupation.", "bt_log_prob": -0.6726656854152679}
+{"relation": "P106", "template": "[X] is an [Y] by profession.", "bt_log_prob": -0.6795717775821686}
+{"relation": "P106", "template": "[X] is a profession [Y].", "bt_log_prob": -0.7268500328063965}
+{"relation": "P106", "template": "[X] is [Y].", "bt_log_prob": -0.7397995591163635}
+{"relation": "P106", "template": "[X] is a [Y] occupation.", "bt_log_prob": -0.7537520825862885}
+{"relation": "P106", "template": "[X] is by trade [Y].", "bt_log_prob": -0.7664729058742523}
+{"relation": "P106", "template": "[X] is [Y] by trade.", "bt_log_prob": -0.7764936089515686}
+{"relation": "P106", "template": "[X] is profession [Y].", "bt_log_prob": -0.8099742829799652}
+{"relation": "P106", "template": "[X] is an occupation [Y].", "bt_log_prob": -0.825267881155014}
+{"relation": "P106", "template": "[X] is by profession a [Y]", "bt_log_prob": -0.8687321543693542}
+{"relation": "P106", "template": "[X] is a professional [Y].", "bt_log_prob": -0.8913868963718414}
+{"relation": "P106", "template": "[X] is professionally [Y].", "bt_log_prob": -0.901375412940979}
+{"relation": "P106", "template": "[X] is professional [Y].", "bt_log_prob": -0.9361797571182251}
+{"relation": "P106", "template": "[X] is by profession [Y]", "bt_log_prob": -0.9456097185611725}
+{"relation": "P106", "template": "[X] is a [Y] by profession", "bt_log_prob": -1.1514225602149963}
+{"relation": "P106", "template": "[X] is a [Y]", "bt_log_prob": -1.1535694897174835}
+{"relation": "P106", "template": "[X] is professionally a [Y]", "bt_log_prob": -1.1614947617053986}
+{"relation": "P106", "template": "[X] is a by profession [Y]", "bt_log_prob": -1.241426169872284}
+{"relation": "P106", "template": "[X] is [Y] by profession", "bt_log_prob": -1.285262405872345}
+{"relation": "P106", "template": "[X] is an [Y]", "bt_log_prob": -1.3145689964294434}

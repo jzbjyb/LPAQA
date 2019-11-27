@@ -1,0 +1,16 @@
+{"relation": "P264", "template": "[X] is represented by music label [Y] ."}
+{"relation": "P264", "template": "[X] is represented by the music label [Y].", "bt_log_prob": -0.41966404020786285}
+{"relation": "P264", "template": "[X] is represented by the record label [Y].", "bt_log_prob": -0.5297675132751465}
+{"relation": "P264", "template": "[X] is represented by the [Y] music label.", "bt_log_prob": -0.5340434312820435}
+{"relation": "P264", "template": "[X] is represented by the label [Y].", "bt_log_prob": -0.605191171169281}
+{"relation": "P264", "template": "[X] is represented by [Y].", "bt_log_prob": -0.6120794415473938}
+{"relation": "P264", "template": "[X] is represented by music label [Y].", "bt_log_prob": -0.6336275339126587}
+{"relation": "P264", "template": "[X] is represented by the [Y] label.", "bt_log_prob": -0.6358481347560883}
+{"relation": "P264", "template": "[X] is represented by the [Y] record label.", "bt_log_prob": -0.7401348948478699}
+{"relation": "P264", "template": "[X] is represented by the music label [Y]", "bt_log_prob": -0.9019196182489395}
+{"relation": "P264", "template": "[X] is represented by the record label [Y]", "bt_log_prob": -1.0055135190486908}
+{"relation": "P264", "template": "[X] represented by the music label [Y]", "bt_log_prob": -1.0497041046619415}
+{"relation": "P264", "template": "[X] is represented by the [Y] music label", "bt_log_prob": -1.072918713092804}
+{"relation": "P264", "template": "[X] is represented by the label [Y]", "bt_log_prob": -1.0877123475074768}
+{"relation": "P264", "template": "[X] is represented by music label [Y]", "bt_log_prob": -1.1000284254550934}
+{"relation": "P264", "template": "[X] is represented by [Y]", "bt_log_prob": -1.1879619657993317}

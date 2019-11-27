@@ -1,0 +1,29 @@
+{"relation": "P279", "template": "[X] is a subclass of [Y] ."}
+{"relation": "P279", "template": "[X] is a subclass of [Y].", "bt_log_prob": -0.2339090257883072}
+{"relation": "P279", "template": "[X] is the subclass of [Y].", "bt_log_prob": -0.486686646938324}
+{"relation": "P279", "template": "[X] is a sub class of [Y].", "bt_log_prob": -0.528239943087101}
+{"relation": "P279", "template": "[X] is a subset of [Y].", "bt_log_prob": -0.5775093734264374}
+{"relation": "P279", "template": "[X] is a subclass of [Y]", "bt_log_prob": -0.6115090325474739}
+{"relation": "P279", "template": "[X] is a subclass to [Y].", "bt_log_prob": -0.632941760122776}
+{"relation": "P279", "template": "[X] is a subgroup of [Y].", "bt_log_prob": -0.6343915835022926}
+{"relation": "P279", "template": "[X] is a sublayer of [Y].", "bt_log_prob": -0.6366271525621414}
+{"relation": "P279", "template": "[X] is a subclass of the [Y].", "bt_log_prob": -0.6470297127962112}
+{"relation": "P279", "template": "[X] is a sub-class of [Y].", "bt_log_prob": -0.7237683534622192}
+{"relation": "P279", "template": "[X] is a substrate of [Y].", "bt_log_prob": -0.7427626848220825}
+{"relation": "P279", "template": "[X] is the underclass of [Y].", "bt_log_prob": -0.8006622493267059}
+{"relation": "P279", "template": "[X] is the sub class of [Y].", "bt_log_prob": -0.8015565574169159}
+{"relation": "P279", "template": "[X] is a sub-group of [Y].", "bt_log_prob": -0.8118568062782288}
+{"relation": "P279", "template": "[X] is subclass of [Y].", "bt_log_prob": -0.8140508830547333}
+{"relation": "P279", "template": "[X] is a base layer of [Y].", "bt_log_prob": -0.81879523396492}
+{"relation": "P279", "template": "[X] is a lower layer of [Y].", "bt_log_prob": -0.8247201144695282}
+{"relation": "P279", "template": "[X] is the subclass [Y].", "bt_log_prob": -0.8365781009197235}
+{"relation": "P279", "template": "[X] is an underlayer of [Y].", "bt_log_prob": -0.8515636324882507}
+{"relation": "P279", "template": "[X] is a layer of [Y].", "bt_log_prob": -0.889342188835144}
+{"relation": "P279", "template": "[X] is a sub group of [Y].", "bt_log_prob": -0.9083401262760162}
+{"relation": "P279", "template": "[X] is subset of [Y].", "bt_log_prob": -0.9403508305549622}
+{"relation": "P279", "template": "[X] is an underclass of [Y].", "bt_log_prob": -0.9999141097068787}
+{"relation": "P279", "template": "[X] is a subclass [Y].", "bt_log_prob": -1.0343060493469238}
+{"relation": "P279", "template": "[X] is the sub-class of [Y]", "bt_log_prob": -1.0480258166790009}
+{"relation": "P279", "template": "[X] is a substrate of [Y]", "bt_log_prob": -1.0892389714717865}
+{"relation": "P279", "template": "[X] is a subclass of the [Y]", "bt_log_prob": -1.0955073237419128}
+{"relation": "P279", "template": "[X] is a sub-set of [Y]", "bt_log_prob": -1.1580831408500671}

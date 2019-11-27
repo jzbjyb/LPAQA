@@ -1,0 +1,16 @@
+{"relation": "P1001", "template": "[X] is a legal term in [Y] ."}
+{"relation": "P1001", "template": "[X] is a legal term in [Y].", "bt_log_prob": -0.40294188261032104}
+{"relation": "P1001", "template": "[X] is a legal expression in [Y].", "bt_log_prob": -0.49314530193805695}
+{"relation": "P1001", "template": "[X] is a legal term used in [Y].", "bt_log_prob": -0.6008350849151611}
+{"relation": "P1001", "template": "[X] is a legal concept in [Y].", "bt_log_prob": -0.6418472826480865}
+{"relation": "P1001", "template": "[X] is a legal term for [Y].", "bt_log_prob": -0.6667976379394531}
+{"relation": "P1001", "template": "[X] is a legal term given in [Y].", "bt_log_prob": -0.6694174706935883}
+{"relation": "P1001", "template": "[X] is the legal term in [Y].", "bt_log_prob": -0.6719431281089783}
+{"relation": "P1001", "template": "[X] is a legal word in [Y].", "bt_log_prob": -0.6990225315093994}
+{"relation": "P1001", "template": "[X] is a legal term found in [Y].", "bt_log_prob": -0.7141034305095673}
+{"relation": "P1001", "template": "[X] is the legal expression in [Y].", "bt_log_prob": -0.7308321893215179}
+{"relation": "P1001", "template": "[X] is a legal expression of [Y].", "bt_log_prob": -0.745318740606308}
+{"relation": "P1001", "template": "[X] is a legal expression for [Y].", "bt_log_prob": -0.7938028275966644}
+{"relation": "P1001", "template": "[X] is an expression in [Y].", "bt_log_prob": -0.8534905910491943}
+{"relation": "P1001", "template": "[X] is a legal expression in [Y]", "bt_log_prob": -0.8642139136791229}
+{"relation": "P1001", "template": "[X] is legal expression in [Y].", "bt_log_prob": -0.8748254477977753}

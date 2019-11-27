@@ -1,0 +1,51 @@
+{"relation": "P101", "template": "[X] works in the field of [Y] .", "label": "field of work", "description": "specialization of a person or organization; see P106 for the occupation", "type": "N-M"}
+{"relation": "P101", "template": "[Y] commissioner [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 191}
+{"relation": "P101", "template": "[Y] like [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 98}
+{"relation": "P101", "template": "[Y] drama film directed by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 62}
+{"relation": "P101", "template": "[Y] short drama film directed by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 51}
+{"relation": "P101", "template": "[Y] series by belgian cartoonist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 49}
+{"relation": "P101", "template": "[X] studied [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 42}
+{"relation": "P101", "template": "[Y] pioneer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 40}
+{"relation": "P101", "template": "[Y] organization [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 39}
+{"relation": "P101", "template": "[Y] professor [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 38}
+{"relation": "P101", "template": "[Y] including [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 38}
+{"relation": "P101", "template": "[X] professor of [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 38}
+{"relation": "P101", "template": "[Y] written by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 30}
+{"relation": "P101", "template": "[Y] is accredited by the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 30}
+{"relation": "P101", "template": "[Y] developed by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 29}
+{"relation": "P101", "template": "[Y] writings of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 27}
+{"relation": "P101", "template": "[Y] revelation [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 24}
+{"relation": "P101", "template": "[Y] theorist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 23}
+{"relation": "P101", "template": "[Y] leader [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 23}
+{"relation": "P101", "template": "[Y] works of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 23}
+{"relation": "P101", "template": "[Y] by the italian renaissance artist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 23}
+{"relation": "P101", "template": "[Y] led by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 22}
+{"relation": "P101", "template": "[X] began [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 22}
+{"relation": "P101", "template": "[Y] by the italian renaissance master [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 21}
+{"relation": "P101", "template": "[Y] anthology [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 20}
+{"relation": "P101", "template": "[Y] alive [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 20}
+{"relation": "P101", "template": "[Y] work of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
+{"relation": "P101", "template": "[Y] by the italian artist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
+{"relation": "P101", "template": "[Y] by the flemish artist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
+{"relation": "P101", "template": "[Y] produced by the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
+{"relation": "P101", "template": "[Y] by french artist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
+{"relation": "P101", "template": "[Y] by the italian renaissance painter [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
+{"relation": "P101", "template": "[X] argued that [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 16}
+{"relation": "P101", "template": "[X] choice [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 16}
+{"relation": "P101", "template": "[Y] short comedy film directed by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 16}
+{"relation": "P101", "template": "[Y] ideas of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 16}
+{"relation": "P101", "template": "[Y] scholar [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 14}
+{"relation": "P101", "template": "[X] as the top amateur [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 14}
+{"relation": "P101", "template": "[Y] gene siskel and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 14}
+{"relation": "P101", "template": "[Y] groups such as [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 14}
+{"relation": "P101", "template": "[X] chair of [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 14}
+{"relation": "P101", "template": "[Y] philip sclater and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 14}
+{"relation": "P101", "template": "[X] b 221 : [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 14}
+{"relation": "P101", "template": "[X] taught [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 13}
+{"relation": "P101", "template": "[Y] joseph banks and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 13}
+{"relation": "P101", "template": "[Y] from ohm to [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 13}
+{"relation": "P101", "template": "[X] wrote an [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 12}
+{"relation": "P101", "template": "[Y] researcher [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 12}
+{"relation": "P101", "template": "[Y] include [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 12}
+{"relation": "P101", "template": "[X] begins [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 12}
+{"relation": "P101", "template": "[Y] critic [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 12}

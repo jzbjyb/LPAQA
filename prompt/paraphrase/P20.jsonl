@@ -1,0 +1,20 @@
+{"relation": "P20", "template": "[X] died in [Y] ."}
+{"relation": "P20", "template": "[X] died in [Y].", "bt_log_prob": -0.28683100640773773}
+{"relation": "P20", "template": "[X] died [Y].", "bt_log_prob": -0.47284719347953796}
+{"relation": "P20", "template": "[X] died in the year [Y].", "bt_log_prob": -0.5767461359500885}
+{"relation": "P20", "template": "[X] died in the [Y].", "bt_log_prob": -0.6444511115550995}
+{"relation": "P20", "template": "[X] died at [Y].", "bt_log_prob": -0.6495722383260727}
+{"relation": "P20", "template": "[X] died the year [Y].", "bt_log_prob": -0.690765917301178}
+{"relation": "P20", "template": "[X] has died in [Y].", "bt_log_prob": -0.6934103071689606}
+{"relation": "P20", "template": "[X] died in year [Y].", "bt_log_prob": -0.7429620027542114}
+{"relation": "P20", "template": "[X] passed away in [Y].", "bt_log_prob": -0.7477680295705795}
+{"relation": "P20", "template": "[X] died in [Y]", "bt_log_prob": -0.7818962782621384}
+{"relation": "P20", "template": "[X] died on [Y].", "bt_log_prob": -0.8018122762441635}
+{"relation": "P20", "template": "[X] died in [Y] year.", "bt_log_prob": -0.8104676604270935}
+{"relation": "P20", "template": "[X] died at the [Y].", "bt_log_prob": -0.8282630741596222}
+{"relation": "P20", "template": "[X] died inside [Y].", "bt_log_prob": -0.8696203529834747}
+{"relation": "P20", "template": "[X] [Y] died.", "bt_log_prob": -0.8791850209236145}
+{"relation": "P20", "template": "[X] died that year [Y].", "bt_log_prob": -0.9087682366371155}
+{"relation": "P20", "template": "[X] died in the year [Y]", "bt_log_prob": -0.9702731370925903}
+{"relation": "P20", "template": "[X] died [Y]", "bt_log_prob": -1.010460615158081}
+{"relation": "P20", "template": "[X] died. [Y]", "bt_log_prob": -1.015384316444397}

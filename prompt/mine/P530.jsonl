@@ -1,0 +1,51 @@
+{"relation": "P530", "template": "[X] maintains diplomatic relations with [Y] .", "label": "diplomatic relation", "description": "diplomatic relations of the country", "type": "N-M"}
+{"relation": "P530", "template": "[X] france [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1503}
+{"relation": "P530", "template": "[Y] france [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1500}
+{"relation": "P530", "template": "[Y] germany [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1316}
+{"relation": "P530", "template": "[X] germany [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1313}
+{"relation": "P530", "template": "[Y] embassy in [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1237}
+{"relation": "P530", "template": "[X] embassy in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1237}
+{"relation": "P530", "template": "[X] italy [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1183}
+{"relation": "P530", "template": "[Y] italy [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1182}
+{"relation": "P530", "template": "[X] invaded [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 947}
+{"relation": "P530", "template": "[Y] invaded [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 947}
+{"relation": "P530", "template": "[Y] switzerland [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 891}
+{"relation": "P530", "template": "[X] switzerland [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 891}
+{"relation": "P530", "template": "[X] united states [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 871}
+{"relation": "P530", "template": "[Y] united states [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 869}
+{"relation": "P530", "template": "[X] declared war on [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 848}
+{"relation": "P530", "template": "[Y] declared war on [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 847}
+{"relation": "P530", "template": "[Y] ireland [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 682}
+{"relation": "P530", "template": "[X] ireland [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 680}
+{"relation": "P530", "template": "[X] hungary [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 579}
+{"relation": "P530", "template": "[Y] hungary [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 579}
+{"relation": "P530", "template": "[Y] v [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 554}
+{"relation": "P530", "template": "[X] chile [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 544}
+{"relation": "P530", "template": "[Y] chile [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 543}
+{"relation": "P530", "template": "[Y] portugal [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 539}
+{"relation": "P530", "template": "[X] portugal [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 539}
+{"relation": "P530", "template": "[X] sweden [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 536}
+{"relation": "P530", "template": "[Y] sweden [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 536}
+{"relation": "P530", "template": "[X] greece [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 466}
+{"relation": "P530", "template": "[Y] greece [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 465}
+{"relation": "P530", "template": "[Y] norway [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 437}
+{"relation": "P530", "template": "[X] norway [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 437}
+{"relation": "P530", "template": "[Y] slovakia [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 434}
+{"relation": "P530", "template": "[X] slovakia [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 434}
+{"relation": "P530", "template": "[X] is represented in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 406}
+{"relation": "P530", "template": "[Y] is represented in [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 406}
+{"relation": "P530", "template": "[Y] father and a [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 381}
+{"relation": "P530", "template": "[X] father and a [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 381}
+{"relation": "P530", "template": "[Y] exports to [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 377}
+{"relation": "P530", "template": "[X] exports to [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 377}
+{"relation": "P530", "template": "[X] france germany [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 366}
+{"relation": "P530", "template": "[Y] france germany [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 366}
+{"relation": "P530", "template": "[X] croatia [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 357}
+{"relation": "P530", "template": "[Y] finland france [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 352}
+{"relation": "P530", "template": "[X] finland france [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 352}
+{"relation": "P530", "template": "[Y] croatia [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 351}
+{"relation": "P530", "template": "[X] is accredited to [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 337}
+{"relation": "P530", "template": "[Y] is accredited to [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 336}
+{"relation": "P530", "template": "[Y] recognized [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 324}
+{"relation": "P530", "template": "[X] recognized [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 324}
+{"relation": "P530", "template": "[X] iran [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 320}

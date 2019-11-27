@@ -1,0 +1,15 @@
+{"relation": "P159", "template": "The headquarter of [X] is in [Y] ."}
+{"relation": "P159", "template": "The headquarters of [X] are located in [Y].", "bt_log_prob": -0.5302434414625168}
+{"relation": "P159", "template": "The headquarters of [X] is located in [Y].", "bt_log_prob": -0.5378483980894089}
+{"relation": "P159", "template": "[X] is headquartered in [Y].", "bt_log_prob": -0.5451294034719467}
+{"relation": "P159", "template": "The head office of [X] is in [Y].", "bt_log_prob": -0.5544384270906448}
+{"relation": "P159", "template": "The headquarters of [X] is in [Y].", "bt_log_prob": -0.576449915766716}
+{"relation": "P159", "template": "The headquarters of [X] are in [Y].", "bt_log_prob": -0.5816134065389633}
+{"relation": "P159", "template": "The headquarter of [X] is in [Y].", "bt_log_prob": -0.6514928340911865}
+{"relation": "P159", "template": "[X] has its headquarters in [Y].", "bt_log_prob": -0.737984836101532}
+{"relation": "P159", "template": "[X] headquarters are located in [Y].", "bt_log_prob": -0.7572202086448669}
+{"relation": "P159", "template": "[X] is located in [Y].", "bt_log_prob": -0.763793408870697}
+{"relation": "P159", "template": "The head office of [X] is located in [Y]", "bt_log_prob": -0.8241495341062546}
+{"relation": "P159", "template": "The headquarters of [X] is located in [Y]", "bt_log_prob": -0.9002526104450226}
+{"relation": "P159", "template": "The headquarters of [X] are located in [Y]", "bt_log_prob": -0.9134354889392853}
+{"relation": "P159", "template": "The headquarters of [X] is in [Y]", "bt_log_prob": -1.023465484380722}

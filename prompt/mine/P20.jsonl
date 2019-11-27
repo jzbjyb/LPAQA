@@ -1,0 +1,51 @@
+{"relation": "P20", "template": "[X] died in [Y] .", "label": "place of death", "description": "most specific known (e.g. city instead of country, or hospital instead of city) death location of a person, animal or fictional character", "type": "N-1"}
+{"relation": "P20", "template": "[X] died in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1322}
+{"relation": "P20", "template": "[X] was born in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 618}
+{"relation": "P20", "template": "[X] returned to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 599}
+{"relation": "P20", "template": "[X] moved to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 414}
+{"relation": "P20", "template": "[Y] architect [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 343}
+{"relation": "P20", "template": "[X] died at [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 190}
+{"relation": "P20", "template": "[X] arrived in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 158}
+{"relation": "P20", "template": "[X] left [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 118}
+{"relation": "P20", "template": "[X] lived in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 113}
+{"relation": "P20", "template": "[X] went to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 99}
+{"relation": "P20", "template": "[X] was assassinated in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 86}
+{"relation": "P20", "template": "[X] dies in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 79}
+{"relation": "P20", "template": "[X] died at his home in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 75}
+{"relation": "P20", "template": "[X] came to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 72}
+{"relation": "P20", "template": "[X] entered [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 70}
+{"relation": "P20", "template": "[X] left for [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 55}
+{"relation": "P20", "template": "[X] remained in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 55}
+{"relation": "P20", "template": "[Y] historian [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 50}
+{"relation": "P20", "template": "[Y] during the reign of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
+{"relation": "P20", "template": "[X] settled in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
+{"relation": "P20", "template": "[Y] mayor [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
+{"relation": "P20", "template": "[X] returns to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 48}
+{"relation": "P20", "template": "[X] at sterling sound , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 48}
+{"relation": "P20", "template": "[Y] to study with [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 47}
+{"relation": "P20", "template": "[Y] sultan [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 44}
+{"relation": "P20", "template": "[Y] to meet [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 41}
+{"relation": "P20", "template": "[X] dies at [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 38}
+{"relation": "P20", "template": "[Y] district attorney [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 37}
+{"relation": "P20", "template": "[X] retired to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 35}
+{"relation": "P20", "template": "[X] traveled to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 33}
+{"relation": "P20", "template": "[X] arrives in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 32}
+{"relation": "P20", "template": "[Y] artist [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 32}
+{"relation": "P20", "template": "[X] was recalled to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 31}
+{"relation": "P20", "template": "[X] near [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 29}
+{"relation": "P20", "template": "[X] captured [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 28}
+{"relation": "P20", "template": "[Y] poet [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 28}
+{"relation": "P20", "template": "[X] relocated to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 28}
+{"relation": "P20", "template": "[Y] manager [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 28}
+{"relation": "P20", "template": "[X] reached [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 27}
+{"relation": "P20", "template": "[X] travelled to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 27}
+{"relation": "P20", "template": "[X] was killed in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 26}
+{"relation": "P20", "template": "[Y] son of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 26}
+{"relation": "P20", "template": "[X] at zimmerwald observatory near [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 26}
+{"relation": "P20", "template": "[Y] to meet with [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 26}
+{"relation": "P20", "template": "[X] fled to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 25}
+{"relation": "P20", "template": "[Y] politician [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
+{"relation": "P20", "template": "[X] is assassinated in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
+{"relation": "P20", "template": "[Y] to study under [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
+{"relation": "P20", "template": "[X] moved back to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
+{"relation": "P20", "template": "[X] was born at [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 23}

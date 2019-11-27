@@ -1,0 +1,27 @@
+{"relation": "P495", "template": "[X] was created in [Y] ."}
+{"relation": "P495", "template": "[X] was created in [Y].", "bt_log_prob": -0.45269638299942017}
+{"relation": "P495", "template": "[X] was founded in [Y].", "bt_log_prob": -0.604512482881546}
+{"relation": "P495", "template": "[X] is created in [Y].", "bt_log_prob": -0.6504645049571991}
+{"relation": "P495", "template": "[X] originated in [Y].", "bt_log_prob": -0.6787513792514801}
+{"relation": "P495", "template": "[X] was made in [Y].", "bt_log_prob": -0.748674601316452}
+{"relation": "P495", "template": "[X] was established in [Y].", "bt_log_prob": -0.7517865002155304}
+{"relation": "P495", "template": "[X] was created in [Y] year.", "bt_log_prob": -0.7579306960105896}
+{"relation": "P495", "template": "[X] arose in [Y].", "bt_log_prob": -0.7738302052021027}
+{"relation": "P495", "template": "[X] was created in [Y]", "bt_log_prob": -0.7808467447757721}
+{"relation": "P495", "template": "[X] was formed in [Y].", "bt_log_prob": -0.7812887728214264}
+{"relation": "P495", "template": "[X] was created in year [Y].", "bt_log_prob": -0.7859309315681458}
+{"relation": "P495", "template": "[X] was created by [Y].", "bt_log_prob": -0.786811351776123}
+{"relation": "P495", "template": "[X] was written in [Y].", "bt_log_prob": -0.7893072962760925}
+{"relation": "P495", "template": "[X] was generated in [Y].", "bt_log_prob": -0.8186383843421936}
+{"relation": "P495", "template": "[X] is in [Y].", "bt_log_prob": -0.8293672502040863}
+{"relation": "P495", "template": "[X] was added in [Y].", "bt_log_prob": -0.8594416379928589}
+{"relation": "P495", "template": "[X] was set up in [Y].", "bt_log_prob": -0.8720228970050812}
+{"relation": "P495", "template": "[X] has been created in [Y]", "bt_log_prob": -0.9071245193481445}
+{"relation": "P495", "template": "[X] is generated in [Y].", "bt_log_prob": -0.9138427972793579}
+{"relation": "P495", "template": "[X] is made in [Y].", "bt_log_prob": -0.9158709049224854}
+{"relation": "P495", "template": "[X] was created in the year [Y]", "bt_log_prob": -0.9208604693412781}
+{"relation": "P495", "template": "[X] was born in [Y].", "bt_log_prob": -0.9412620961666107}
+{"relation": "P495", "template": "[X] was created with [Y].", "bt_log_prob": -0.9415770471096039}
+{"relation": "P495", "template": "[X] was founded in [Y]", "bt_log_prob": -0.9429719746112823}
+{"relation": "P495", "template": "[X] was established in the year [Y]", "bt_log_prob": -1.169974684715271}
+{"relation": "P495", "template": "[X] came into being in [Y]", "bt_log_prob": -1.240301787853241}

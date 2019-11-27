@@ -1,0 +1,51 @@
+{"relation": "P176", "template": "[X] is produced by [Y] .", "label": "manufacturer", "description": "manufacturer or producer of this product", "type": "N-1"}
+{"relation": "P176", "template": "[Y] introduced the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 175}
+{"relation": "P176", "template": "[Y] 1 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 158}
+{"relation": "P176", "template": "[Y] 1 set 2 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 153}
+{"relation": "P176", "template": "[Y] released the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 128}
+{"relation": "P176", "template": "[X] attributed to the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 126}
+{"relation": "P176", "template": "[Y] sprinter [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 101}
+{"relation": "P176", "template": "[X] rsr [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 100}
+{"relation": "P176", "template": "[Y] honda [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 95}
+{"relation": "P176", "template": "[X] spoken by the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 90}
+{"relation": "P176", "template": "[X] carrera rsr [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 89}
+{"relation": "P176", "template": "[Y] xc [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 78}
+{"relation": "P176", "template": "[Y] swiss racing by sunred [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 78}
+{"relation": "P176", "template": "[Y] announced the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 77}
+{"relation": "P176", "template": "[X] zakspeed [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 77}
+{"relation": "P176", "template": "[Y] launched the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 71}
+{"relation": "P176", "template": "[Y] grand [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 70}
+{"relation": "P176", "template": "[X] set 4 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 61}
+{"relation": "P176", "template": "[X] set 3 set 4 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 61}
+{"relation": "P176", "template": "[X] cedar point [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 58}
+{"relation": "P176", "template": "[X] gt3 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 57}
+{"relation": "P176", "template": "[Y] bae [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 53}
+{"relation": "P176", "template": "[X] 98 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 51}
+{"relation": "P176", "template": "[X] 102 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 50}
+{"relation": "P176", "template": "[X] 109 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 50}
+{"relation": "P176", "template": "[Y] introduces the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
+{"relation": "P176", "template": "[X] 100 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
+{"relation": "P176", "template": "[X] 86 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
+{"relation": "P176", "template": "[X] 113 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
+{"relation": "P176", "template": "[X] ups [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
+{"relation": "P176", "template": "[X] warsteiner [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 47}
+{"relation": "P176", "template": "[Y] releases the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 46}
+{"relation": "P176", "template": "[X] 81 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 46}
+{"relation": "P176", "template": "[X] 107 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 45}
+{"relation": "P176", "template": "[X] 106 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 45}
+{"relation": "P176", "template": "[X] 103 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 45}
+{"relation": "P176", "template": "[Y] announced that the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 45}
+{"relation": "P176", "template": "[Y] fairlady [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 44}
+{"relation": "P176", "template": "[X] 84 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 44}
+{"relation": "P176", "template": "[X] 96 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 44}
+{"relation": "P176", "template": "[X] 101 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 43}
+{"relation": "P176", "template": "[X] 78 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 43}
+{"relation": "P176", "template": "[Y] unveiled the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
+{"relation": "P176", "template": "[X] 99 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
+{"relation": "P176", "template": "[X] team [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
+{"relation": "P176", "template": "[X] 65 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
+{"relation": "P176", "template": "[X] 116 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 40}
+{"relation": "P176", "template": "[X] 115 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 40}
+{"relation": "P176", "template": "[X] 118 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 40}
+{"relation": "P176", "template": "[X] was built by [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 39}
+{"relation": "P176", "template": "[X] 87 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 39}

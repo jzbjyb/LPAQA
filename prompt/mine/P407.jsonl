@@ -1,0 +1,51 @@
+{"relation": "P407", "template": "[X] was written in [Y] .", "label": "language of work or name", "description": "language associated with this creative work (such as books, shows, songs, or websites) or a name (for persons use P103 and P1412)", "type": "N-1"}
+{"relation": "P407", "template": "[X] translated into [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 737}
+{"relation": "P407", "template": "[Y] newspaper [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 322}
+{"relation": "P407", "template": "[Y] inscriptions , abbreviated [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 214}
+{"relation": "P407", "template": "[Y] cricketer . [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 103}
+{"relation": "P407", "template": "[Y] translation in the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 98}
+{"relation": "P407", "template": "[Y] daily [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 97}
+{"relation": "P407", "template": "[X] published in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 96}
+{"relation": "P407", "template": "[Y] poem [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 80}
+{"relation": "P407", "template": "[X] translated to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 69}
+{"relation": "P407", "template": "[Y] magazine [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 62}
+{"relation": "P407", "template": "[Y] newspaper , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 46}
+{"relation": "P407", "template": "[Y] epic [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 43}
+{"relation": "P407", "template": "[X] gettysburg&hl = [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 43}
+{"relation": "P407", "template": "[Y] translation [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 40}
+{"relation": "P407", "template": "[Y] as `` [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 38}
+{"relation": "P407", "template": "[Y] novel [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 37}
+{"relation": "P407", "template": "[Y] version of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 37}
+{"relation": "P407", "template": "[Y] daily newspaper [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 36}
+{"relation": "P407", "template": "[Y] words abd , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 36}
+{"relation": "P407", "template": "[Y] play [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 35}
+{"relation": "P407", "template": "[Y] title : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 34}
+{"relation": "P407", "template": "[Y] epic poem [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 33}
+{"relation": "P407", "template": "[X] highlighted . [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 33}
+{"relation": "P407", "template": "[X] translated in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 32}
+{"relation": "P407", "template": "[Y] word [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 30}
+{"relation": "P407", "template": "[Y] version [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 30}
+{"relation": "P407", "template": "[Y] with parallel english christian [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 30}
+{"relation": "P407", "template": "[Y] title original [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 26}
+{"relation": "P407", "template": "[Y] text [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 22}
+{"relation": "P407", "template": "[Y] translation : `` [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 22}
+{"relation": "P407", "template": "[Y] album , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 21}
+{"relation": "P407", "template": "[Y] daily , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 20}
+{"relation": "P407", "template": "[Y] studio album , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 19}
+{"relation": "P407", "template": "[Y] channel [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 19}
+{"relation": "P407", "template": "[Y] album [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 19}
+{"relation": "P407", "template": "[Y] edition of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 19}
+{"relation": "P407", "template": "[X] in the original [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 19}
+{"relation": "P407", "template": "[Y] translation : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 18}
+{"relation": "P407", "template": "[Y] newspapers [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 18}
+{"relation": "P407", "template": "[Y] weekly [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 17}
+{"relation": "P407", "template": "[Y] translation by [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 17}
+{"relation": "P407", "template": "[Y] version of the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 15}
+{"relation": "P407", "template": "[X] licensed for [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 15}
+{"relation": "P407", "template": "[Y] equivalent is [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 15}
+{"relation": "P407", "template": "[Y] paper [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 15}
+{"relation": "P407", "template": "[X] is a surname of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 15}
+{"relation": "P407", "template": "[X] was written in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 15}
+{"relation": "P407", "template": "[Y] counterparts el sentinel and [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 14}
+{"relation": "P407", "template": "[Y] text of the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 14}
+{"relation": "P407", "template": "[Y] text of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 14}

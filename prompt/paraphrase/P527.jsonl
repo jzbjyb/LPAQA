@@ -1,0 +1,31 @@
+{"relation": "P527", "template": "[X] consists of [Y] ."}
+{"relation": "P527", "template": "[X] consists of [Y].", "bt_log_prob": -0.2762208506464958}
+{"relation": "P527", "template": "[X] is [Y].", "bt_log_prob": -0.397126205265522}
+{"relation": "P527", "template": "[X] is made of [Y].", "bt_log_prob": -0.5296370163559914}
+{"relation": "P527", "template": "[X] contains [Y].", "bt_log_prob": -0.6272025480866432}
+{"relation": "P527", "template": "[X] consist of [Y].", "bt_log_prob": -0.6290306821465492}
+{"relation": "P527", "template": "[X] consists of [Y]", "bt_log_prob": -0.680955208837986}
+{"relation": "P527", "template": "[X] consisting of [Y].", "bt_log_prob": -0.7610292285680771}
+{"relation": "P527", "template": "[X] includes [Y].", "bt_log_prob": -0.8826363831758499}
+{"relation": "P527", "template": "[X] is made of [Y]", "bt_log_prob": -0.9484219923615456}
+{"relation": "P527", "template": "[X] composed of [Y].", "bt_log_prob": -1.0401994287967682}
+{"relation": "P527", "template": "[X] consists of [Y]..", "bt_log_prob": -1.0503444373607635}
+{"relation": "P527", "template": "[X] consists of [Y]:", "bt_log_prob": -1.0587839633226395}
+{"relation": "P527", "template": "[X] spans [Y].", "bt_log_prob": -1.0977815091609955}
+{"relation": "P527", "template": "[X] comprises [Y].", "bt_log_prob": -1.098631352186203}
+{"relation": "P527", "template": "[X] consisting of [Y]", "bt_log_prob": -1.1714973449707031}
+{"relation": "P527", "template": "[X] covers [Y].", "bt_log_prob": -1.1918933391571045}
+{"relation": "P527", "template": "[X] is [Y]..", "bt_log_prob": -1.2386024594306946}
+{"relation": "P527", "template": "[X] contains [Y]", "bt_log_prob": -1.2866180539131165}
+{"relation": "P527", "template": "[X] has [Y].", "bt_log_prob": -1.2870909571647644}
+{"relation": "P527", "template": "[X] is [Y]:", "bt_log_prob": -1.3051877319812775}
+{"relation": "P527", "template": "[X] is made of [Y]..", "bt_log_prob": -1.3052896857261658}
+{"relation": "P527", "template": "[X] contain [Y].", "bt_log_prob": -1.3275753259658813}
+{"relation": "P527", "template": "[X] is [Y]", "bt_log_prob": -1.3505611419677734}
+{"relation": "P527", "template": "[X] is made of [Y]:", "bt_log_prob": -1.3851201236248016}
+{"relation": "P527", "template": "[X] contains [Y]:", "bt_log_prob": -1.388186901807785}
+{"relation": "P527", "template": "[X] consist of [Y]:", "bt_log_prob": -1.3966826498508453}
+{"relation": "P527", "template": "[X] contains [Y]..", "bt_log_prob": -1.423618733882904}
+{"relation": "P527", "template": "[X] means [Y].", "bt_log_prob": -1.4787600636482239}
+{"relation": "P527", "template": "[X] = [Y].", "bt_log_prob": -1.5222347378730774}
+{"relation": "P527", "template": "[X] includes [Y]. \"", "bt_log_prob": -1.803674578666687}

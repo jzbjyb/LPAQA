@@ -1,0 +1,51 @@
+{"relation": "P276", "template": "[X] is located in [Y] .", "label": "location", "description": "location of the item, physical object or event is within. In case of an administrative entity use P131. In case of a distinct terrain feature use P706.", "type": "N-1"}
+{"relation": "P276", "template": "[X] held in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1796}
+{"relation": "P276", "template": "[Y] in support of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 405}
+{"relation": "P276", "template": "[X] was held in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 360}
+{"relation": "P276", "template": "[Y] england [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 323}
+{"relation": "P276", "template": "[X] held at the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 292}
+{"relation": "P276", "template": "[X] festival in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 227}
+{"relation": "P276", "template": "[X] was held at the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 208}
+{"relation": "P276", "template": "[Y] following the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 199}
+{"relation": "P276", "template": "[X] were held in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 177}
+{"relation": "P276", "template": "[Y] hosted the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 168}
+{"relation": "P276", "template": "[X] broke out in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 145}
+{"relation": "P276", "template": "[X] forward who played for [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 122}
+{"relation": "P276", "template": "[Y] united states [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 108}
+{"relation": "P276", "template": "[X] held at [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 104}
+{"relation": "P276", "template": "[X] was held at [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 102}
+{"relation": "P276", "template": "[Y] netherlands [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 102}
+{"relation": "P276", "template": "[X] took place in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 97}
+{"relation": "P276", "template": "[X] film festival in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 92}
+{"relation": "P276", "template": "[X] in france and [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 86}
+{"relation": "P276", "template": "[X] to be held in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 84}
+{"relation": "P276", "template": "[X] near [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 67}
+{"relation": "P276", "template": "[X] took place at [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 66}
+{"relation": "P276", "template": "[Y] and adjacent states ( the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 56}
+{"relation": "P276", "template": "[Y] prior to the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 53}
+{"relation": "P276", "template": "[Y] argentina [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 53}
+{"relation": "P276", "template": "[Y] june 16 -- 18 . [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 52}
+{"relation": "P276", "template": "[X] which was held in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 51}
+{"relation": "P276", "template": "[X] in jakarta and [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 50}
+{"relation": "P276", "template": "[Y] defeat in the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 47}
+{"relation": "P276", "template": "[X] based at [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 47}
+{"relation": "P276", "template": "[X] who plays for [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 47}
+{"relation": "P276", "template": "[X] center3 center5 : 00 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 45}
+{"relation": "P276", "template": "[Y] at the time of the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 44}
+{"relation": "P276", "template": "[Y] forces during the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 43}
+{"relation": "P276", "template": "[Y] following [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
+{"relation": "P276", "template": "[Y] united kingdom [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 41}
+{"relation": "P276", "template": "[X] \u2022 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 40}
+{"relation": "P276", "template": "[X] began in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 39}
+{"relation": "P276", "template": "[X] service in the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 38}
+{"relation": "P276", "template": "[Y] serbia [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 38}
+{"relation": "P276", "template": "[X] in london 's [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 36}
+{"relation": "P276", "template": "[X] are held in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 35}
+{"relation": "P276", "template": "[X] tournament in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 35}
+{"relation": "P276", "template": "[X] over the rowley mile at [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 35}
+{"relation": "P276", "template": "[Y] in the aftermath of the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 34}
+{"relation": "P276", "template": "[Y] in the wake of the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 33}
+{"relation": "P276", "template": "[X] located in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 33}
+{"relation": "P276", "template": "[X] between england and [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 32}
+{"relation": "P276", "template": "[X] in neighboring [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 30}
+{"relation": "P276", "template": "[Y] hosted [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 30}

@@ -1,0 +1,51 @@
+{"relation": "P740", "template": "[X] was founded in [Y] .", "label": "location of formation", "description": "location where a group or organization was formed", "type": "N-1"}
+{"relation": "P740", "template": "[Y] and new york : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 873}
+{"relation": "P740", "template": "[Y] band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 313}
+{"relation": "P740", "template": "[Y] rock band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 202}
+{"relation": "P740", "template": "[X] edizioni , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 139}
+{"relation": "P740", "template": "[X] contracted bus route in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 122}
+{"relation": "P740", "template": "[X] factory in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 98}
+{"relation": "P740", "template": "[X] shipyard in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 98}
+{"relation": "P740", "template": "[Y] singer [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 93}
+{"relation": "P740", "template": "[Y] art online . [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 84}
+{"relation": "P740", "template": "[Y] boy band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 84}
+{"relation": "P740", "template": "[X] was founded in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 67}
+{"relation": "P740", "template": "[X] headquarters in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 62}
+{"relation": "P740", "template": "[X] plant in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 60}
+{"relation": "P740", "template": "[Y] based [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 51}
+{"relation": "P740", "template": "[Y] nu metal band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 51}
+{"relation": "P740", "template": "[Y] pop group [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 48}
+{"relation": "P740", "template": "[Y] and new york , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 45}
+{"relation": "P740", "template": "[X] ltd. , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 43}
+{"relation": "P740", "template": "[X] flight from [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
+{"relation": "P740", "template": "[X] formed in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 41}
+{"relation": "P740", "template": "[Y] heavy metal band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 41}
+{"relation": "P740", "template": "[X] studios in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 41}
+{"relation": "P740", "template": "[X] was born in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 40}
+{"relation": "P740", "template": "[X] was formed in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 38}
+{"relation": "P740", "template": "[X] based in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 36}
+{"relation": "P740", "template": "[Y] alternative rock band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 35}
+{"relation": "P740", "template": "[Y] symphonic metal band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 34}
+{"relation": "P740", "template": "[Y] group [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 32}
+{"relation": "P740", "template": "[X] studio in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 32}
+{"relation": "P740", "template": "[X] is founded in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 30}
+{"relation": "P740", "template": "[Y] music online . [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 30}
+{"relation": "P740", "template": "[X] co. , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 30}
+{"relation": "P740", "template": "[X] ltd , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 29}
+{"relation": "P740", "template": "[Y] rock group [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 27}
+{"relation": "P740", "template": "[Y] metal band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 26}
+{"relation": "P740", "template": "[Y] rapper [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 26}
+{"relation": "P740", "template": "[X] shipyards in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 26}
+{"relation": "P740", "template": "[Y] and boston : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 25}
+{"relation": "P740", "template": "[X] at their shipyard in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
+{"relation": "P740", "template": "[X] shipyard at [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
+{"relation": "P740", "template": "[X] returned to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 23}
+{"relation": "P740", "template": "[Y] power metal band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 23}
+{"relation": "P740", "template": "[X] factory at [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 23}
+{"relation": "P740", "template": "[X] tv studios in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 23}
+{"relation": "P740", "template": "[X] yard in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 21}
+{"relation": "P740", "template": "[Y] and ny : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 20}
+{"relation": "P740", "template": "[X] f\u00fcr verkehrswesen , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 20}
+{"relation": "P740", "template": "[X] museum , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 20}
+{"relation": "P740", "template": "[Y] melodic death metal band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 20}
+{"relation": "P740", "template": "[Y] progressive rock band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 19}

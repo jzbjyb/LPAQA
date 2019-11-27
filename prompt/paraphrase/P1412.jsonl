@@ -1,0 +1,37 @@
+{"relation": "P1412", "template": "[X] used to communicate in [Y] ."}
+{"relation": "P1412", "template": "[X] used to communicate in [Y].", "bt_log_prob": -0.44863876700401306}
+{"relation": "P1412", "template": "[X] communicated in [Y].", "bt_log_prob": -0.5223092436790466}
+{"relation": "P1412", "template": "[X] to communicate in [Y].", "bt_log_prob": -0.5445896685123444}
+{"relation": "P1412", "template": "[X] is used to communicate in [Y].", "bt_log_prob": -0.5848674476146698}
+{"relation": "P1412", "template": "[X] communicates in [Y].", "bt_log_prob": -0.6249518990516663}
+{"relation": "P1412", "template": "[X] used [Y] to communicate.", "bt_log_prob": -0.6681038439273834}
+{"relation": "P1412", "template": "[X] previously communicated in [Y].", "bt_log_prob": -0.6949257850646973}
+{"relation": "P1412", "template": "[X] for communicating in [Y].", "bt_log_prob": -0.7194492220878601}
+{"relation": "P1412", "template": "[X] formerly communicated in [Y].", "bt_log_prob": -0.7689684331417084}
+{"relation": "P1412", "template": "[X] communicated earlier in [Y].", "bt_log_prob": -0.7859595715999603}
+{"relation": "P1412", "template": "[X] used to communicate with [Y].", "bt_log_prob": -0.8002209365367889}
+{"relation": "P1412", "template": "[X] to communicate with [Y].", "bt_log_prob": -0.8023317456245422}
+{"relation": "P1412", "template": "[X] used to communicate in [Y]", "bt_log_prob": -0.8243656158447266}
+{"relation": "P1412", "template": "[X] communicated with [Y].", "bt_log_prob": -0.8628930449485779}
+{"relation": "P1412", "template": "[X] is used to communicate in [Y]", "bt_log_prob": -0.8998116850852966}
+{"relation": "P1412", "template": "[X] communicates with [Y].", "bt_log_prob": -0.9201920926570892}
+{"relation": "P1412", "template": "[X] uses [Y] to communicate.", "bt_log_prob": -0.9344760477542877}
+{"relation": "P1412", "template": "[X] was using [Y] to communicate.", "bt_log_prob": -0.9523691236972809}
+{"relation": "P1412", "template": "[X] used [Y] for communication.", "bt_log_prob": -0.969067245721817}
+{"relation": "P1412", "template": "[X] communicated in [Y]", "bt_log_prob": -0.9733823239803314}
+{"relation": "P1412", "template": "[X] communicate in [Y].", "bt_log_prob": -0.9743712842464447}
+{"relation": "P1412", "template": "[X] communicated within [Y].", "bt_log_prob": -0.9768594801425934}
+{"relation": "P1412", "template": "[X] was used to communicate in [Y]", "bt_log_prob": -0.9907018840312958}
+{"relation": "P1412", "template": "[X] used [Y] for communicating.", "bt_log_prob": -0.9967447817325592}
+{"relation": "P1412", "template": "[X] communicates in [Y]", "bt_log_prob": -1.0177652537822723}
+{"relation": "P1412", "template": "[X] use [Y] to communicate.", "bt_log_prob": -1.0511656403541565}
+{"relation": "P1412", "template": "[X] are used to communicate in [Y].", "bt_log_prob": -1.0580350458621979}
+{"relation": "P1412", "template": "[X] in order to communicate in [Y]", "bt_log_prob": -1.0915818810462952}
+{"relation": "P1412", "template": "[X] used to communicate within [Y].", "bt_log_prob": -1.0928388833999634}
+{"relation": "P1412", "template": "[X] used in [Y] to communicate.", "bt_log_prob": -1.1077410578727722}
+{"relation": "P1412", "template": "[X] has been used to communicate in [Y]", "bt_log_prob": -1.1686473190784454}
+{"relation": "P1412", "template": "[X] was used to communicate in [Y].", "bt_log_prob": -1.187382847070694}
+{"relation": "P1412", "template": "[X] was used to communicate with [Y]", "bt_log_prob": -1.2665668427944183}
+{"relation": "P1412", "template": "[X] Used to communicate in [Y]", "bt_log_prob": -1.2728245854377747}
+{"relation": "P1412", "template": "[X] communicates in [Y];", "bt_log_prob": -1.3006003201007843}
+{"relation": "P1412", "template": "[X] used [Y] in order to communicate", "bt_log_prob": -1.3945214748382568}

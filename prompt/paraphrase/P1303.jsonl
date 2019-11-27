@@ -1,0 +1,16 @@
+{"relation": "P1303", "template": "[X] plays [Y] ."}
+{"relation": "P1303", "template": "[X] plays [Y].", "bt_log_prob": -0.2428172454237938}
+{"relation": "P1303", "template": "[X] is playing [Y].", "bt_log_prob": -0.4038633033633232}
+{"relation": "P1303", "template": "[X] performs [Y].", "bt_log_prob": -0.5906587168574333}
+{"relation": "P1303", "template": "[X] is [Y].", "bt_log_prob": -0.6861231252551079}
+{"relation": "P1303", "template": "[X] play [Y].", "bt_log_prob": -0.7416908666491508}
+{"relation": "P1303", "template": "[X] playing [Y].", "bt_log_prob": -0.7558541223406792}
+{"relation": "P1303", "template": "[X] plays [Y]", "bt_log_prob": -0.776419036090374}
+{"relation": "P1303", "template": "[X] [Y].", "bt_log_prob": -1.2132662534713745}
+{"relation": "P1303", "template": "[X] playing [Y]", "bt_log_prob": -1.2297413349151611}
+{"relation": "P1303", "template": "[X] Play [Y].", "bt_log_prob": -1.2482910752296448}
+{"relation": "P1303", "template": "[X] is playing [Y]", "bt_log_prob": -1.2712372839450836}
+{"relation": "P1303", "template": "[X] play [Y]", "bt_log_prob": -1.3221927881240845}
+{"relation": "P1303", "template": "[X] [Y] play.", "bt_log_prob": -1.3899708986282349}
+{"relation": "P1303", "template": "[X] performs [Y]", "bt_log_prob": -1.398184597492218}
+{"relation": "P1303", "template": "[X] played [Y]", "bt_log_prob": -1.5447343587875366}

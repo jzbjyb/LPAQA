@@ -1,0 +1,32 @@
+{"relation": "P740", "template": "[X] was founded in [Y] ."}
+{"relation": "P740", "template": "[X] was founded in [Y].", "bt_log_prob": -0.39429327845573425}
+{"relation": "P740", "template": "[X] was established in [Y].", "bt_log_prob": -0.5415672957897186}
+{"relation": "P740", "template": "[X] was formed in [Y].", "bt_log_prob": -0.5710695683956146}
+{"relation": "P740", "template": "[X] was created in [Y].", "bt_log_prob": -0.6105991899967194}
+{"relation": "P740", "template": "[X] was founded [Y].", "bt_log_prob": -0.6230354458093643}
+{"relation": "P740", "template": "[X] was founded in [Y] year.", "bt_log_prob": -0.6233732104301453}
+{"relation": "P740", "template": "[X] was set up in [Y].", "bt_log_prob": -0.6618036925792694}
+{"relation": "P740", "template": "[X] was founded in the [Y].", "bt_log_prob": -0.7102197706699371}
+{"relation": "P740", "template": "[X] was born in [Y].", "bt_log_prob": -0.731042891740799}
+{"relation": "P740", "template": "[X] was founded in [Y]", "bt_log_prob": -0.7327527701854706}
+{"relation": "P740", "template": "[X] was founded in the year [Y]", "bt_log_prob": -0.7824952602386475}
+{"relation": "P740", "template": "[X] was created in the year [Y].", "bt_log_prob": -0.7970167845487595}
+{"relation": "P740", "template": "[X] was founded by [Y].", "bt_log_prob": -0.8068129122257233}
+{"relation": "P740", "template": "[X] was formed [Y].", "bt_log_prob": -0.8211699724197388}
+{"relation": "P740", "template": "[X] was established [Y].", "bt_log_prob": -0.8289837837219238}
+{"relation": "P740", "template": "[X] was founded on [Y].", "bt_log_prob": -0.8534249663352966}
+{"relation": "P740", "template": "[X] originated in [Y].", "bt_log_prob": -0.8599933087825775}
+{"relation": "P740", "template": "[X] was [Y] founded.", "bt_log_prob": -0.8630618155002594}
+{"relation": "P740", "template": "[X] was created [Y].", "bt_log_prob": -0.8702280223369598}
+{"relation": "P740", "template": "[X] originated in the year [Y].", "bt_log_prob": -0.878862589597702}
+{"relation": "P740", "template": "[X] was made in the year [Y].", "bt_log_prob": -0.8979284465312958}
+{"relation": "P740", "template": "[X] was established in the year [Y]", "bt_log_prob": -0.9040654897689819}
+{"relation": "P740", "template": "[X] was written in the year [Y].", "bt_log_prob": -0.9341767132282257}
+{"relation": "P740", "template": "[X] was created in year [Y].", "bt_log_prob": -0.952864795923233}
+{"relation": "P740", "template": "[X] arose in [Y].", "bt_log_prob": -0.9550721347332001}
+{"relation": "P740", "template": "[X] was formed in the year [Y]", "bt_log_prob": -0.9638290405273438}
+{"relation": "P740", "template": "[X] was written in [Y].", "bt_log_prob": -0.9705492258071899}
+{"relation": "P740", "template": "[X] was made in [Y].", "bt_log_prob": -0.9777211248874664}
+{"relation": "P740", "template": "[X] is in [Y].", "bt_log_prob": -1.0106091797351837}
+{"relation": "P740", "template": "[X] was created in the year [Y]", "bt_log_prob": -1.162234365940094}
+{"relation": "P740", "template": "[X] came into being in [Y]", "bt_log_prob": -1.4215437173843384}

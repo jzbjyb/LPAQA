@@ -1,0 +1,51 @@
+{"relation": "P937", "template": "[X] used to work in [Y] .", "label": "work location", "description": "location where persons were active", "type": "N-M"}
+{"relation": "P937", "template": "[X] was born in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 332}
+{"relation": "P937", "template": "[X] returned to [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 250}
+{"relation": "P937", "template": "[X] moved to [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 203}
+{"relation": "P937", "template": "[Y] artist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 181}
+{"relation": "P937", "template": "[X] died in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 171}
+{"relation": "P937", "template": "[X] left [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 121}
+{"relation": "P937", "template": "[Y] painter [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 116}
+{"relation": "P937", "template": "[X] arrived in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 86}
+{"relation": "P937", "template": "[Y] mayor [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 83}
+{"relation": "P937", "template": "[Y] king [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 62}
+{"relation": "P937", "template": "[X] lived in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 52}
+{"relation": "P937", "template": "[X] went to [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 52}
+{"relation": "P937", "template": "[Y] architect [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 52}
+{"relation": "P937", "template": "[Y] to meet [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 50}
+{"relation": "P937", "template": "[Y] director [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 46}
+{"relation": "P937", "template": "[Y] dispatch : [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 46}
+{"relation": "P937", "template": "[Y] to meet with [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 39}
+{"relation": "P937", "template": "[Y] writer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 39}
+{"relation": "P937", "template": "[X] remained in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 35}
+{"relation": "P937", "template": "[X] verlag , [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 34}
+{"relation": "P937", "template": "[X] traveled to [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 33}
+{"relation": "P937", "template": "[X] returns to [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 33}
+{"relation": "P937", "template": "[Y] sculptor [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 32}
+{"relation": "P937", "template": "[Y] and met [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 31}
+{"relation": "P937", "template": "[Y] filmmaker [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 28}
+{"relation": "P937", "template": "[Y] carried ) [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 27}
+{"relation": "P937", "template": "[X] theodore roosevelt ( p -- [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 27}
+{"relation": "P937", "template": "[Y] chief minister [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 26}
+{"relation": "P937", "template": "[X] arrived to establish [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 26}
+{"relation": "P937", "template": "[X] center , washington [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 26}
+{"relation": "P937", "template": "[Y] author [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 25}
+{"relation": "P937", "template": "[X] visited [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 25}
+{"relation": "P937", "template": "[Y] to study with [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 24}
+{"relation": "P937", "template": "[X] lives in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 24}
+{"relation": "P937", "template": "[Y] poet [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 24}
+{"relation": "P937", "template": "[Y] short silent film directed by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 23}
+{"relation": "P937", "template": "[Y] film director [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 22}
+{"relation": "P937", "template": "[Y] president [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 22}
+{"relation": "P937", "template": "[X] fled [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 21}
+{"relation": "P937", "template": "[Y] where he met [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 21}
+{"relation": "P937", "template": "[X] zogby international : bush [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 21}
+{"relation": "P937", "template": "[X] composed the cantata in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 20}
+{"relation": "P937", "template": "[X] he died in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 20}
+{"relation": "P937", "template": "[X] dies at [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
+{"relation": "P937", "template": "[X] grew up in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
+{"relation": "P937", "template": "[X] festival in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
+{"relation": "P937", "template": "[Y] he met [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
+{"relation": "P937", "template": "[X] arrives in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
+{"relation": "P937", "template": "[X] moved from [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 17}
+{"relation": "P937", "template": "[Y] composer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 17}

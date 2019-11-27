@@ -1,0 +1,51 @@
+{"relation": "P178", "template": "[X] is developed by [Y] .", "label": "developer", "description": "organisation or person that developed the item", "type": "N-M"}
+{"relation": "P178", "template": "[Y] 2007 [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 897}
+{"relation": "P178", "template": "[Y] 2008 [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 484}
+{"relation": "P178", "template": "[Y] released [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 317}
+{"relation": "P178", "template": "[Y] 2009 [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 159}
+{"relation": "P178", "template": "[Y] releases [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 154}
+{"relation": "P178", "template": "[Y] announced that [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 117}
+{"relation": "P178", "template": "[Y] \u00ae [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 115}
+{"relation": "P178", "template": "[X] was developed by [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 108}
+{"relation": "P178", "template": "[Y] announced [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 98}
+{"relation": "P178", "template": "[Y] released the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 72}
+{"relation": "P178", "template": "[Y] video game [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 65}
+{"relation": "P178", "template": "[Y] game [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 64}
+{"relation": "P178", "template": "[Y] office [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 61}
+{"relation": "P178", "template": "[Y] announced the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 58}
+{"relation": "P178", "template": "[Y] 87 [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 57}
+{"relation": "P178", "template": "[Y] internet [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 57}
+{"relation": "P178", "template": "[Y] introduced [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 53}
+{"relation": "P178", "template": "[Y] 3ds [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 53}
+{"relation": "P178", "template": "[X] developed by [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 48}
+{"relation": "P178", "template": "[Y] developed [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 46}
+{"relation": "P178", "template": "[Y] launched [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 45}
+{"relation": "P178", "template": "[X] developer [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 43}
+{"relation": "P178", "template": "[Y] dynamics [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 40}
+{"relation": "P178", "template": "[X] references external links [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 38}
+{"relation": "P178", "template": "[Y] introduced the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 38}
+{"relation": "P178", "template": "[X] 2008 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 29}
+{"relation": "P178", "template": "[Y] word , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 26}
+{"relation": "P178", "template": "[X] 2007 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 26}
+{"relation": "P178", "template": "[X] 2009 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 26}
+{"relation": "P178", "template": "[Y] launched the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 25}
+{"relation": "P178", "template": "[Y] wii [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 24}
+{"relation": "P178", "template": "[Y] ju 87 [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 22}
+{"relation": "P178", "template": "[X] 1995 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 22}
+{"relation": "P178", "template": "[Y] electronic arts [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 22}
+{"relation": "P178", "template": "[Y] launches [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 21}
+{"relation": "P178", "template": "[X] valve corporation [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 21}
+{"relation": "P178", "template": "[X] 2000 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 21}
+{"relation": "P178", "template": "[X] was released by [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 20}
+{"relation": "P178", "template": "[Y] announced that the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 20}
+{"relation": "P178", "template": "[Y] game room service for its [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 20}
+{"relation": "P178", "template": "[X] 2003 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 20}
+{"relation": "P178", "template": "[X] 1997 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 20}
+{"relation": "P178", "template": "[X] 2001 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 20}
+{"relation": "P178", "template": "[Y] zx [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
+{"relation": "P178", "template": "[Y] games such as [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
+{"relation": "P178", "template": "[X] 2004 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
+{"relation": "P178", "template": "[X] blizzard entertainment [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
+{"relation": "P178", "template": "[X] first - person shooter [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
+{"relation": "P178", "template": "[X] series by [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
+{"relation": "P178", "template": "[Y] announces [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}

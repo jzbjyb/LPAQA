@@ -1,0 +1,51 @@
+{"relation": "P36", "template": "The capital of [X] is [Y] .", "label": "capital", "description": "primary city of a country, state or other type of administrative territorial entity", "type": "1-1"}
+{"relation": "P36", "template": "[X] capital [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 2124}
+{"relation": "P36", "template": "[X] capital of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 1774}
+{"relation": "P36", "template": "[X] capital , [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 944}
+{"relation": "P36", "template": "[X] outside [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 392}
+{"relation": "P36", "template": "[X] near [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 360}
+{"relation": "P36", "template": "[X] capital city of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 294}
+{"relation": "P36", "template": "[Y] on the island of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 264}
+{"relation": "P36", "template": "[X] city of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 238}
+{"relation": "P36", "template": "[X] including [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 165}
+{"relation": "P36", "template": "[X] based in [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 158}
+{"relation": "P36", "template": "[X] cities of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 143}
+{"relation": "P36", "template": "[X] comprises the [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 136}
+{"relation": "P36", "template": "[X] united states embassy in [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 132}
+{"relation": "P36", "template": "[Y] area of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 127}
+{"relation": "P36", "template": "[Y] and the rest of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 126}
+{"relation": "P36", "template": "[Y] in the state of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 126}
+{"relation": "P36", "template": "[Y] and other parts of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 118}
+{"relation": "P36", "template": "[X] representative legislature [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 96}
+{"relation": "P36", "template": "[X] rock band from [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 95}
+{"relation": "P36", "template": "[X] court in [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 92}
+{"relation": "P36", "template": "[Y] was the capital of the [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 91}
+{"relation": "P36", "template": "[Y] is a city in [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 91}
+{"relation": "P36", "template": "[Y] is the county seat of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 89}
+{"relation": "P36", "template": "[Y] as the capital of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 87}
+{"relation": "P36", "template": "[Y] is the capital of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 84}
+{"relation": "P36", "template": "[Y] became the capital of the [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 83}
+{"relation": "P36", "template": "[Y] in the english [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 76}
+{"relation": "P36", "template": "[Y] city , [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 74}
+{"relation": "P36", "template": "[X] town of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 73}
+{"relation": "P36", "template": "[X] is located in [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 73}
+{"relation": "P36", "template": "[Y] in the province of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 72}
+{"relation": "P36", "template": "[X] north of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 71}
+{"relation": "P36", "template": "[X] and died in [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 71}
+{"relation": "P36", "template": "[X] capital at [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 70}
+{"relation": "P36", "template": "[X] government in [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 66}
+{"relation": "P36", "template": "[X] authorities in [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 62}
+{"relation": "P36", "template": "[X] and its capital [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 61}
+{"relation": "P36", "template": "[X] cities , including [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 60}
+{"relation": "P36", "template": "[Y] the capital of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 59}
+{"relation": "P36", "template": "[Y] in central [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 58}
+{"relation": "P36", "template": "[X] and the city of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 58}
+{"relation": "P36", "template": "[Y] united states ( [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 58}
+{"relation": "P36", "template": "[Y] is the capital of the [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 57}
+{"relation": "P36", "template": "[X] cities such as [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 57}
+{"relation": "P36", "template": "[Y] and other cities in [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 54}
+{"relation": "P36", "template": "[Y] city in [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 51}
+{"relation": "P36", "template": "[X] gymnasium , [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 51}
+{"relation": "P36", "template": "[Y] in the u.s. state of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 51}
+{"relation": "P36", "template": "[X] through its embassy in [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 50}
+{"relation": "P36", "template": "[X] professional football club based in [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 49}

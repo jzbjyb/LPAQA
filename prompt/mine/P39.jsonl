@@ -1,0 +1,51 @@
+{"relation": "P39", "template": "[X] has the position of [Y] .", "label": "position held", "description": "subject currently or formerly holds the object position or public office", "type": "N-M"}
+{"relation": "P39", "template": "[X] was elected [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 959}
+{"relation": "P39", "template": "[X] was appointed [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 467}
+{"relation": "P39", "template": "[X] served as [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 337}
+{"relation": "P39", "template": "[X] resigned as [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 308}
+{"relation": "P39", "template": "[X] is elected [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 211}
+{"relation": "P39", "template": "[Y] at the time , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 184}
+{"relation": "P39", "template": "[Y] peter and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 151}
+{"relation": "P39", "template": "[X] was elected as [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 145}
+{"relation": "P39", "template": "[X] was sworn in as [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 139}
+{"relation": "P39", "template": "[X] resigns as [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 136}
+{"relation": "P39", "template": "[Y] general [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 124}
+{"relation": "P39", "template": "[Y] john f. kennedy and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 102}
+{"relation": "P39", "template": "[X] as the new [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 96}
+{"relation": "P39", "template": "[X] is sworn in as [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 95}
+{"relation": "P39", "template": "[X] was crowned [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 89}
+{"relation": "P39", "template": "[Y] bill clinton and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 86}
+{"relation": "P39", "template": "[Y] and mrs. [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 84}
+{"relation": "P39", "template": "[X] was named [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 83}
+{"relation": "P39", "template": "[Y] george h. w. bush and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 80}
+{"relation": "P39", "template": "[X] was appointed as [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 79}
+{"relation": "P39", "template": "[Y] ronald reagan and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 77}
+{"relation": "P39", "template": "[X] became the new [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 75}
+{"relation": "P39", "template": "[Y] admiral [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 70}
+{"relation": "P39", "template": "[X] mp [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 70}
+{"relation": "P39", "template": "[X] served as the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 68}
+{"relation": "P39", "template": "[Y] richard nixon and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 68}
+{"relation": "P39", "template": "[X] won the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 65}
+{"relation": "P39", "template": "[X] was inaugurated as [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 63}
+{"relation": "P39", "template": "[Y] lord [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 63}
+{"relation": "P39", "template": "[X] assumed the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 62}
+{"relation": "P39", "template": "[X] ran for [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 62}
+{"relation": "P39", "template": "[X] is crowned [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 60}
+{"relation": "P39", "template": "[X] is appointed [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 60}
+{"relation": "P39", "template": "[X] took office as [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 60}
+{"relation": "P39", "template": "[Y] george w. bush and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 60}
+{"relation": "P39", "template": "[X] elected [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 56}
+{"relation": "P39", "template": "[Y] candidates [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 55}
+{"relation": "P39", "template": "[X] was re-elected [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 55}
+{"relation": "P39", "template": "[X] appointed [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 55}
+{"relation": "P39", "template": "[X] declared himself [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 54}
+{"relation": "P39", "template": "[X] was elected as the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 51}
+{"relation": "P39", "template": "[Y] ronald reagan , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 49}
+{"relation": "P39", "template": "[X] was proclaimed [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 48}
+{"relation": "P39", "template": "[X] remained [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 48}
+{"relation": "P39", "template": "[Y] andrew jackson and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 48}
+{"relation": "P39", "template": "[X] created him [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 47}
+{"relation": "P39", "template": "[Y] john paul i and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 44}
+{"relation": "P39", "template": "[Y] jimmy carter , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 44}
+{"relation": "P39", "template": "[Y] campaigns of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 44}
+{"relation": "P39", "template": "[Y] jimmy carter and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 43}

@@ -1,0 +1,51 @@
+{"relation": "P495", "template": "[X] was created in [Y] .", "label": "country of origin", "description": "country of origin of this item (creative work, food, phrase, product, etc.)", "type": "N-1"}
+{"relation": "P495", "template": "[Y] rock band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 4722}
+{"relation": "P495", "template": "[Y] newspaper [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 2220}
+{"relation": "P495", "template": "[Y] science fiction television series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1870}
+{"relation": "P495", "template": "[Y] soap opera [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1415}
+{"relation": "P495", "template": "[Y] magazine [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 960}
+{"relation": "P495", "template": "[Y] heavy metal band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 948}
+{"relation": "P495", "template": "[Y] television series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 873}
+{"relation": "P495", "template": "[Y] adult contemporary ( [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 869}
+{"relation": "P495", "template": "[Y] band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 867}
+{"relation": "P495", "template": "[Y] tv series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 829}
+{"relation": "P495", "template": "[Y] sitcom [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 828}
+{"relation": "P495", "template": "[Y] animated television series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 614}
+{"relation": "P495", "template": "[Y] alternative rock band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 608}
+{"relation": "P495", "template": "[Y] version of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 596}
+{"relation": "P495", "template": "[Y] hard rock band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 595}
+{"relation": "P495", "template": "[Y] television drama series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 498}
+{"relation": "P495", "template": "[Y] television show [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 483}
+{"relation": "P495", "template": "[Y] tv show [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 415}
+{"relation": "P495", "template": "[Y] hot rock songs ( [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 394}
+{"relation": "P495", "template": "[Y] albums ( [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 391}
+{"relation": "P495", "template": "[Y] alternative songs ( [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 389}
+{"relation": "P495", "template": "[Y] billboard [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 336}
+{"relation": "P495", "template": "[Y] girl group [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 336}
+{"relation": "P495", "template": "[Y] mainstream top 40 ( [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 316}
+{"relation": "P495", "template": "[X] country tracks chart in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 307}
+{"relation": "P495", "template": "[Y] thrash [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 298}
+{"relation": "P495", "template": "[Y] series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 295}
+{"relation": "P495", "template": "[Y] punk rock band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 295}
+{"relation": "P495", "template": "[Y] dance club songs ( [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 287}
+{"relation": "P495", "template": "[Y] music magazine [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 277}
+{"relation": "P495", "template": "[Y] death [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 271}
+{"relation": "P495", "template": "[Y] indie [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 270}
+{"relation": "P495", "template": "[Y] rock group [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 248}
+{"relation": "P495", "template": "[Y] adult top 40 ( [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 247}
+{"relation": "P495", "template": "[Y] group [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 246}
+{"relation": "P495", "template": "[Y] indie rock band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 245}
+{"relation": "P495", "template": "[Y] singer [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 241}
+{"relation": "P495", "template": "[Y] heatseekers albums ( [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 237}
+{"relation": "P495", "template": "[Y] hip hop group [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 228}
+{"relation": "P495", "template": "[Y] pop group [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 222}
+{"relation": "P495", "template": "[X] was released in the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 219}
+{"relation": "P495", "template": "[Y] boy band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 219}
+{"relation": "P495", "template": "[Y] metal band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 210}
+{"relation": "P495", "template": "[Y] daily [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 208}
+{"relation": "P495", "template": "[Y] comedy series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 201}
+{"relation": "P495", "template": "[Y] league [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 197}
+{"relation": "P495", "template": "[Y] top country albums ( [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 192}
+{"relation": "P495", "template": "[Y] thrash metal band [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 175}
+{"relation": "P495", "template": "[Y] edition of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 174}
+{"relation": "P495", "template": "[Y] soap [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 168}

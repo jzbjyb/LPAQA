@@ -1,0 +1,25 @@
+{"relation": "P364", "template": "The original language of [X] is [Y] ."}
+{"relation": "P364", "template": "The original language of [X] is [Y].", "bt_log_prob": -0.32299961149692535}
+{"relation": "P364", "template": "The original language for [X] is [Y].", "bt_log_prob": -0.5537352561950684}
+{"relation": "P364", "template": "The native language of [X] is [Y].", "bt_log_prob": -0.5746442079544067}
+{"relation": "P364", "template": "The source language of [X] is [Y].", "bt_log_prob": -0.59905906021595}
+{"relation": "P364", "template": "[X] is the original language of [Y].", "bt_log_prob": -0.6140269935131073}
+{"relation": "P364", "template": "The primary language of [X] is [Y].", "bt_log_prob": -0.6191408038139343}
+{"relation": "P364", "template": "The original [X] language is [Y].", "bt_log_prob": -0.625491589307785}
+{"relation": "P364", "template": "The original language of [X] is [Y]", "bt_log_prob": -0.6755843758583069}
+{"relation": "P364", "template": "The original language of [X] was [Y].", "bt_log_prob": -0.7148959934711456}
+{"relation": "P364", "template": "[X] is the original [Y].", "bt_log_prob": -0.7392834275960922}
+{"relation": "P364", "template": "The initial language of [X] is [Y].", "bt_log_prob": -0.7467421591281891}
+{"relation": "P364", "template": "The source language for [X] is [Y].", "bt_log_prob": -0.7533058226108551}
+{"relation": "P364", "template": "The language of [X] is [Y].", "bt_log_prob": -0.7616454064846039}
+{"relation": "P364", "template": "[X] is original [Y].", "bt_log_prob": -0.8012146353721619}
+{"relation": "P364", "template": "[X] is in original [Y].", "bt_log_prob": -0.8264718055725098}
+{"relation": "P364", "template": "The default language of [X] is [Y].", "bt_log_prob": -0.8822311758995056}
+{"relation": "P364", "template": "The source of [X] is [Y].", "bt_log_prob": -0.8884985744953156}
+{"relation": "P364", "template": "[X] is the source language of [Y].", "bt_log_prob": -0.896011084318161}
+{"relation": "P364", "template": "[X] is [Y].", "bt_log_prob": -0.8973248600959778}
+{"relation": "P364", "template": "[X] is originally [Y].", "bt_log_prob": -0.9114162921905518}
+{"relation": "P364", "template": "The original language of [X] is [Y]..", "bt_log_prob": -0.9272481501102448}
+{"relation": "P364", "template": "[X] is in [Y].", "bt_log_prob": -1.1020587086677551}
+{"relation": "P364", "template": "[X] is the original [Y]", "bt_log_prob": -1.1383858919143677}
+{"relation": "P364", "template": "The original language for [X] is [Y]..", "bt_log_prob": -1.1520849466323853}

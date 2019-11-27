@@ -1,0 +1,17 @@
+{"relation": "P530", "template": "[X] maintains diplomatic relations with [Y] ."}
+{"relation": "P530", "template": "[X] maintains diplomatic relations with [Y].", "bt_log_prob": -0.26645223796367645}
+{"relation": "P530", "template": "[X] has diplomatic relations with [Y].", "bt_log_prob": -0.394527330994606}
+{"relation": "P530", "template": "[X] maintains diplomatic relations to [Y].", "bt_log_prob": -0.48607756197452545}
+{"relation": "P530", "template": "[X] maintains diplomatic ties with [Y].", "bt_log_prob": -0.5257309824228287}
+{"relation": "P530", "template": "[X] maintains diplomatic relationships with [Y].", "bt_log_prob": -0.5574870258569717}
+{"relation": "P530", "template": "[X] has diplomatic relations to [Y].", "bt_log_prob": -0.5850661247968674}
+{"relation": "P530", "template": "[X] maintains diplomatic relations with [Y]", "bt_log_prob": -0.5974300056695938}
+{"relation": "P530", "template": "[X] maintain diplomatic relations with [Y].", "bt_log_prob": -0.6492511034011841}
+{"relation": "P530", "template": "[X] maintains diplomatic contacts with [Y].", "bt_log_prob": -0.6515427976846695}
+{"relation": "P530", "template": "[X] have diplomatic relations with [Y].", "bt_log_prob": -0.6809973418712616}
+{"relation": "P530", "template": "[X] is in diplomatic relations with [Y].", "bt_log_prob": -0.8075206875801086}
+{"relation": "P530", "template": "[X] holds diplomatic relations with [Y].", "bt_log_prob": -0.8672647476196289}
+{"relation": "P530", "template": "[X] have diplomatic relations to [Y].", "bt_log_prob": -0.8750489354133606}
+{"relation": "P530", "template": "[X] maintain diplomatic relations to [Y].", "bt_log_prob": -0.8830769658088684}
+{"relation": "P530", "template": "[X] maintain diplomatic ties with [Y].", "bt_log_prob": -0.9246791005134583}
+{"relation": "P530", "template": "[X] maintains a diplomatic relationship with [Y]", "bt_log_prob": -1.0098034739494324}

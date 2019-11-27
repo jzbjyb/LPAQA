@@ -1,0 +1,51 @@
+{"relation": "P108", "template": "[X] works for [Y] .", "label": "employer", "description": "person or organization for which the subject works or worked", "type": "N-M"}
+{"relation": "P108", "template": "[Y] ceo [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 691}
+{"relation": "P108", "template": "[Y] president [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 575}
+{"relation": "P108", "template": "[Y] manager [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 454}
+{"relation": "P108", "template": "[Y] critic [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 303}
+{"relation": "P108", "template": "[Y] founder [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 267}
+{"relation": "P108", "template": "[Y] professor [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 231}
+{"relation": "P108", "template": "[Y] co-founder [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 214}
+{"relation": "P108", "template": "[Y] special agents [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 192}
+{"relation": "P108", "template": "[Y] astronaut [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 156}
+{"relation": "P108", "template": "[X] left [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 131}
+{"relation": "P108", "template": "[X] returned to [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 105}
+{"relation": "P108", "template": "[X] joined [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 101}
+{"relation": "P108", "template": "[Y] under the supervision of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 83}
+{"relation": "P108", "template": "[Y] reporter [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 79}
+{"relation": "P108", "template": "[Y] editor [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 76}
+{"relation": "P108", "template": "[X] joined the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 64}
+{"relation": "P108", "template": "[Y] film critic [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 64}
+{"relation": "P108", "template": "[Y] announced that [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 62}
+{"relation": "P108", "template": "[X] publications in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 60}
+{"relation": "P108", "template": "[Y] chief [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 59}
+{"relation": "P108", "template": "[Y] writer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 59}
+{"relation": "P108", "template": "[Y] contractor [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 58}
+{"relation": "P108", "template": "[Y] agent [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 57}
+{"relation": "P108", "template": "[Y] journalist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 57}
+{"relation": "P108", "template": "[Y] chairman [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 56}
+{"relation": "P108", "template": "[X] wrote in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 56}
+{"relation": "P108", "template": "[Y] economist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 56}
+{"relation": "P108", "template": "[Y] host [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 54}
+{"relation": "P108", "template": "[Y] law professor [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 51}
+{"relation": "P108", "template": "[X] trust website [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 51}
+{"relation": "P108", "template": "[Y] coach [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 49}
+{"relation": "P108", "template": "[X] website balanchine trust website [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 49}
+{"relation": "P108", "template": "[Y] commentator [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 48}
+{"relation": "P108", "template": "[Y] reviewer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 47}
+{"relation": "P108", "template": "[X] at lowell 's [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 46}
+{"relation": "P108", "template": "[X] retired from [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 43}
+{"relation": "P108", "template": "[X] moved to [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 41}
+{"relation": "P108", "template": "[Y] historian [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 41}
+{"relation": "P108", "template": "[Y] executive [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 39}
+{"relation": "P108", "template": "[Y] head [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 39}
+{"relation": "P108", "template": "[Y] whistleblower [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 38}
+{"relation": "P108", "template": "[X] announced that [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 38}
+{"relation": "P108", "template": "[Y] editor - in - chief [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 37}
+{"relation": "P108", "template": "[X] left the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 36}
+{"relation": "P108", "template": "[Y] head coach [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 35}
+{"relation": "P108", "template": "[Y] under the direction of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 35}
+{"relation": "P108", "template": "[Y] director [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 34}
+{"relation": "P108", "template": "[X] taught at [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 31}
+{"relation": "P108", "template": "[Y] officer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 30}
+{"relation": "P108", "template": "[Y] anchor [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 30}

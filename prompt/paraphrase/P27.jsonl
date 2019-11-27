@@ -1,0 +1,25 @@
+{"relation": "P27", "template": "[X] is [Y] citizen ."}
+{"relation": "P27", "template": "[X] is a [Y] citizen.", "bt_log_prob": -0.4413372576236725}
+{"relation": "P27", "template": "[X] is a citizen of [Y].", "bt_log_prob": -0.4710792601108551}
+{"relation": "P27", "template": "[X] is [Y] -citizen.", "bt_log_prob": -0.49342453479766846}
+{"relation": "P27", "template": "[X] is [Y] citizen.", "bt_log_prob": -0.4964994192123413}
+{"relation": "P27", "template": "[X] is citizen [Y].", "bt_log_prob": -0.5119224637746811}
+{"relation": "P27", "template": "[X] is a [Y] -citizen.", "bt_log_prob": -0.5390821099281311}
+{"relation": "P27", "template": "[X] is citizen of [Y].", "bt_log_prob": -0.5418978929519653}
+{"relation": "P27", "template": "[X] is a citizen [Y].", "bt_log_prob": -0.587974950671196}
+{"relation": "P27", "template": "[X] is [Y] a citizen.", "bt_log_prob": -0.5892017036676407}
+{"relation": "P27", "template": "[X] is [Y] -Citizen.", "bt_log_prob": -0.6735853850841522}
+{"relation": "P27", "template": "[X] is [Y] Citizen.", "bt_log_prob": -0.7445664405822754}
+{"relation": "P27", "template": "[X] is Citizen of [Y].", "bt_log_prob": -0.7783945500850677}
+{"relation": "P27", "template": "[X] is a [Y] national.", "bt_log_prob": -0.7877524495124817}
+{"relation": "P27", "template": "[X] is [Y] a national.", "bt_log_prob": -0.7902060747146606}
+{"relation": "P27", "template": "[X] is a citizen of [Y]", "bt_log_prob": -0.8201321959495544}
+{"relation": "P27", "template": "[X] is citizens of [Y].", "bt_log_prob": -0.8883542716503143}
+{"relation": "P27", "template": "[X] is a national [Y].", "bt_log_prob": -0.9080598950386047}
+{"relation": "P27", "template": "[X] is citizen of [Y]", "bt_log_prob": -0.9221555292606354}
+{"relation": "P27", "template": "[X] is citizens [Y].", "bt_log_prob": -0.9477466940879822}
+{"relation": "P27", "template": "[X] is a citizen [Y]", "bt_log_prob": -0.9522029459476471}
+{"relation": "P27", "template": "[X] is [Y].", "bt_log_prob": -0.9539380371570587}
+{"relation": "P27", "template": "[X] is citizen [Y]", "bt_log_prob": -0.9638211131095886}
+{"relation": "P27", "template": "[X] is a citizen. [Y]", "bt_log_prob": -1.0015617311000824}
+{"relation": "P27", "template": "[X] is [Y] a citizen", "bt_log_prob": -1.022771030664444}

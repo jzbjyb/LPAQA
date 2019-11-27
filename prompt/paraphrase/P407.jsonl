@@ -1,0 +1,26 @@
+{"relation": "P407", "template": "[X] was written in [Y] ."}
+{"relation": "P407", "template": "[X] was written in [Y].", "bt_log_prob": -0.3554152697324753}
+{"relation": "P407", "template": "[X] is written in [Y].", "bt_log_prob": -0.42561914026737213}
+{"relation": "P407", "template": "[X] was in [Y].", "bt_log_prob": -0.6256716549396515}
+{"relation": "P407", "template": "[X] was written in [Y]", "bt_log_prob": -0.6848930567502975}
+{"relation": "P407", "template": "[X] is in [Y].", "bt_log_prob": -0.707859143614769}
+{"relation": "P407", "template": "[X] comes from [Y].", "bt_log_prob": -0.7279639095067978}
+{"relation": "P407", "template": "[X] is written in [Y]", "bt_log_prob": -0.7502320855855942}
+{"relation": "P407", "template": "[X] is from [Y].", "bt_log_prob": -0.7641849368810654}
+{"relation": "P407", "template": "[X] was written into [Y].", "bt_log_prob": -0.7887696474790573}
+{"relation": "P407", "template": "[X] was in [Y] written.", "bt_log_prob": -0.8518134951591492}
+{"relation": "P407", "template": "[X] originates from [Y].", "bt_log_prob": -0.8865455389022827}
+{"relation": "P407", "template": "[X] was composed in [Y].", "bt_log_prob": -0.916132003068924}
+{"relation": "P407", "template": "[X] was taken from [Y].", "bt_log_prob": -0.9198895394802094}
+{"relation": "P407", "template": "[X] stems from [Y].", "bt_log_prob": -0.9240652918815613}
+{"relation": "P407", "template": "[X] was created in [Y].", "bt_log_prob": -0.9309602379798889}
+{"relation": "P407", "template": "[X] is taken from [Y].", "bt_log_prob": -0.9399780929088593}
+{"relation": "P407", "template": "[X] came from [Y].", "bt_log_prob": -0.9424573481082916}
+{"relation": "P407", "template": "[X] is written into [Y].", "bt_log_prob": -0.9989853501319885}
+{"relation": "P407", "template": "[X] was set in [Y].", "bt_log_prob": -1.000171810388565}
+{"relation": "P407", "template": "[X] has been written in [Y]", "bt_log_prob": -1.0354621410369873}
+{"relation": "P407", "template": "[X] is in [Y]", "bt_log_prob": -1.065478801727295}
+{"relation": "P407", "template": "[X] written in [Y].", "bt_log_prob": -1.0679038763046265}
+{"relation": "P407", "template": "[X] was written in [Y],", "bt_log_prob": -1.1155707836151123}
+{"relation": "P407", "template": "[X] was composed in [Y]", "bt_log_prob": -1.2571724355220795}
+{"relation": "P407", "template": "[X] was written in [Y];", "bt_log_prob": -1.3262884020805359}

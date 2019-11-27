@@ -1,0 +1,51 @@
+{"relation": "P27", "template": "[X] is [Y] citizen .", "label": "country of citizenship", "description": "the object is a country that recognizes the subject as its citizen", "type": "N-M"}
+{"relation": "P27", "template": "[Y] singer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 9892}
+{"relation": "P27", "template": "[Y] writer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 4666}
+{"relation": "P27", "template": "[Y] rapper [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 4150}
+{"relation": "P27", "template": "[Y] singer - songwriter [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 3842}
+{"relation": "P27", "template": "[Y] composer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 2941}
+{"relation": "P27", "template": "[Y] president [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 2712}
+{"relation": "P27", "template": "[Y] artist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 2697}
+{"relation": "P27", "template": "[Y] recording artist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 2408}
+{"relation": "P27", "template": "[Y] leader [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 2194}
+{"relation": "P27", "template": "[Y] musician [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 2056}
+{"relation": "P27", "template": "[Y] author [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1894}
+{"relation": "P27", "template": "[Y] astronomer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1834}
+{"relation": "P27", "template": "[Y] poet [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1540}
+{"relation": "P27", "template": "[Y] architect [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1406}
+{"relation": "P27", "template": "[X] returned to [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1372}
+{"relation": "P27", "template": "[Y] director [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1349}
+{"relation": "P27", "template": "[Y] king [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1279}
+{"relation": "P27", "template": "[Y] actor [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1192}
+{"relation": "P27", "template": "[Y] general [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1176}
+{"relation": "P27", "template": "[Y] historian [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1056}
+{"relation": "P27", "template": "[Y] actress [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1010}
+{"relation": "P27", "template": "[Y] drama film directed by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 986}
+{"relation": "P27", "template": "[Y] painter [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 952}
+{"relation": "P27", "template": "[Y] hard [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 947}
+{"relation": "P27", "template": "[Y] pop singer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 915}
+{"relation": "P27", "template": "[Y] prime minister [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 915}
+{"relation": "P27", "template": "[Y] novelist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 808}
+{"relation": "P27", "template": "[Y] driver [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 779}
+{"relation": "P27", "template": "[Y] naturalist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 775}
+{"relation": "P27", "template": "[Y] playwright [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 764}
+{"relation": "P27", "template": "[Y] dictator [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 720}
+{"relation": "P27", "template": "[Y] botanist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 645}
+{"relation": "P27", "template": "[X] returned to the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 612}
+{"relation": "P27", "template": "[Y] captain [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 604}
+{"relation": "P27", "template": "[Y] mathematician [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 598}
+{"relation": "P27", "template": "[Y] explorer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 598}
+{"relation": "P27", "template": "[Y] filmmaker [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 580}
+{"relation": "P27", "template": "[Y] zoologist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 580}
+{"relation": "P27", "template": "[Y] politician [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 560}
+{"relation": "P27", "template": "[Y] film director [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 535}
+{"relation": "P27", "template": "[Y] comedian [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 522}
+{"relation": "P27", "template": "[Y] physicist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 521}
+{"relation": "P27", "template": "[X] represented [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 504}
+{"relation": "P27", "template": "[Y] r&b singer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 502}
+{"relation": "P27", "template": "[Y] foreign minister [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 480}
+{"relation": "P27", "template": "[Y] player [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 445}
+{"relation": "P27", "template": "[Y] chemist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 444}
+{"relation": "P27", "template": "[Y] striker [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 442}
+{"relation": "P27", "template": "[Y] philosopher [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 441}
+{"relation": "P27", "template": "[Y] sultan [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 431}

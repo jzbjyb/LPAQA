@@ -1,0 +1,28 @@
+{"relation": "P136", "template": "[X] plays [Y] music ."}
+{"relation": "P136", "template": "[X] plays [Y] music.", "bt_log_prob": -0.3030181974172592}
+{"relation": "P136", "template": "[X] plays [Y] -music.", "bt_log_prob": -0.4968443065881729}
+{"relation": "P136", "template": "[X] is playing [Y] music.", "bt_log_prob": -0.5249150991439819}
+{"relation": "P136", "template": "[X] plays music [Y].", "bt_log_prob": -0.5687516257166862}
+{"relation": "P136", "template": "[X] plays [Y] Music.", "bt_log_prob": -0.5987696349620819}
+{"relation": "P136", "template": "[X] plays music by [Y].", "bt_log_prob": -0.651499330997467}
+{"relation": "P136", "template": "[X] plays [Y] -Music.", "bt_log_prob": -0.6623986065387726}
+{"relation": "P136", "template": "[X] plays music on [Y].", "bt_log_prob": -0.6907913982868195}
+{"relation": "P136", "template": "[X] play [Y] music.", "bt_log_prob": -0.6926948726177216}
+{"relation": "P136", "template": "[X] plays [Y] music", "bt_log_prob": -0.7319765388965607}
+{"relation": "P136", "template": "[X] plays music from [Y].", "bt_log_prob": -0.7329641878604889}
+{"relation": "P136", "template": "[X] plays [Y].", "bt_log_prob": -0.7535710632801056}
+{"relation": "P136", "template": "[X] is playing music [Y].", "bt_log_prob": -0.783134251832962}
+{"relation": "P136", "template": "[X] performs [Y] music.", "bt_log_prob": -0.7864749729633331}
+{"relation": "P136", "template": "[X] is playing [Y].", "bt_log_prob": -0.914617121219635}
+{"relation": "P136", "template": "[X] plays the music [Y].", "bt_log_prob": -0.9260976612567902}
+{"relation": "P136", "template": "[X] plays Music [Y].", "bt_log_prob": -0.9371406733989716}
+{"relation": "P136", "template": "[X] play music [Y].", "bt_log_prob": -0.9491332173347473}
+{"relation": "P136", "template": "[X] playing music [Y].", "bt_log_prob": -0.9732319712638855}
+{"relation": "P136", "template": "[X] plays music [Y]", "bt_log_prob": -0.9994364380836487}
+{"relation": "P136", "template": "[X] performs [Y].", "bt_log_prob": -1.1014125347137451}
+{"relation": "P136", "template": "[X] is playing [Y] -music", "bt_log_prob": -1.1064185798168182}
+{"relation": "P136", "template": "[X] playing [Y] music.", "bt_log_prob": -1.1640182137489319}
+{"relation": "P136", "template": "[X] is [Y].", "bt_log_prob": -1.1968769431114197}
+{"relation": "P136", "template": "[X] play [Y].", "bt_log_prob": -1.2524446845054626}
+{"relation": "P136", "template": "[X] playing [Y].", "bt_log_prob": -1.266607940196991}
+{"relation": "P136", "template": "[X] plays [Y]", "bt_log_prob": -1.2871728539466858}

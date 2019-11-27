@@ -1,0 +1,29 @@
+{"relation": "P937", "template": "[X] used to work in [Y] ."}
+{"relation": "P937", "template": "[X] used to work in [Y].", "bt_log_prob": -0.38872653245925903}
+{"relation": "P937", "template": "[X] worked in [Y].", "bt_log_prob": -0.5557762086391449}
+{"relation": "P937", "template": "[X] used to work at [Y].", "bt_log_prob": -0.5726691037416458}
+{"relation": "P937", "template": "[X] previously worked in [Y].", "bt_log_prob": -0.6181053072214127}
+{"relation": "P937", "template": "[X] used to work on [Y].", "bt_log_prob": -0.6248624175786972}
+{"relation": "P937", "template": "[X] formerly worked in [Y].", "bt_log_prob": -0.6492774337530136}
+{"relation": "P937", "template": "[X] used to work under [Y].", "bt_log_prob": -0.6554855406284332}
+{"relation": "P937", "template": "[X] used to work for [Y].", "bt_log_prob": -0.6893565505743027}
+{"relation": "P937", "template": "[X] was working in [Y].", "bt_log_prob": -0.702362447977066}
+{"relation": "P937", "template": "[X] used to work with [Y].", "bt_log_prob": -0.7554458677768707}
+{"relation": "P937", "template": "[X] worked in [Y] before.", "bt_log_prob": -0.755914106965065}
+{"relation": "P937", "template": "[X] has worked in [Y].", "bt_log_prob": -0.7722253203392029}
+{"relation": "P937", "template": "[X] used to function in [Y].", "bt_log_prob": -0.8004607260227203}
+{"relation": "P937", "template": "[X] has worked in [Y] before.", "bt_log_prob": -0.815473735332489}
+{"relation": "P937", "template": "[X] worked on [Y].", "bt_log_prob": -0.8569768071174622}
+{"relation": "P937", "template": "[X] used to be in [Y].", "bt_log_prob": -0.8806565403938293}
+{"relation": "P937", "template": "[X] works in [Y].", "bt_log_prob": -0.8931621611118317}
+{"relation": "P937", "template": "[X] previously worked under [Y].", "bt_log_prob": -0.8981888890266418}
+{"relation": "P937", "template": "[X] used to work in [Y]", "bt_log_prob": -0.9016989767551422}
+{"relation": "P937", "template": "[X] formerly worked under [Y].", "bt_log_prob": -0.9093950986862183}
+{"relation": "P937", "template": "[X] used to be under [Y].", "bt_log_prob": -0.9165309071540833}
+{"relation": "P937", "template": "[X] was working on [Y].", "bt_log_prob": -0.9252646863460541}
+{"relation": "P937", "template": "[X] was in [Y].", "bt_log_prob": -0.9262085855007172}
+{"relation": "P937", "template": "[X] worked at [Y].", "bt_log_prob": -0.9276348650455475}
+{"relation": "P937", "template": "[X] used to operate under [Y].", "bt_log_prob": -0.9337721467018127}
+{"relation": "P937", "template": "[X] was formerly in [Y].", "bt_log_prob": -0.9811482131481171}
+{"relation": "P937", "template": "[X] has worked at [Y].", "bt_log_prob": -0.996315985918045}
+{"relation": "P937", "template": "[X] has been working in [Y]", "bt_log_prob": -1.1613287925720215}

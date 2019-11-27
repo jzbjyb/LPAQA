@@ -1,0 +1,51 @@
+{"relation": "P19", "template": "[X] was born in [Y] .", "label": "place of birth", "description": "most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character", "type": "N-1"}
+{"relation": "P19", "template": "[X] was born in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 9431}
+{"relation": "P19", "template": "[Y] native [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 372}
+{"relation": "P19", "template": "[X] returned to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 366}
+{"relation": "P19", "template": "[Y] mayor [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 349}
+{"relation": "P19", "template": "[X] was born and raised in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 321}
+{"relation": "P19", "template": "[X] was born at [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 238}
+{"relation": "P19", "template": "[Y] rapper [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 196}
+{"relation": "P19", "template": "[X] grew up in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 194}
+{"relation": "P19", "template": "[X] left [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 144}
+{"relation": "P19", "template": "[X] cf [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 87}
+{"relation": "P19", "template": "[Y] general [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 76}
+{"relation": "P19", "template": "[X] was born in the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 76}
+{"relation": "P19", "template": "[Y] architect [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 70}
+{"relation": "P19", "template": "[X] was raised in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 65}
+{"relation": "P19", "template": "[X] returns to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 50}
+{"relation": "P19", "template": "[X] moved to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
+{"relation": "P19", "template": "[Y] clay [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 48}
+{"relation": "P19", "template": "[Y] singer [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 45}
+{"relation": "P19", "template": "[X] was born near [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 40}
+{"relation": "P19", "template": "[Y] live event [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 40}
+{"relation": "P19", "template": "[X] lived in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 39}
+{"relation": "P19", "template": "[X] moved back to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 36}
+{"relation": "P19", "template": "[X] born in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 36}
+{"relation": "P19", "template": "[Y] artist [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 36}
+{"relation": "P19", "template": "[X] died in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 35}
+{"relation": "P19", "template": "[Y] hard [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 34}
+{"relation": "P19", "template": "[Y] king [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 32}
+{"relation": "P19", "template": "[Y] is the birthplace of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 31}
+{"relation": "P19", "template": "[Y] native , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 31}
+{"relation": "P19", "template": "[X] entered [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 31}
+{"relation": "P19", "template": "[X] was a native of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 30}
+{"relation": "P19", "template": "[Y] politician [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 30}
+{"relation": "P19", "template": "[X] arrived in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 30}
+{"relation": "P19", "template": "[Y] son of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 29}
+{"relation": "P19", "template": "[X] went to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 27}
+{"relation": "P19", "template": "[X] is a native of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 27}
+{"relation": "P19", "template": "[X] attended [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 27}
+{"relation": "P19", "template": "[Y] was the birthplace of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 26}
+{"relation": "P19", "template": "[Y] during the reign of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 25}
+{"relation": "P19", "template": "[Y] resident [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 25}
+{"relation": "P19", "template": "[Y] actor [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 25}
+{"relation": "P19", "template": "[X] lives in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
+{"relation": "P19", "template": "[X] were born in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
+{"relation": "P19", "template": "[X] leaves [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
+{"relation": "P19", "template": "[X] remained in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
+{"relation": "P19", "template": "[X] to return to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
+{"relation": "P19", "template": "[Y] hard ( i ) [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 23}
+{"relation": "P19", "template": "[X] graduated from [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 23}
+{"relation": "P19", "template": "[X] is born in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 23}
+{"relation": "P19", "template": "[X] cm [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 23}

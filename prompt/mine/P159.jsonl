@@ -1,0 +1,51 @@
+{"relation": "P159", "template": "The headquarter of [X] is in [Y] .", "label": "headquarters location", "description": "specific location where an organization's headquarters is or has been situated. Inverse property of \"occupant\" (P466).", "type": "N-1"}
+{"relation": "P159", "template": "[X] headquarters in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 780}
+{"relation": "P159", "template": "[Y] and london : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 775}
+{"relation": "P159", "template": "[Y] and new york : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 552}
+{"relation": "P159", "template": "[Y] albums ( [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 326}
+{"relation": "P159", "template": "[X] shipyard in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 304}
+{"relation": "P159", "template": "[Y] club [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 270}
+{"relation": "P159", "template": "[X] campus in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 262}
+{"relation": "P159", "template": "[Y] rivals [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 251}
+{"relation": "P159", "template": "[X] studios in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 183}
+{"relation": "P159", "template": "[X] located in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 160}
+{"relation": "P159", "template": "[X] based in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 159}
+{"relation": "P159", "template": "[X] new york to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 144}
+{"relation": "P159", "template": "[Y] newspaper [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 132}
+{"relation": "P159", "template": "[X] yard at [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 131}
+{"relation": "P159", "template": "[X] ltd. , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 130}
+{"relation": "P159", "template": "[Y] to attend [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 125}
+{"relation": "P159", "template": "[Y] to attend the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 123}
+{"relation": "P159", "template": "[Y] based [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 120}
+{"relation": "P159", "template": "[X] is headquartered in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 115}
+{"relation": "P159", "template": "[X] is founded in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 105}
+{"relation": "P159", "template": "[X] was founded in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 104}
+{"relation": "P159", "template": "[X] factory in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 104}
+{"relation": "P159", "template": "[Y] and boston : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 103}
+{"relation": "P159", "template": "[X] building in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 100}
+{"relation": "P159", "template": "[Y] to study at the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 97}
+{"relation": "P159", "template": "[X] ltd , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 94}
+{"relation": "P159", "template": "[Y] retained [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 87}
+{"relation": "P159", "template": "[X] is based in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 86}
+{"relation": "P159", "template": "[Y] and attended [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 83}
+{"relation": "P159", "template": "[X] house in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 81}
+{"relation": "P159", "template": "[X] gallery , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 81}
+{"relation": "P159", "template": "[X] press , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 78}
+{"relation": "P159", "template": "[Y] and london : the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 76}
+{"relation": "P159", "template": "[X] art gallery , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 75}
+{"relation": "P159", "template": "[Y] and attended the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 74}
+{"relation": "P159", "template": "[X] moved to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 68}
+{"relation": "P159", "template": "[Y] and kingston : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 64}
+{"relation": "P159", "template": "[Y] and graduated from [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 64}
+{"relation": "P159", "template": "[X] headquarters , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 63}
+{"relation": "P159", "template": "[X] plant in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 60}
+{"relation": "P159", "template": "[X] is located in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 59}
+{"relation": "P159", "template": "[Y] and joined [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 59}
+{"relation": "P159", "template": "[Y] to play for [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 59}
+{"relation": "P159", "template": "[Y] and london , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 58}
+{"relation": "P159", "template": "[X] museum , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 56}
+{"relation": "P159", "template": "[Y] 1 . [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 56}
+{"relation": "P159", "template": "[X] ii [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 54}
+{"relation": "P159", "template": "[Y] and studied at the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 54}
+{"relation": "P159", "template": "[X] yard in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 53}
+{"relation": "P159", "template": "[Y] chapter of the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 52}

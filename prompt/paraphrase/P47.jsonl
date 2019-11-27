@@ -1,0 +1,37 @@
+{"relation": "P47", "template": "[X] shares border with [Y] ."}
+{"relation": "P47", "template": "[X] borders on [Y].", "bt_log_prob": -0.34953784942626953}
+{"relation": "P47", "template": "[X] borders [Y].", "bt_log_prob": -0.4332512468099594}
+{"relation": "P47", "template": "[X] shares a border with [Y].", "bt_log_prob": -0.47535213828086853}
+{"relation": "P47", "template": "[X] has a common border with [Y].", "bt_log_prob": -0.5406072437763214}
+{"relation": "P47", "template": "[X] adjoins [Y].", "bt_log_prob": -0.5731682032346725}
+{"relation": "P47", "template": "[X] shares a boundary with [Y].", "bt_log_prob": -0.5772617161273956}
+{"relation": "P47", "template": "[X] verges on [Y].", "bt_log_prob": -0.5961305052042007}
+{"relation": "P47", "template": "[X] is bordering on [Y].", "bt_log_prob": -0.5984434634447098}
+{"relation": "P47", "template": "[X] shares the border with [Y].", "bt_log_prob": -0.6338851153850555}
+{"relation": "P47", "template": "[X] borders with [Y].", "bt_log_prob": -0.6342436522245407}
+{"relation": "P47", "template": "[X] has a shared border with [Y].", "bt_log_prob": -0.6927955448627472}
+{"relation": "P47", "template": "[X] has a border with [Y].", "bt_log_prob": -0.7101296782493591}
+{"relation": "P47", "template": "[X] shares the boundary with [Y].", "bt_log_prob": -0.7190116345882416}
+{"relation": "P47", "template": "[X] has the same border as [Y].", "bt_log_prob": -0.7367356717586517}
+{"relation": "P47", "template": "[X] has the common border with [Y].", "bt_log_prob": -0.7477223873138428}
+{"relation": "P47", "template": "[X] has common boundaries with [Y].", "bt_log_prob": -0.7488551735877991}
+{"relation": "P47", "template": "[X] divides the border with [Y].", "bt_log_prob": -0.7763319909572601}
+{"relation": "P47", "template": "[X] has common borders with [Y].", "bt_log_prob": -0.8058098256587982}
+{"relation": "P47", "template": "[X] has common limits with [Y].", "bt_log_prob": -0.8123100697994232}
+{"relation": "P47", "template": "[X] shares common boundaries with [Y].", "bt_log_prob": -0.8409537076950073}
+{"relation": "P47", "template": "[X] shares borders with [Y].", "bt_log_prob": -0.8517777025699615}
+{"relation": "P47", "template": "[X] has common limitations with [Y].", "bt_log_prob": -0.870751678943634}
+{"relation": "P47", "template": "[X] communicates the border with [Y].", "bt_log_prob": -0.8938253819942474}
+{"relation": "P47", "template": "[X] will share the border with [Y].", "bt_log_prob": -0.9000025987625122}
+{"relation": "P47", "template": "[X] has a common boundary with [Y]", "bt_log_prob": -0.9414207935333252}
+{"relation": "P47", "template": "[X] is bordering on [Y]", "bt_log_prob": -1.0053622275590897}
+{"relation": "P47", "template": "[X] shares a border with [Y]", "bt_log_prob": -1.0313532203435898}
+{"relation": "P47", "template": "[X] has the same boundary as [Y]", "bt_log_prob": -1.0603041648864746}
+{"relation": "P47", "template": "[X] has a common border with [Y]", "bt_log_prob": -1.0911197066307068}
+{"relation": "P47", "template": "[X] has common boundaries with [Y]", "bt_log_prob": -1.1148107051849365}
+{"relation": "P47", "template": "[X] divides the boundary with [Y]", "bt_log_prob": -1.119894564151764}
+{"relation": "P47", "template": "[X] shares a boundary with [Y]", "bt_log_prob": -1.1766479313373566}
+{"relation": "P47", "template": "[X] shares the border with [Y]", "bt_log_prob": -1.2688019275665283}
+{"relation": "P47", "template": "[X] has a border with [Y]", "bt_log_prob": -1.281505286693573}
+{"relation": "P47", "template": "[X] adjacent to [Y]", "bt_log_prob": -1.3069574236869812}
+{"relation": "P47", "template": "[X] shares border with [Y]", "bt_log_prob": -1.3117904961109161}

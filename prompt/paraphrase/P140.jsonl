@@ -1,0 +1,29 @@
+{"relation": "P140", "template": "[X] is affiliated with the [Y] religion ."}
+{"relation": "P140", "template": "[X] is related to the [Y] religion.", "bt_log_prob": -0.5622764378786087}
+{"relation": "P140", "template": "[X] is associated with the [Y] religion.", "bt_log_prob": -0.5909677743911743}
+{"relation": "P140", "template": "[X] is related to [Y] religion.", "bt_log_prob": -0.6129908859729767}
+{"relation": "P140", "template": "[X] is related to religion [Y].", "bt_log_prob": -0.63425612449646}
+{"relation": "P140", "template": "[X] is connected to the [Y] religion.", "bt_log_prob": -0.6391783654689789}
+{"relation": "P140", "template": "[X] is connected to religion [Y].", "bt_log_prob": -0.6431198120117188}
+{"relation": "P140", "template": "[X] is close to the [Y] religion.", "bt_log_prob": -0.6447055041790009}
+{"relation": "P140", "template": "[X] is connected with the [Y] religion.", "bt_log_prob": -0.6509189903736115}
+{"relation": "P140", "template": "[X] is connected with religion [Y].", "bt_log_prob": -0.6530231535434723}
+{"relation": "P140", "template": "[X] is associated with [Y] religion.", "bt_log_prob": -0.6645149290561676}
+{"relation": "P140", "template": "[X] is linked to the [Y] religion.", "bt_log_prob": -0.6767658293247223}
+{"relation": "P140", "template": "[X] is connected to the religion [Y].", "bt_log_prob": -0.6893437802791595}
+{"relation": "P140", "template": "[X] is associated with religion [Y].", "bt_log_prob": -0.6932437419891357}
+{"relation": "P140", "template": "[X] is related to the religion [Y].", "bt_log_prob": -0.6988645195960999}
+{"relation": "P140", "template": "[X] is linked to religion [Y].", "bt_log_prob": -0.7074988484382629}
+{"relation": "P140", "template": "[X] is connected with [Y] religion.", "bt_log_prob": -0.7195665538311005}
+{"relation": "P140", "template": "[X] is close to [Y] religion.", "bt_log_prob": -0.7218080759048462}
+{"relation": "P140", "template": "[X] is close to the [Y] -religion.", "bt_log_prob": -0.7229601144790649}
+{"relation": "P140", "template": "[X] is connected to [Y] religion.", "bt_log_prob": -0.7286674380302429}
+{"relation": "P140", "template": "[X] is close to [Y] -religion.", "bt_log_prob": -0.743132472038269}
+{"relation": "P140", "template": "[X] is very close to the [Y] religion.", "bt_log_prob": -0.7822678685188293}
+{"relation": "P140", "template": "[X] is related to the [Y] religion", "bt_log_prob": -1.074414223432541}
+{"relation": "P140", "template": "[X] is connected with the [Y] religion", "bt_log_prob": -1.130597084760666}
+{"relation": "P140", "template": "[X] is related to [Y] religion", "bt_log_prob": -1.1367557346820831}
+{"relation": "P140", "template": "[X] is connected to the [Y] religion", "bt_log_prob": -1.1454556584358215}
+{"relation": "P140", "template": "[X] is related to the [Y] -religion", "bt_log_prob": -1.1560942232608795}
+{"relation": "P140", "template": "[X] is associated with the [Y] religion", "bt_log_prob": -1.1726712882518768}
+{"relation": "P140", "template": "[X] is related to [Y] -religion", "bt_log_prob": -1.1785035729408264}

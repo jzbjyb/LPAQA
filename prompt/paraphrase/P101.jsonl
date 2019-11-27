@@ -1,0 +1,27 @@
+{"relation": "P101", "template": "[X] works in the field of [Y] ."}
+{"relation": "P101", "template": "[X] works in the range [Y].", "bt_log_prob": -0.5004761666059494}
+{"relation": "P101", "template": "[X] works in the range of [Y].", "bt_log_prob": -0.5256642401218414}
+{"relation": "P101", "template": "[X] works in range [Y].", "bt_log_prob": -0.5564727038145065}
+{"relation": "P101", "template": "[X] works in the area [Y].", "bt_log_prob": -0.5691892951726913}
+{"relation": "P101", "template": "[X] works in area [Y].", "bt_log_prob": -0.5933099240064621}
+{"relation": "P101", "template": "[X] works in [Y].", "bt_log_prob": -0.6000159829854965}
+{"relation": "P101", "template": "[X] works in the [Y] area.", "bt_log_prob": -0.6069986671209335}
+{"relation": "P101", "template": "[X] operates in the range of [Y].", "bt_log_prob": -0.61056187748909}
+{"relation": "P101", "template": "[X] works in the [Y] range.", "bt_log_prob": -0.6170739978551865}
+{"relation": "P101", "template": "[X] works within the range of [Y].", "bt_log_prob": -0.6343630850315094}
+{"relation": "P101", "template": "[X] is in the range of [Y].", "bt_log_prob": -0.6542675197124481}
+{"relation": "P101", "template": "[X] works in the field [Y].", "bt_log_prob": -0.7130712866783142}
+{"relation": "P101", "template": "[X] works in the area of [Y].", "bt_log_prob": -0.7466136813163757}
+{"relation": "P101", "template": "[X] works in the field of [Y].", "bt_log_prob": -0.7530533373355865}
+{"relation": "P101", "template": "[X] works in section [Y].", "bt_log_prob": -0.786179393529892}
+{"relation": "P101", "template": "[X] works in the [Y] domain.", "bt_log_prob": -0.8130691945552826}
+{"relation": "P101", "template": "[X] works in the [Y] field.", "bt_log_prob": -0.8519521653652191}
+{"relation": "P101", "template": "[X] works in the range of [Y]", "bt_log_prob": -0.8908414840698242}
+{"relation": "P101", "template": "[X] works on [Y].", "bt_log_prob": -0.9150079786777496}
+{"relation": "P101", "template": "[X] works in the field of [Y]", "bt_log_prob": -1.007639855146408}
+{"relation": "P101", "template": "[X] works in the area of [Y]", "bt_log_prob": -1.0965981185436249}
+{"relation": "P101", "template": "[X] is working in the field of [Y]", "bt_log_prob": -1.1479260623455048}
+{"relation": "P101", "template": "[X] works in the domain of [Y]", "bt_log_prob": -1.167958378791809}
+{"relation": "P101", "template": "[X] works on the field of [Y]", "bt_log_prob": -1.250353068113327}
+{"relation": "P101", "template": "[X] works on [Y]", "bt_log_prob": -1.3110334277153015}
+{"relation": "P101", "template": "[X] works in [Y]", "bt_log_prob": -1.3223517537117004}

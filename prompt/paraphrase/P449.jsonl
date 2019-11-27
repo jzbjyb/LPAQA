@@ -1,0 +1,25 @@
+{"relation": "P449", "template": "[X] was originally aired on [Y] ."}
+{"relation": "P449", "template": "[X] was originally broadcast on [Y].", "bt_log_prob": -0.389067679643631}
+{"relation": "P449", "template": "[X] was originally aired on [Y].", "bt_log_prob": -0.45437029004096985}
+{"relation": "P449", "template": "[X] originally aired on [Y].", "bt_log_prob": -0.46373866498470306}
+{"relation": "P449", "template": "[X] was originally broadcast in [Y].", "bt_log_prob": -0.5001256167888641}
+{"relation": "P449", "template": "[X] was originally aired in [Y].", "bt_log_prob": -0.5443179309368134}
+{"relation": "P449", "template": "[X] was originally shown on [Y].", "bt_log_prob": -0.5776116698980331}
+{"relation": "P449", "template": "[X] was originally broadcast via [Y].", "bt_log_prob": -0.6228645443916321}
+{"relation": "P449", "template": "[X] originally aired in [Y].", "bt_log_prob": -0.6354178488254547}
+{"relation": "P449", "template": "[X] was originally shown in [Y].", "bt_log_prob": -0.6359699964523315}
+{"relation": "P449", "template": "[X] was originally sent to [Y].", "bt_log_prob": -0.6507133841514587}
+{"relation": "P449", "template": "[X] was originally transmitted on [Y].", "bt_log_prob": -0.6830086410045624}
+{"relation": "P449", "template": "[X] was originally broadcast on [Y]", "bt_log_prob": -0.6834455579519272}
+{"relation": "P449", "template": "[X] was originally broadcast by [Y].", "bt_log_prob": -0.6936550140380859}
+{"relation": "P449", "template": "[X] was originally on [Y].", "bt_log_prob": -0.6949499696493149}
+{"relation": "P449", "template": "[X] was originally sent on [Y].", "bt_log_prob": -0.7033928334712982}
+{"relation": "P449", "template": "[X] was originally transmitted in [Y].", "bt_log_prob": -0.7224882245063782}
+{"relation": "P449", "template": "[X] was originally broadcast over [Y].", "bt_log_prob": -0.7340063154697418}
+{"relation": "P449", "template": "[X] was originally sent in [Y].", "bt_log_prob": -0.7683195173740387}
+{"relation": "P449", "template": "[X] was originally broadcast at [Y].", "bt_log_prob": -0.7735562324523926}
+{"relation": "P449", "template": "[X] was originally aired by [Y].", "bt_log_prob": -0.7836267054080963}
+{"relation": "P449", "template": "[X] originally aired on [Y]", "bt_log_prob": -0.8003896325826645}
+{"relation": "P449", "template": "[X] was originally broadcast on the [Y].", "bt_log_prob": -0.81435227394104}
+{"relation": "P449", "template": "[X] was originally broadcasted on [Y]", "bt_log_prob": -0.9413434863090515}
+{"relation": "P449", "template": "[X] was originally broadcasted in [Y]", "bt_log_prob": -0.9830842912197113}

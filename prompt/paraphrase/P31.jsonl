@@ -1,0 +1,15 @@
+{"relation": "P31", "template": "[X] is a [Y] ."}
+{"relation": "P31", "template": "[X] is a [Y].", "bt_log_prob": -0.2698991894721985}
+{"relation": "P31", "template": "[X] is an [Y].", "bt_log_prob": -0.4384943097829819}
+{"relation": "P31", "template": "[X] is [Y].", "bt_log_prob": -0.46335504949092865}
+{"relation": "P31", "template": "[X] is one [Y].", "bt_log_prob": -0.5653644055128098}
+{"relation": "P31", "template": "[X] is a [Y]", "bt_log_prob": -0.6969962269067764}
+{"relation": "P31", "template": "[X] is the [Y].", "bt_log_prob": -0.8060961067676544}
+{"relation": "P31", "template": "[X] is that [Y].", "bt_log_prob": -0.9609827399253845}
+{"relation": "P31", "template": "[X] is an [Y]", "bt_log_prob": -1.0553947985172272}
+{"relation": "P31", "template": "[X] is this [Y].", "bt_log_prob": -1.0812481045722961}
+{"relation": "P31", "template": "[X] is [Y]", "bt_log_prob": -1.1333867907524109}
+{"relation": "P31", "template": "[X] means [Y].", "bt_log_prob": -1.1416400074958801}
+{"relation": "P31", "template": "[X] is one [Y]", "bt_log_prob": -1.2751367092132568}
+{"relation": "P31", "template": "[X] = [Y].", "bt_log_prob": -1.3158616423606873}
+{"relation": "P31", "template": "[X] Is a [Y]", "bt_log_prob": -1.405898094177246}
