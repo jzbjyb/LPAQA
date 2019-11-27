@@ -1,1 +1,1 @@
-# Alpaca: language model prompts for factual knowledge retrieval
+# LPAQA: LM Prompt And Query Archive
