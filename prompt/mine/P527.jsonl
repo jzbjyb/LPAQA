@@ -1,51 +1,29 @@
-{"relation": "P527", "template": "[X] consists of [Y] .", "label": "has part", "description": "part of this subject; inverse property of \"part of\" (P361). See also \"has parts of the class\" (P2670).", "type": "N-M"}
-{"relation": "P527", "template": "[X] frontman [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1237}
-{"relation": "P527", "template": "[X] guitarist [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1228}
-{"relation": "P527", "template": "[X] member [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1095}
-{"relation": "P527", "template": "[X] nomination for [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 805}
-{"relation": "P527", "template": "[X] singer [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 635}
-{"relation": "P527", "template": "[X] drummer [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 627}
-{"relation": "P527", "template": "[X] members [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 603}
-{"relation": "P527", "template": "[X] vocalist [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 442}
-{"relation": "P527", "template": "[X] lead singer [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 401}
-{"relation": "P527", "template": "[X] bassist [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 393}
-{"relation": "P527", "template": "[X] including [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 347}
-{"relation": "P527", "template": "[Y] value : [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 285}
-{"relation": "P527", "template": "[X] 1 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 239}
-{"relation": "P527", "template": "[Y] joined the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 235}
-{"relation": "P527", "template": "[Y] won the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 213}
-{"relation": "P527", "template": "[X] countries such as [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 203}
-{"relation": "P527", "template": "[Y] standard published by the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 200}
-{"relation": "P527", "template": "[Y] stage of the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 198}
-{"relation": "P527", "template": "[Y] of the band [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 181}
-{"relation": "P527", "template": "[X] bandmate [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 174}
-{"relation": "P527", "template": "[X] leader [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 168}
-{"relation": "P527", "template": "[X] north of [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 161}
-{"relation": "P527", "template": "[X] 2008 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 159}
-{"relation": "P527", "template": "[X] comprising six [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 159}
-{"relation": "P527", "template": "[X] book [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 135}
-{"relation": "P527", "template": "[Y] left [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 124}
-{"relation": "P527", "template": "[X] countries of [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 115}
-{"relation": "P527", "template": "[Y] and the rest of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 113}
-{"relation": "P527", "template": "[X] like [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 111}
-{"relation": "P527", "template": "[Y] and other parts of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 104}
-{"relation": "P527", "template": "[Y] of the u.s. state of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 96}
-{"relation": "P527", "template": "[X] founder [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 85}
-{"relation": "P527", "template": "[X] including the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 83}
-{"relation": "P527", "template": "[X] countries like [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 81}
-{"relation": "P527", "template": "[X] countries , including [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 80}
-{"relation": "P527", "template": "[Y] to form [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 77}
-{"relation": "P527", "template": "[Y] and the rest of the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 73}
-{"relation": "P527", "template": "[X] \u2192 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 72}
-{"relation": "P527", "template": "[Y] clinched the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 71}
-{"relation": "P527", "template": "[Y] state in the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 71}
-{"relation": "P527", "template": "[Y] joined [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 71}
-{"relation": "P527", "template": "[X] keyboardist [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 70}
-{"relation": "P527", "template": "[Y] is a member of the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 69}
-{"relation": "P527", "template": "[X] as far south as [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 68}
-{"relation": "P527", "template": "[X] 9 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 67}
-{"relation": "P527", "template": "[X] member , [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 65}
-{"relation": "P527", "template": "[X] include [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 63}
-{"relation": "P527", "template": "[X] countries ( [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 63}
-{"relation": "P527", "template": "[X] countries , such as [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 62}
-{"relation": "P527", "template": "[Y] and their indian [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 60}
+{"template": "[X] frontman [Y] .", "weight": 0.00013330727233551443}
+{"template": "[X] guitarist [Y] .", "weight": 0.00013128601131029427}
+{"template": "[X] member [Y] .", "weight": 0.0007103359675966203}
+{"template": "[X] nomination for [Y] .", "weight": 0.00015631059068255126}
+{"template": "[X] singer [Y] .", "weight": 0.00012411241186782718}
+{"template": "[X] drummer [Y] .", "weight": 0.00010631354962242767}
+{"template": "[X] members [Y] .", "weight": 0.00012174195580882952}
+{"template": "[X] vocalist [Y] .", "weight": 0.00012864370364695787}
+{"template": "[X] lead singer [Y] .", "weight": 0.00013580865925177932}
+{"template": "[X] bassist [Y] .", "weight": 0.00012772975605912507}
+{"template": "[X] including [Y] .", "weight": 0.38337305188179016}
+{"template": "[Y] value : [X] .", "weight": 0.0001768256042851135}
+{"template": "[X] 1 [Y] .", "weight": 0.005697682034224272}
+{"template": "[Y] joined the [X] .", "weight": 0.0003449662181083113}
+{"template": "[Y] won the [X] .", "weight": 0.00010457235475769266}
+{"template": "[X] countries such as [Y] .", "weight": 7.158701191656291e-05}
+{"template": "[Y] standard published by the [X] .", "weight": 0.0003661910886876285}
+{"template": "[Y] stage of the [X] .", "weight": 0.0001219813057105057}
+{"template": "[Y] of the band [X] .", "weight": 0.0001256010145880282}
+{"template": "[X] bandmate [Y] .", "weight": 0.00010099189239554107}
+{"template": "[X] leader [Y] .", "weight": 0.00012256756599526852}
+{"template": "[X] north of [Y] .", "weight": 0.04068446531891823}
+{"template": "[X] 2008 [Y] .", "weight": 0.00010783490142785013}
+{"template": "[X] comprising six [Y] .", "weight": 0.051709938794374466}
+{"template": "[X] book [Y] .", "weight": 0.00011522068234626204}
+{"template": "[Y] left [X] .", "weight": 0.00014702936459798366}
+{"template": "[X] countries of [Y] .", "weight": 7.548824942205101e-05}
+{"template": "[Y] and the rest of [X] .", "weight": 0.24318793416023254}
+{"template": "[X] like [Y] .", "weight": 0.2714903950691223}

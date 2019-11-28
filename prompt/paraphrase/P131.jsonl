@@ -1,26 +1,30 @@
-{"relation": "P131", "template": "[X] is located in [Y] ."}
-{"relation": "P131", "template": "[X] is in [Y].", "bt_log_prob": -0.3445419818162918}
-{"relation": "P131", "template": "[X] is located in [Y].", "bt_log_prob": -0.4435227960348129}
-{"relation": "P131", "template": "[X] is found in [Y].", "bt_log_prob": -0.6388464123010635}
-{"relation": "P131", "template": "[X] lies in [Y].", "bt_log_prob": -0.6671467274427414}
-{"relation": "P131", "template": "[X] is in the [Y].", "bt_log_prob": -0.7209570109844208}
-{"relation": "P131", "template": "[X] is placed in [Y].", "bt_log_prob": -0.732551321387291}
-{"relation": "P131", "template": "[X] is inside [Y].", "bt_log_prob": -0.7365006357431412}
-{"relation": "P131", "template": "[X] is located in the [Y].", "bt_log_prob": -0.7531158924102783}
-{"relation": "P131", "template": "[X] is [Y].", "bt_log_prob": -0.7552724033594131}
-{"relation": "P131", "template": "[X] is in [Y]", "bt_log_prob": -0.7591179460287094}
-{"relation": "P131", "template": "[X] is located in [Y]", "bt_log_prob": -0.8412871807813644}
-{"relation": "P131", "template": "[X] is located at [Y].", "bt_log_prob": -0.8963502049446106}
-{"relation": "P131", "template": "[X] is on [Y].", "bt_log_prob": -0.9123460352420807}
-{"relation": "P131", "template": "[X] stands in [Y].", "bt_log_prob": -0.9781621396541595}
-{"relation": "P131", "template": "[X] is written in [Y].", "bt_log_prob": -0.9958726167678833}
-{"relation": "P131", "template": "[X] is set to [Y].", "bt_log_prob": -1.0288735032081604}
-{"relation": "P131", "template": "[X] will be in [Y].", "bt_log_prob": -1.0526671409606934}
-{"relation": "P131", "template": "[X] is in [Y]..", "bt_log_prob": -1.054703339934349}
-{"relation": "P131", "template": "[X] is located in the [Y]", "bt_log_prob": -1.1077861189842224}
-{"relation": "P131", "template": "[X] is located in [Y]..", "bt_log_prob": -1.1417223811149597}
-{"relation": "P131", "template": "[X] in [Y].", "bt_log_prob": -1.256942093372345}
-{"relation": "P131", "template": "[X] is found in [Y]..", "bt_log_prob": -1.336891621351242}
-{"relation": "P131", "template": "[X] located in [Y]..", "bt_log_prob": -1.4434237480163574}
-{"relation": "P131", "template": "[X] is in [Y];", "bt_log_prob": -1.448424756526947}
-{"relation": "P131", "template": "[X] is in [Y],", "bt_log_prob": -1.4892060160636902}
+{"template": "[X] district of [Y] .", "weight": 0.03562774881720543}
+{"template": "[X] District [Y].", "weight": 0.0001975763007067144}
+{"template": "[X] District of [Y].", "weight": 0.5060133934020996}
+{"template": "[X] district [Y].", "weight": 0.0001930734870256856}
+{"template": "[X] district of [Y].", "weight": 0.03562774881720543}
+{"template": "[X] Circle [Y].", "weight": 0.0002684872888494283}
+{"template": "[X] precinct [Y].", "weight": 0.00030204575159586966}
+{"template": "[X] in district [Y].", "weight": 0.0001680211425991729}
+{"template": "[X] circle [Y].", "weight": 0.0003026721242349595}
+{"template": "[X] in the district [Y].", "weight": 0.00018175452714785933}
+{"template": "[X] precinct of [Y].", "weight": 0.16420993208885193}
+{"template": "[X] County [Y].", "weight": 0.00026487885043025017}
+{"template": "[X] Ward [Y].", "weight": 0.0002415343769825995}
+{"template": "[X] in the [Y] district.", "weight": 0.17538043856620789}
+{"template": "[X] district from [Y].", "weight": 0.0031871043611317873}
+{"template": "[X] in [Y] district.", "weight": 0.05430575832724571}
+{"template": "[X] District from [Y].", "weight": 0.001670781522989273}
+{"template": "[X] District of [Y]", "weight": 0.0075951130129396915}
+{"template": "[X] in District [Y].", "weight": 0.00015868239279370755}
+{"template": "[X] Precinct [Y]", "weight": 0.00032942305551841855}
+{"template": "[X] District [Y]", "weight": 0.00022112658189143986}
+{"template": "[X] Districts [Y].", "weight": 0.0002710774715524167}
+{"template": "[X] districts [Y].", "weight": 0.00019641661492642015}
+{"template": "[X] in area [Y].", "weight": 0.0002515008673071861}
+{"template": "[X] in the district [Y]", "weight": 0.00031390300136990845}
+{"template": "[X] in district [Y]", "weight": 0.0002586328482721001}
+{"template": "[X] Circle [Y]", "weight": 0.0003083993506152183}
+{"template": "[X] district of [Y]", "weight": 0.01131931971758604}
+{"template": "[X] in District [Y]", "weight": 0.00026842078659683466}
+{"template": "[X] The circle [Y].", "weight": 0.0003646744298748672}

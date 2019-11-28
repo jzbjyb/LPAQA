@@ -1,51 +1,29 @@
-{"relation": "P47", "template": "[X] shares border with [Y] .", "label": "shares border with", "description": "countries or administrative subdivisions, of equal level, that this item borders, either by land or water", "type": "N-M"}
-{"relation": "P47", "template": "[Y] and northern [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 915}
-{"relation": "P47", "template": "[X] and northern [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 903}
-{"relation": "P47", "template": "[X] and southern [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 705}
-{"relation": "P47", "template": "[Y] and southern [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 674}
-{"relation": "P47", "template": "[Y] and parts of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 598}
-{"relation": "P47", "template": "[X] and parts of [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 588}
-{"relation": "P47", "template": "[X] and western [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 557}
-{"relation": "P47", "template": "[Y] and western [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 554}
-{"relation": "P47", "template": "[X] defeated [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 444}
-{"relation": "P47", "template": "[Y] near [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 410}
-{"relation": "P47", "template": "[X] near [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 391}
-{"relation": "P47", "template": "[X] invaded [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 326}
-{"relation": "P47", "template": "[X] and eastern [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 324}
-{"relation": "P47", "template": "[Y] and eastern [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 321}
-{"relation": "P47", "template": "[X] suburb of [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 303}
-{"relation": "P47", "template": "[Y] suburb of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 300}
-{"relation": "P47", "template": "[X] and southwestern [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 245}
-{"relation": "P47", "template": "[Y] and southwestern [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 245}
-{"relation": "P47", "template": "[X] and southeastern [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 217}
-{"relation": "P47", "template": "[Y] and southeastern [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 216}
-{"relation": "P47", "template": "[X] and northeastern [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 207}
-{"relation": "P47", "template": "[Y] and northeastern [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 202}
-{"relation": "P47", "template": "[Y] to the north , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 196}
-{"relation": "P47", "template": "[X] to the north , [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 193}
-{"relation": "P47", "template": "[Y] invaded [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 178}
-{"relation": "P47", "template": "[X] to the west , [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 133}
-{"relation": "P47", "template": "[Y] to the east , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 130}
-{"relation": "P47", "template": "[Y] to the west , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 130}
-{"relation": "P47", "template": "[X] to the east , [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 125}
-{"relation": "P47", "template": "[X] near the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 117}
-{"relation": "P47", "template": "[Y] near the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 114}
-{"relation": "P47", "template": "[Y] joined the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 108}
-{"relation": "P47", "template": "[Y] border with [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 108}
-{"relation": "P47", "template": "[X] border with [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 106}
-{"relation": "P47", "template": "[Y] to the south , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 91}
-{"relation": "P47", "template": "[X] to the north and [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 89}
-{"relation": "P47", "template": "[X] to the west and [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 89}
-{"relation": "P47", "template": "[Y] to the north and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 88}
-{"relation": "P47", "template": "[Y] to the west and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 88}
-{"relation": "P47", "template": "[X] is bordered by [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 86}
-{"relation": "P47", "template": "[Y] is bordered by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 85}
-{"relation": "P47", "template": "[X] to the south , [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 85}
-{"relation": "P47", "template": "[X] borders [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 83}
-{"relation": "P47", "template": "[Y] and possibly [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 83}
-{"relation": "P47", "template": "[Y] borders [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 82}
-{"relation": "P47", "template": "[X] and possibly [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 82}
-{"relation": "P47", "template": "[Y] and northwest [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 79}
-{"relation": "P47", "template": "[X] and northwest [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 78}
-{"relation": "P47", "template": "[X] and adjacent [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 78}
-{"relation": "P47", "template": "[Y] and adjacent [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 78}
+{"template": "[Y] and northern [X] .", "weight": 0.0016086335526779294}
+{"template": "[X] and northern [Y] .", "weight": 0.0004985455889254808}
+{"template": "[X] and southern [Y] .", "weight": 0.00041557473014108837}
+{"template": "[Y] and southern [X] .", "weight": 0.0003630837600212544}
+{"template": "[Y] and parts of [X] .", "weight": 0.16819673776626587}
+{"template": "[X] and parts of [Y] .", "weight": 0.00040003142203204334}
+{"template": "[X] and western [Y] .", "weight": 0.0007443655049428344}
+{"template": "[Y] and western [X] .", "weight": 0.0003406791074667126}
+{"template": "[X] defeated [Y] .", "weight": 0.31605902314186096}
+{"template": "[Y] near [X] .", "weight": 0.0005063989665359259}
+{"template": "[X] near [Y] .", "weight": 0.32977885007858276}
+{"template": "[X] invaded [Y] .", "weight": 0.03440205752849579}
+{"template": "[X] and eastern [Y] .", "weight": 0.0013789585791528225}
+{"template": "[Y] and eastern [X] .", "weight": 0.0003607202088460326}
+{"template": "[X] suburb of [Y] .", "weight": 0.01189112663269043}
+{"template": "[Y] suburb of [X] .", "weight": 0.0016799402656033635}
+{"template": "[X] and southwestern [Y] .", "weight": 0.0011547919129952788}
+{"template": "[Y] and southwestern [X] .", "weight": 0.00023657972633372992}
+{"template": "[X] and southeastern [Y] .", "weight": 0.11034172773361206}
+{"template": "[Y] and southeastern [X] .", "weight": 0.0002483376010786742}
+{"template": "[X] and northeastern [Y] .", "weight": 0.004651095252484083}
+{"template": "[Y] and northeastern [X] .", "weight": 0.00025272692437283695}
+{"template": "[Y] to the north , [X] .", "weight": 0.0001666500756982714}
+{"template": "[X] to the north , [Y] .", "weight": 0.0002598797727841884}
+{"template": "[Y] invaded [X] .", "weight": 0.008511665277183056}
+{"template": "[X] to the west , [Y] .", "weight": 0.0027953230310231447}
+{"template": "[Y] to the east , [X] .", "weight": 0.00015419464034494013}
+{"template": "[Y] to the west , [X] .", "weight": 0.0001538868382340297}
+{"template": "[X] to the east , [Y] .", "weight": 0.0024483005981892347}

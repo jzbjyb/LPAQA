@@ -1,51 +1,29 @@
-{"relation": "P1376", "template": "[X] is the capital of [Y] .", "label": "capital of", "description": "country, state, department, canton or other administrative division of which the municipality is the governmental seat", "type": "1-1"}
-{"relation": "P1376", "template": "[Y] capital [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 544}
-{"relation": "P1376", "template": "[Y] capital of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 511}
-{"relation": "P1376", "template": "[Y] near [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 184}
-{"relation": "P1376", "template": "[Y] capital , [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 163}
-{"relation": "P1376", "template": "[X] in the indian [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 123}
-{"relation": "P1376", "template": "[X] city , [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 107}
-{"relation": "P1376", "template": "[X] in the state of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 106}
-{"relation": "P1376", "template": "[X] in the canadian province of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 89}
-{"relation": "P1376", "template": "[Y] comprises the [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 77}
-{"relation": "P1376", "template": "[Y] museum of art , [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 72}
-{"relation": "P1376", "template": "[Y] city of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 67}
-{"relation": "P1376", "template": "[Y] capital city of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 66}
-{"relation": "P1376", "template": "[Y] outside [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 63}
-{"relation": "P1376", "template": "[X] in the province of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 61}
-{"relation": "P1376", "template": "[X] is a city in [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 58}
-{"relation": "P1376", "template": "[X] united states ( [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 58}
-{"relation": "P1376", "template": "[X] is the capital of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 58}
-{"relation": "P1376", "template": "[Y] including [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 57}
-{"relation": "P1376", "template": "[X] guadalajara , jalisco [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 56}
-{"relation": "P1376", "template": "[X] is the county seat of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 55}
-{"relation": "P1376", "template": "[Y] 1 [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 54}
-{"relation": "P1376", "template": "[Y] capital at [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 52}
-{"relation": "P1376", "template": "[X] was the capital of the [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 51}
-{"relation": "P1376", "template": "[X] in the u.s. state of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 51}
-{"relation": "P1376", "template": "[Y] gymnasium , [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 50}
-{"relation": "P1376", "template": "[X] and other parts of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 46}
-{"relation": "P1376", "template": "[Y] carolina stadium \u2022 [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 43}
-{"relation": "P1376", "template": "[X] became the capital of the [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 41}
-{"relation": "P1376", "template": "[X] and the rest of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 41}
-{"relation": "P1376", "template": "[X] and regional [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 40}
-{"relation": "P1376", "template": "[Y] outside of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 40}
-{"relation": "P1376", "template": "[X] area of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 39}
-{"relation": "P1376", "template": "[Y] and the city of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 38}
-{"relation": "P1376", "template": "[X] is the capital of the [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 38}
-{"relation": "P1376", "template": "[Y] town of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 37}
-{"relation": "P1376", "template": "[Y] regional - [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 37}
-{"relation": "P1376", "template": "[X] city in [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 37}
-{"relation": "P1376", "template": "[X] in central [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 36}
-{"relation": "P1376", "template": "[Y] government in [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 36}
-{"relation": "P1376", "template": "[X] the capital of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 35}
-{"relation": "P1376", "template": "[Y] state capital of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 34}
-{"relation": "P1376", "template": "[Y] based in [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 34}
-{"relation": "P1376", "template": "[Y] north of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 33}
-{"relation": "P1376", "template": "[X] region of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 33}
-{"relation": "P1376", "template": "[Y] cities of [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 33}
-{"relation": "P1376", "template": "[Y] infantry was organized at [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 32}
-{"relation": "P1376", "template": "[X] became the capital of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 31}
-{"relation": "P1376", "template": "[X] in mercer county , [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 31}
-{"relation": "P1376", "template": "[Y] and a municipal councillor in [X] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 30}
-{"relation": "P1376", "template": "[X] in the department of [Y] .", "label": null, "description": null, "type": "1-1", "wikipedia_count": 29}
+{"template": "[Y] capital [X] .", "weight": 0.00012404745211824775}
+{"template": "[Y] capital of [X] .", "weight": 0.0002133014495484531}
+{"template": "[Y] near [X] .", "weight": 0.00017295968427788466}
+{"template": "[Y] capital , [X] .", "weight": 0.00014847480633761734}
+{"template": "[X] in the indian [Y] .", "weight": 0.0002145664911950007}
+{"template": "[X] city , [Y] .", "weight": 0.00045555434189736843}
+{"template": "[X] in the state of [Y] .", "weight": 0.0004938432248309255}
+{"template": "[X] in the canadian province of [Y] .", "weight": 0.00044195432565174997}
+{"template": "[Y] comprises the [X] .", "weight": 0.00010810070671141148}
+{"template": "[Y] museum of art , [X] .", "weight": 0.083877794444561}
+{"template": "[Y] city of [X] .", "weight": 0.0001877450558822602}
+{"template": "[Y] capital city of [X] .", "weight": 0.00020024855621159077}
+{"template": "[Y] outside [X] .", "weight": 0.00017963748541660607}
+{"template": "[X] in the province of [Y] .", "weight": 0.20492500066757202}
+{"template": "[X] is a city in [Y] .", "weight": 0.0001865446101874113}
+{"template": "[X] united states ( [Y] .", "weight": 0.00016678254178259522}
+{"template": "[X] is the capital of [Y] .", "weight": 0.231721892952919}
+{"template": "[Y] including [X] .", "weight": 0.00016566737031098455}
+{"template": "[X] guadalajara , jalisco [Y] .", "weight": 0.00019880957552231848}
+{"template": "[X] is the county seat of [Y] .", "weight": 0.4735477864742279}
+{"template": "[Y] 1 [X] .", "weight": 0.0001879820047179237}
+{"template": "[Y] capital at [X] .", "weight": 0.00023801384668331593}
+{"template": "[X] was the capital of the [Y] .", "weight": 0.00012989257811568677}
+{"template": "[X] in the u.s. state of [Y] .", "weight": 0.0002109189663315192}
+{"template": "[Y] gymnasium , [X] .", "weight": 0.0003025736368726939}
+{"template": "[X] and other parts of [Y] .", "weight": 0.00037389571662060916}
+{"template": "[Y] carolina stadium \u2022 [X] .", "weight": 0.0004438339965417981}
+{"template": "[X] became the capital of the [Y] .", "weight": 0.00014439992082770914}
+{"template": "[X] and the rest of [Y] .", "weight": 0.00023773238353896886}

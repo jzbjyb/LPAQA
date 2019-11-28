@@ -1,51 +1,29 @@
-{"relation": "P413", "template": "[X] plays in [Y] position .", "label": "position played on team / speciality", "description": "position or specialism of a player on a team, e.g. Small Forward", "type": "N-1"}
-{"relation": "P413", "template": "[Y] 9 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 3049}
-{"relation": "P413", "template": "[Y] 10 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1814}
-{"relation": "P413", "template": "[Y] 11 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1480}
-{"relation": "P413", "template": "[Y] 7 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1257}
-{"relation": "P413", "template": "[Y] 8 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1044}
-{"relation": "P413", "template": "[Y] 17 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 835}
-{"relation": "P413", "template": "[Y] 20 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 788}
-{"relation": "P413", "template": "[Y] 14 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 651}
-{"relation": "P413", "template": "[X] substitutions : [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 614}
-{"relation": "P413", "template": "[Y] 4 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 612}
-{"relation": "P413", "template": "[Y] 18 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 603}
-{"relation": "P413", "template": "[Y] 21 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 590}
-{"relation": "P413", "template": "[Y] 19 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 536}
-{"relation": "P413", "template": "[Y] 15 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 504}
-{"relation": "P413", "template": "[Y] 12 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 481}
-{"relation": "P413", "template": "[Y] 6 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 457}
-{"relation": "P413", "template": "[Y] 23 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 427}
-{"relation": "P413", "template": "[Y] 16 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 390}
-{"relation": "P413", "template": "[Y] 5 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 358}
-{"relation": "P413", "template": "[Y] 13 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 341}
-{"relation": "P413", "template": "[Y] 22 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 314}
-{"relation": "P413", "template": "[Y] 24 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 217}
-{"relation": "P413", "template": "[Y] eng [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 212}
-{"relation": "P413", "template": "[Y] 3 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 160}
-{"relation": "P413", "template": "[Y] 25 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 151}
-{"relation": "P413", "template": "[X] substitutes : [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 146}
-{"relation": "P413", "template": "[Y] 27 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 127}
-{"relation": "P413", "template": "[Y] 2 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 114}
-{"relation": "P413", "template": "[Y] 28 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 102}
-{"relation": "P413", "template": "[Y] 1 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 96}
-{"relation": "P413", "template": "[Y] 33 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 85}
-{"relation": "P413", "template": "[Y] 30 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 79}
-{"relation": "P413", "template": "[X] fw ( [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 78}
-{"relation": "P413", "template": "[Y] 26 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 76}
-{"relation": "P413", "template": "[Y] 29 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 74}
-{"relation": "P413", "template": "[X] as the starting [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 65}
-{"relation": "P413", "template": "[X] cm / [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 64}
-{"relation": "P413", "template": "[Y] 32 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 62}
-{"relation": "P413", "template": "[X] played [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 54}
-{"relation": "P413", "template": "[X] \u2021 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 52}
-{"relation": "P413", "template": "[Y] 35 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 52}
-{"relation": "P413", "template": "[X] united states [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 51}
-{"relation": "P413", "template": "[Y] 31 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
-{"relation": "P413", "template": "[X] played as a [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 44}
-{"relation": "P413", "template": "[X] cf / [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 39}
-{"relation": "P413", "template": "[Y] sco [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 37}
-{"relation": "P413", "template": "[X] \u22c5 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 36}
-{"relation": "P413", "template": "[Y] defenders midfielders forwards [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 35}
-{"relation": "P413", "template": "[Y] like [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 34}
-{"relation": "P413", "template": "[X] was the starting [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 34}
+{"template": "[Y] 9 [X] .", "weight": 8.181085831893142e-06}
+{"template": "[Y] 10 [X] .", "weight": 7.837000339350197e-06}
+{"template": "[Y] 11 [X] .", "weight": 7.81161907070782e-06}
+{"template": "[Y] 7 [X] .", "weight": 8.121028258756269e-06}
+{"template": "[Y] 8 [X] .", "weight": 7.72345629229676e-06}
+{"template": "[Y] 17 [X] .", "weight": 8.242503099609166e-06}
+{"template": "[Y] 20 [X] .", "weight": 7.530554739787476e-06}
+{"template": "[Y] 14 [X] .", "weight": 8.403693755099084e-06}
+{"template": "[X] substitutions : [Y] .", "weight": 0.000622010207735002}
+{"template": "[Y] 4 [X] .", "weight": 7.968022146087606e-06}
+{"template": "[Y] 18 [X] .", "weight": 8.180531949619763e-06}
+{"template": "[Y] 21 [X] .", "weight": 7.971171726239845e-06}
+{"template": "[Y] 19 [X] .", "weight": 8.140996214933693e-06}
+{"template": "[Y] 15 [X] .", "weight": 8.224031262216158e-06}
+{"template": "[Y] 12 [X] .", "weight": 7.70170026953565e-06}
+{"template": "[Y] 6 [X] .", "weight": 8.129559319058899e-06}
+{"template": "[Y] 23 [X] .", "weight": 8.06163461675169e-06}
+{"template": "[Y] 16 [X] .", "weight": 8.288679964607581e-06}
+{"template": "[Y] 5 [X] .", "weight": 7.748046300548594e-06}
+{"template": "[Y] 13 [X] .", "weight": 8.162506674125325e-06}
+{"template": "[Y] 22 [X] .", "weight": 7.781502063153312e-06}
+{"template": "[Y] 24 [X] .", "weight": 8.335790880664717e-06}
+{"template": "[Y] eng [X] .", "weight": 2.7330403099767864e-05}
+{"template": "[Y] 3 [X] .", "weight": 7.642257514817175e-06}
+{"template": "[Y] 25 [X] .", "weight": 7.98238852439681e-06}
+{"template": "[X] substitutes : [Y] .", "weight": 0.9991433620452881}
+{"template": "[Y] 27 [X] .", "weight": 8.017659638426267e-06}
+{"template": "[Y] 2 [X] .", "weight": 7.14759926268016e-06}
+{"template": "[Y] 28 [X] .", "weight": 7.991887287062127e-06}

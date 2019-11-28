@@ -1,51 +1,29 @@
-{"relation": "P364", "template": "The original language of [X] is [Y] .", "label": "original language of film or TV show", "description": "language in which a film or a performance work was originally created. Deprecated for written works; use P407 (\"language of work or name\") instead.", "type": "N-1"}
-{"relation": "P364", "template": "[Y] 2015 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 95}
-{"relation": "P364", "template": "[Y] 2013 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 81}
-{"relation": "P364", "template": "[Y] 2017 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 81}
-{"relation": "P364", "template": "[Y] 2012 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 69}
-{"relation": "P364", "template": "[Y] network [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 64}
-{"relation": "P364", "template": "[Y] 2008 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 59}
-{"relation": "P364", "template": "[Y] 2011 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 58}
-{"relation": "P364", "template": "[Y] 2010 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 55}
-{"relation": "P364", "template": "[Y] 2004 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 53}
-{"relation": "P364", "template": "[Y] 2005 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 51}
-{"relation": "P364", "template": "[Y] 2006 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 50}
-{"relation": "P364", "template": "[Y] title : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
-{"relation": "P364", "template": "[Y] film [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
-{"relation": "P364", "template": "[Y] 2016 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
-{"relation": "P364", "template": "[Y] 2014 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
-{"relation": "P364", "template": "[Y] 2009 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 45}
-{"relation": "P364", "template": "[Y] 2001 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 44}
-{"relation": "P364", "template": "[Y] 2007 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 43}
-{"relation": "P364", "template": "[Y] version [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 35}
-{"relation": "P364", "template": "[Y] female [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 35}
-{"relation": "P364", "template": "[Y] 2003 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 31}
-{"relation": "P364", "template": "[X] a. r. rahman [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 30}
-{"relation": "P364", "template": "[Y] as `` [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 28}
-{"relation": "P364", "template": "[Y] movie [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 28}
-{"relation": "P364", "template": "[Y] 2002 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 27}
-{"relation": "P364", "template": "[Y] version of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 26}
-{"relation": "P364", "template": "[Y] 2000 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 25}
-{"relation": "P364", "template": "[Y] 1997 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
-{"relation": "P364", "template": "[Y] film , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
-{"relation": "P364", "template": "[Y] translation : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 23}
-{"relation": "P364", "template": "[X] priya [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 22}
-{"relation": "P364", "template": "[Y] title original title role [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 22}
-{"relation": "P364", "template": "[Y] title [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 19}
-{"relation": "P364", "template": "[Y] 1999 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 18}
-{"relation": "P364", "template": "[Y] television network [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 17}
-{"relation": "P364", "template": "[Y] blockbuster [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 17}
-{"relation": "P364", "template": "[Y] title chinese title role [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 17}
-{"relation": "P364", "template": "[X] harris jayaraj [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 17}
-{"relation": "P364", "template": "[Y] 1992 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 16}
-{"relation": "P364", "template": "[X] 2010 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 16}
-{"relation": "P364", "template": "[X] india [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 16}
-{"relation": "P364", "template": "[Y] soap opera [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 15}
-{"relation": "P364", "template": "[X] 2017 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 15}
-{"relation": "P364", "template": "[X] 2015 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 15}
-{"relation": "P364", "template": "[X] hindi [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 15}
-{"relation": "P364", "template": "[Y] hit [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 15}
-{"relation": "P364", "template": "[Y] 1993 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 14}
-{"relation": "P364", "template": "[Y] 1994 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 14}
-{"relation": "P364", "template": "[Y] version ) [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 14}
-{"relation": "P364", "template": "[Y] version , voice ) [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 13}
+{"template": "[Y] 2015 [X] .", "weight": 1.9398679796722718e-05}
+{"template": "[Y] 2013 [X] .", "weight": 1.9103554222965613e-05}
+{"template": "[Y] 2017 [X] .", "weight": 1.9321987565490417e-05}
+{"template": "[Y] 2012 [X] .", "weight": 1.8774560885503888e-05}
+{"template": "[Y] network [X] .", "weight": 0.00017515946819912642}
+{"template": "[Y] 2008 [X] .", "weight": 1.9391100067878142e-05}
+{"template": "[Y] 2011 [X] .", "weight": 1.869185325631406e-05}
+{"template": "[Y] 2010 [X] .", "weight": 1.898410300782416e-05}
+{"template": "[Y] 2004 [X] .", "weight": 1.8132484910893254e-05}
+{"template": "[Y] 2005 [X] .", "weight": 1.855671507655643e-05}
+{"template": "[Y] 2006 [X] .", "weight": 1.8626920791575685e-05}
+{"template": "[Y] title : [X] .", "weight": 0.24942483007907867}
+{"template": "[Y] film [X] .", "weight": 0.0016059639165177941}
+{"template": "[Y] 2016 [X] .", "weight": 1.9032630007131957e-05}
+{"template": "[Y] 2014 [X] .", "weight": 1.931445331138093e-05}
+{"template": "[Y] 2009 [X] .", "weight": 1.9417850126046687e-05}
+{"template": "[Y] 2001 [X] .", "weight": 1.779251942934934e-05}
+{"template": "[Y] 2007 [X] .", "weight": 1.9272427380201407e-05}
+{"template": "[Y] version [X] .", "weight": 0.6971822381019592}
+{"template": "[Y] female [X] .", "weight": 2.075831071124412e-05}
+{"template": "[Y] 2003 [X] .", "weight": 1.831025474530179e-05}
+{"template": "[X] a. r. rahman [Y] .", "weight": 2.7154941562912427e-05}
+{"template": "[Y] as `` [X] .", "weight": 3.690271114464849e-05}
+{"template": "[Y] movie [X] .", "weight": 0.049896255135536194}
+{"template": "[Y] 2002 [X] .", "weight": 1.790147325664293e-05}
+{"template": "[Y] version of [X] .", "weight": 0.001167626935057342}
+{"template": "[Y] 2000 [X] .", "weight": 1.723859713820275e-05}
+{"template": "[Y] 1997 [X] .", "weight": 1.83961856237147e-05}
+{"template": "[Y] film , [X] .", "weight": 0.0001074842584785074}

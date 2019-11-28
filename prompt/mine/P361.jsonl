@@ -1,51 +1,29 @@
-{"relation": "P361", "template": "[X] is part of [Y] .", "label": "part of", "description": "object of which the subject is a part (it's not useful to link objects which are themselves parts of other objects already listed as parts of the subject). Inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670)).", "type": "N-1"}
-{"relation": "P361", "template": "[X] located in the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1138}
-{"relation": "P361", "template": "[Y] \u0e48 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 645}
-{"relation": "P361", "template": "[Y] \u0e49 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 429}
-{"relation": "P361", "template": "[X] region of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 293}
-{"relation": "P361", "template": "[X] stage of the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 207}
-{"relation": "P361", "template": "[X] standard published by the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 200}
-{"relation": "P361", "template": "[Y] countries such as [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 194}
-{"relation": "P361", "template": "[Y] north of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 166}
-{"relation": "P361", "template": "[X] \u0e35 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 137}
-{"relation": "P361", "template": "[X] from 1922 onwards ) [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 122}
-{"relation": "P361", "template": "[Y] calculus ( [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 122}
-{"relation": "P361", "template": "[X] \u0e31 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 117}
-{"relation": "P361", "template": "[Y] island of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 116}
-{"relation": "P361", "template": "[Y] including the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 108}
-{"relation": "P361", "template": "[Y] countries of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 101}
-{"relation": "P361", "template": "[X] and other parts of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 99}
-{"relation": "P361", "template": "[Y] member [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 97}
-{"relation": "P361", "template": "[Y] with integer [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 93}
-{"relation": "P361", "template": "[X] stages of the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 91}
-{"relation": "P361", "template": "[Y] like [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 82}
-{"relation": "P361", "template": "[Y] away from the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 79}
-{"relation": "P361", "template": "[Y] countries like [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 77}
-{"relation": "P361", "template": "[X] portion of the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 77}
-{"relation": "P361", "template": "[Y] countries , including [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 73}
-{"relation": "P361", "template": "[X] \u0e49 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 72}
-{"relation": "P361", "template": "[X] state in the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 71}
-{"relation": "P361", "template": "[X] \u0e34 \u0e23 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 69}
-{"relation": "P361", "template": "[Y] as far south as [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 65}
-{"relation": "P361", "template": "[X] section of the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 65}
-{"relation": "P361", "template": "[Y] near [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 65}
-{"relation": "P361", "template": "[X] year office [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 60}
-{"relation": "P361", "template": "[Y] with real [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 58}
-{"relation": "P361", "template": "[Y] u.s. house of representatives : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 58}
-{"relation": "P361", "template": "[Y] military police [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 57}
-{"relation": "P361", "template": "[X] amendments to the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 54}
-{"relation": "P361", "template": "[X] of america in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 53}
-{"relation": "P361", "template": "[Y] countries , such as [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 53}
-{"relation": "P361", "template": "[X] and the second [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 52}
-{"relation": "P361", "template": "[X] hauled [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 51}
-{"relation": "P361", "template": "[Y] consists of the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
-{"relation": "P361", "template": "[X] branch of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
-{"relation": "P361", "template": "[Y] drummer [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
-{"relation": "P361", "template": "[X] inside the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 45}
-{"relation": "P361", "template": "[X] in national [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 44}
-{"relation": "P361", "template": "[Y] from mexico to [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 43}
-{"relation": "P361", "template": "[Y] include [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
-{"relation": "P361", "template": "[Y] and / or [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
-{"relation": "P361", "template": "[Y] \u0e0a \u0e31 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 41}
-{"relation": "P361", "template": "[Y] film [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 40}
-{"relation": "P361", "template": "[Y] countries ( [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 40}
+{"template": "[X] located in the [Y] .", "weight": 0.00027559706359170377}
+{"template": "[Y] \u0e48 [X] .", "weight": 0.007770007010549307}
+{"template": "[Y] \u0e49 [X] .", "weight": 0.007770007010549307}
+{"template": "[X] region of [Y] .", "weight": 0.0498916357755661}
+{"template": "[X] stage of the [Y] .", "weight": 0.004475426394492388}
+{"template": "[X] standard published by the [Y] .", "weight": 0.00013279322593007237}
+{"template": "[Y] countries such as [X] .", "weight": 0.0002061366249108687}
+{"template": "[Y] north of [X] .", "weight": 0.00013110553845763206}
+{"template": "[X] \u0e35 [Y] .", "weight": 0.009987115859985352}
+{"template": "[X] from 1922 onwards ) [Y] .", "weight": 9.101755131268874e-05}
+{"template": "[Y] calculus ( [X] .", "weight": 0.00044700695434585214}
+{"template": "[X] \u0e31 [Y] .", "weight": 0.009987115859985352}
+{"template": "[Y] island of [X] .", "weight": 0.0002450858592055738}
+{"template": "[Y] including the [X] .", "weight": 0.0044109453447163105}
+{"template": "[Y] countries of [X] .", "weight": 0.00021525524789467454}
+{"template": "[X] and other parts of [Y] .", "weight": 0.433003306388855}
+{"template": "[Y] member [X] .", "weight": 0.06047650799155235}
+{"template": "[Y] with integer [X] .", "weight": 0.2085159868001938}
+{"template": "[X] stages of the [Y] .", "weight": 0.18693239986896515}
+{"template": "[Y] like [X] .", "weight": 0.00031562356161884964}
+{"template": "[Y] away from the [X] .", "weight": 0.0002702869242057204}
+{"template": "[Y] countries like [X] .", "weight": 0.00023755538859404624}
+{"template": "[X] portion of the [Y] .", "weight": 0.0004964954569004476}
+{"template": "[Y] countries , including [X] .", "weight": 0.00021334199118427932}
+{"template": "[X] \u0e49 [Y] .", "weight": 0.009987115859985352}
+{"template": "[X] state in the [Y] .", "weight": 0.0011374568566679955}
+{"template": "[X] \u0e34 \u0e23 [Y] .", "weight": 0.00015677392366342247}
+{"template": "[Y] as far south as [X] .", "weight": 0.00012468350178096443}
+{"template": "[X] section of the [Y] .", "weight": 0.0020961957052350044}

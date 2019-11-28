@@ -1,20 +1,18 @@
-{"relation": "P361", "template": "[X] is part of [Y] ."}
-{"relation": "P361", "template": "[X] is part of [Y].", "bt_log_prob": -0.26281140744686127}
-{"relation": "P361", "template": "[X] belongs to [Y].", "bt_log_prob": -0.4250810444355011}
-{"relation": "P361", "template": "[X] is a part of [Y].", "bt_log_prob": -0.46103113889694214}
-{"relation": "P361", "template": "[X] is a component of [Y].", "bt_log_prob": -0.6127241849899292}
-{"relation": "P361", "template": "[X] is part of the [Y].", "bt_log_prob": -0.6306615173816681}
-{"relation": "P361", "template": "[X] is part [Y].", "bt_log_prob": -0.6701291054487228}
-{"relation": "P361", "template": "[X] is part of [Y]", "bt_log_prob": -0.6711990237236023}
-{"relation": "P361", "template": "[X] belongs to [Y]", "bt_log_prob": -0.8401170670986176}
-{"relation": "P361", "template": "[X] is an element of [Y].", "bt_log_prob": -0.8424755930900574}
-{"relation": "P361", "template": "[X] is a portion of [Y].", "bt_log_prob": -0.8505764305591583}
-{"relation": "P361", "template": "[X] is a part of [Y]", "bt_log_prob": -0.8523094952106476}
-{"relation": "P361", "template": "[X] is one of [Y].", "bt_log_prob": -0.8651898801326752}
-{"relation": "P361", "template": "[X] belong to [Y].", "bt_log_prob": -0.9086036384105682}
-{"relation": "P361", "template": "[X] is a component of [Y]", "bt_log_prob": -0.9737798869609833}
-{"relation": "P361", "template": "[X] is [Y].", "bt_log_prob": -0.9955883324146271}
-{"relation": "P361", "template": "[X] is part of the [Y]", "bt_log_prob": -1.0113941133022308}
-{"relation": "P361", "template": "[X] is a part [Y].", "bt_log_prob": -1.0348526239395142}
-{"relation": "P361", "template": "[X] is Part [Y].", "bt_log_prob": -1.0991443991661072}
-{"relation": "P361", "template": "[X] is part [Y]", "bt_log_prob": -1.0998252034187317}
+{"template": "[X] and other parts of [Y] .", "weight": 0.013513969257473946}
+{"template": "[X] and other parts of [Y].", "weight": 0.013513969257473946}
+{"template": "[X] and other parts [Y].", "weight": 0.0007674330263398588}
+{"template": "[X] and other parts of the [Y].", "weight": 0.2682274878025055}
+{"template": "[X], and other parts of [Y].", "weight": 0.015507502481341362}
+{"template": "[X] and other parts of [Y]", "weight": 0.0003072666295338422}
+{"template": "[X] and others parts of [Y].", "weight": 0.0006135722505860031}
+{"template": "[X], and other parts of the [Y].", "weight": 0.0034400555305182934}
+{"template": "[X] and other sections of [Y].", "weight": 0.1978403627872467}
+{"template": "[X] and other portions of [Y].", "weight": 0.00796483550220728}
+{"template": "[X] and other parts of the [Y]", "weight": 0.08803108334541321}
+{"template": "[X] and other parts [Y]", "weight": 0.00041187636088579893}
+{"template": "[X] and Other Parts of [Y]", "weight": 0.3497084081172943}
+{"template": "[X] and others [Y].", "weight": 0.037682849913835526}
+{"template": "[X], and other parts of [Y]", "weight": 0.0003943790215998888}
+{"template": "[X] and other pieces [Y].", "weight": 0.0013350620865821838}
+{"template": "[X] and other portions of [Y]", "weight": 0.0002281554916407913}
+{"template": "[X] and others parts of [Y]", "weight": 0.0005118100089021027}

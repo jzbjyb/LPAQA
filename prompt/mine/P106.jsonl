@@ -1,51 +1,29 @@
-{"relation": "P106", "template": "[X] is a [Y] by profession .", "label": "occupation", "description": "occupation of a person; see also \"field of work\" (Property:P101), \"position held\" (Property:P39)", "type": "N-M"}
-{"relation": "P106", "template": "[Y] like [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 2991}
-{"relation": "P106", "template": "[Y] including [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1973}
-{"relation": "P106", "template": "[Y] and producer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 557}
-{"relation": "P106", "template": "[Y] named [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 426}
-{"relation": "P106", "template": "[Y] and singer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 412}
-{"relation": "P106", "template": "[Y] and writer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 400}
-{"relation": "P106", "template": "[Y] and author [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 387}
-{"relation": "P106", "template": "[Y] include [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 387}
-{"relation": "P106", "template": "[Y] and poet [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 386}
-{"relation": "P106", "template": "[Y] and philosopher [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 347}
-{"relation": "P106", "template": "[Y] and actor [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 318}
-{"relation": "P106", "template": "[Y] included [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 307}
-{"relation": "P106", "template": "[Y] and playwright [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 247}
-{"relation": "P106", "template": "[Y] and musician [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 227}
-{"relation": "P106", "template": "[Y] and politician [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 226}
-{"relation": "P106", "template": "[Y] and director [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 221}
-{"relation": "P106", "template": "[Y] of the year [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 207}
-{"relation": "P106", "template": "[Y] and pianist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 207}
-{"relation": "P106", "template": "[Y] and conductor [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 201}
-{"relation": "P106", "template": "[Y] and guitarist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 200}
-{"relation": "P106", "template": "[Y] and novelist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 195}
-{"relation": "P106", "template": "[X] is an american [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 176}
-{"relation": "P106", "template": "[Y] and songwriter [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 170}
-{"relation": "P106", "template": "[Y] and historian [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 168}
-{"relation": "P106", "template": "[Y] and critic [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 165}
-{"relation": "P106", "template": "[Y] led by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 162}
-{"relation": "P106", "template": "[Y] dr. [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 151}
-{"relation": "P106", "template": "[Y] and actress [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 141}
-{"relation": "P106", "template": "[Y] and mathematician [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 140}
-{"relation": "P106", "template": "[Y] and vocalist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 135}
-{"relation": "P106", "template": "[Y] known as [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 122}
-{"relation": "P106", "template": "[Y] and artist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 119}
-{"relation": "P106", "template": "[X] worked as a [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 118}
-{"relation": "P106", "template": "[Y] and activist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 116}
-{"relation": "P106", "template": "[Y] and explorer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 114}
-{"relation": "P106", "template": "[Y] and screenwriter [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 112}
-{"relation": "P106", "template": "[Y] and physicist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 104}
-{"relation": "P106", "template": "[Y] sir [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 102}
-{"relation": "P106", "template": "[X] served as [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 98}
-{"relation": "P106", "template": "[X] was appointed [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 97}
-{"relation": "P106", "template": "[Y] and lyricist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 95}
-{"relation": "P106", "template": "[X] and fellow [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 92}
-{"relation": "P106", "template": "[Y] and nobel laureate [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 89}
-{"relation": "P106", "template": "[Y] and essayist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 88}
-{"relation": "P106", "template": "[Y] and philanthropist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 85}
-{"relation": "P106", "template": "[Y] and arranger [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 85}
-{"relation": "P106", "template": "[X] movie [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 84}
-{"relation": "P106", "template": "[Y] and journalist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 79}
-{"relation": "P106", "template": "[Y] and engineer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 75}
-{"relation": "P106", "template": "[Y] and naturalist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 74}
+{"template": "[Y] like [X] .", "weight": 6.824185402365401e-05}
+{"template": "[Y] including [X] .", "weight": 5.922819036641158e-05}
+{"template": "[Y] and producer [X] .", "weight": 0.00011886492575285956}
+{"template": "[Y] named [X] .", "weight": 6.0099639085819945e-05}
+{"template": "[Y] and singer [X] .", "weight": 0.08848145604133606}
+{"template": "[Y] and writer [X] .", "weight": 0.0005085982847958803}
+{"template": "[Y] and author [X] .", "weight": 0.00011262042971793562}
+{"template": "[Y] include [X] .", "weight": 6.935125566087663e-05}
+{"template": "[Y] and poet [X] .", "weight": 0.24244995415210724}
+{"template": "[Y] and philosopher [X] .", "weight": 0.0005236775614321232}
+{"template": "[Y] and actor [X] .", "weight": 0.0012419556733220816}
+{"template": "[Y] included [X] .", "weight": 7.06015489413403e-05}
+{"template": "[Y] and playwright [X] .", "weight": 0.00024600012693554163}
+{"template": "[Y] and musician [X] .", "weight": 0.0818602442741394}
+{"template": "[Y] and politician [X] .", "weight": 0.1502070277929306}
+{"template": "[Y] and director [X] .", "weight": 2.59329335676739e-05}
+{"template": "[Y] of the year [X] .", "weight": 6.471973756561056e-05}
+{"template": "[Y] and pianist [X] .", "weight": 0.00014626151823904365}
+{"template": "[Y] and conductor [X] .", "weight": 4.539771543932147e-05}
+{"template": "[Y] and guitarist [X] .", "weight": 0.0002530983183532953}
+{"template": "[Y] and novelist [X] .", "weight": 0.000260396976955235}
+{"template": "[X] is an american [Y] .", "weight": 0.2878290116786957}
+{"template": "[Y] and songwriter [X] .", "weight": 0.025623256340622902}
+{"template": "[Y] and historian [X] .", "weight": 7.390790415229276e-05}
+{"template": "[Y] and critic [X] .", "weight": 4.583371264743619e-05}
+{"template": "[Y] led by [X] .", "weight": 8.099771366687492e-05}
+{"template": "[Y] dr. [X] .", "weight": 6.13213051110506e-05}
+{"template": "[Y] and actress [X] .", "weight": 0.11930951476097107}
+{"template": "[Y] and mathematician [X] .", "weight": 0.00010244557779515162}

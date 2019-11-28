@@ -1,15 +1,25 @@
-{"relation": "P159", "template": "The headquarter of [X] is in [Y] ."}
-{"relation": "P159", "template": "The headquarters of [X] are located in [Y].", "bt_log_prob": -0.5302434414625168}
-{"relation": "P159", "template": "The headquarters of [X] is located in [Y].", "bt_log_prob": -0.5378483980894089}
-{"relation": "P159", "template": "[X] is headquartered in [Y].", "bt_log_prob": -0.5451294034719467}
-{"relation": "P159", "template": "The head office of [X] is in [Y].", "bt_log_prob": -0.5544384270906448}
-{"relation": "P159", "template": "The headquarters of [X] is in [Y].", "bt_log_prob": -0.576449915766716}
-{"relation": "P159", "template": "The headquarters of [X] are in [Y].", "bt_log_prob": -0.5816134065389633}
-{"relation": "P159", "template": "The headquarter of [X] is in [Y].", "bt_log_prob": -0.6514928340911865}
-{"relation": "P159", "template": "[X] has its headquarters in [Y].", "bt_log_prob": -0.737984836101532}
-{"relation": "P159", "template": "[X] headquarters are located in [Y].", "bt_log_prob": -0.7572202086448669}
-{"relation": "P159", "template": "[X] is located in [Y].", "bt_log_prob": -0.763793408870697}
-{"relation": "P159", "template": "The head office of [X] is located in [Y]", "bt_log_prob": -0.8241495341062546}
-{"relation": "P159", "template": "The headquarters of [X] is located in [Y]", "bt_log_prob": -0.9002526104450226}
-{"relation": "P159", "template": "The headquarters of [X] are located in [Y]", "bt_log_prob": -0.9134354889392853}
-{"relation": "P159", "template": "The headquarters of [X] is in [Y]", "bt_log_prob": -1.023465484380722}
+{"template": "[X] is headquartered in [Y] .", "weight": 0.179095059633255}
+{"template": "[X] is headquartered in [Y].", "weight": 0.179095059633255}
+{"template": "[X] is located in [Y].", "weight": 0.00013757702254224569}
+{"template": "[X] has its headquarters in [Y].", "weight": 0.21631768345832825}
+{"template": "[X] is based in [Y].", "weight": 0.01676015742123127}
+{"template": "[X] has its head office in [Y].", "weight": 0.16425563395023346}
+{"template": "[X] has its seat in [Y].", "weight": 0.0003560775949154049}
+{"template": "[X] is located at [Y].", "weight": 0.00021222293435130268}
+{"template": "[X] is in [Y].", "weight": 0.00017923032282851636}
+{"template": "[X] is situated in [Y].", "weight": 0.00016276512178592384}
+{"template": "[X] is based at [Y].", "weight": 0.010026016272604465}
+{"template": "[X] headquartered in [Y].", "weight": 0.1463848203420639}
+{"template": "[X] is headquartered in [Y]", "weight": 0.07098419964313507}
+{"template": "[X] is set in [Y].", "weight": 0.00021411263151094317}
+{"template": "[X] resides in [Y].", "weight": 0.0018736182246357203}
+{"template": "[X] has its headquarters at [Y].", "weight": 0.010389147326350212}
+{"template": "[X] has headquarters in [Y].", "weight": 0.0018750313902273774}
+{"template": "[X] is found in [Y].", "weight": 0.0001786069624358788}
+{"template": "[X] is placed in [Y].", "weight": 0.0002474228385835886}
+{"template": "[X] is located in [Y]", "weight": 0.00020638566638808697}
+{"template": "[X] is in [Y]", "weight": 0.00022480866755358875}
+{"template": "[X] is inside [Y].", "weight": 0.00021695264149457216}
+{"template": "[X] has its registered office in [Y]", "weight": 0.00020272264373488724}
+{"template": "[X] has its head office in [Y]", "weight": 0.00020262296311557293}
+{"template": "[X] is situated in [Y]", "weight": 0.0002021663822233677}

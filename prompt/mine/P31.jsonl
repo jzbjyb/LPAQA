@@ -1,51 +1,29 @@
-{"relation": "P31", "template": "[X] is a [Y] .", "label": "instance of", "description": "that class of which this subject is a particular example and member (subject typically an individual member with a proper name label); different from P279; using this property as a qualifier is deprecated\u2014use P2868 or P3831 instead", "type": "N-M"}
-{"relation": "P31", "template": "[Y] including [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 4526}
-{"relation": "P31", "template": "[Y] like [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 4358}
-{"relation": "P31", "template": "[Y] positions album [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 2401}
-{"relation": "P31", "template": "[Y] include [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1464}
-{"relation": "P31", "template": "[Y] called [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1199}
-{"relation": "P31", "template": "[Y] nomination for [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1085}
-{"relation": "P31", "template": "[Y] including the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 929}
-{"relation": "P31", "template": "[Y] known as [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 782}
-{"relation": "P31", "template": "[Y] like the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 705}
-{"relation": "P31", "template": "[Y] positions certifications [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 682}
-{"relation": "P31", "template": "[Y] known as the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 471}
-{"relation": "P31", "template": "[Y] named [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 422}
-{"relation": "P31", "template": "[X] is the largest [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 374}
-{"relation": "P31", "template": "[Y] include the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 368}
-{"relation": "P31", "template": "[Y] of `` [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 362}
-{"relation": "P31", "template": "[X] and subtropical [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 350}
-{"relation": "P31", "template": "[Y] called the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 320}
-{"relation": "P31", "template": "[X] and republican [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 299}
-{"relation": "P31", "template": "[X] artist [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 260}
-{"relation": "P31", "template": "[Y] based on [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 247}
-{"relation": "P31", "template": "[Y] positions certifications album us [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 225}
-{"relation": "P31", "template": "[X] and liberal [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 225}
-{"relation": "P31", "template": "[Y] are : [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 214}
-{"relation": "P31", "template": "[Y] ranging from [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 196}
-{"relation": "P31", "template": "[Y] was renamed [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 195}
-{"relation": "P31", "template": "[X] is a small [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 163}
-{"relation": "P31", "template": "[X] und [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 156}
-{"relation": "P31", "template": "[Y] may include [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 150}
-{"relation": "P31", "template": "[Y] for `` [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 139}
-{"relation": "P31", "template": "[X] is a fictional [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 133}
-{"relation": "P31", "template": "[Y] such as `` [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 132}
-{"relation": "P31", "template": "[Y] with the symbol [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 131}
-{"relation": "P31", "template": "[Y] titled [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 127}
-{"relation": "P31", "template": "[X] and danube [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 119}
-{"relation": "P31", "template": "[Y] based on the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 119}
-{"relation": "P31", "template": "[X] is a major [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 112}
-{"relation": "P31", "template": "[X] are a professional [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 110}
-{"relation": "P31", "template": "[X] and m.s. [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 109}
-{"relation": "P31", "template": "[X] is a common [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 107}
-{"relation": "P31", "template": "[X] united states [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 102}
-{"relation": "P31", "template": "[Y] boundaries of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 100}
-{"relation": "P31", "template": "[Y] such as : [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 97}
-{"relation": "P31", "template": "[Y] is called [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 95}
-{"relation": "P31", "template": "[X] is the main [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 93}
-{"relation": "P31", "template": "[Y] related to [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 91}
-{"relation": "P31", "template": "[X] and two bronze [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 87}
-{"relation": "P31", "template": "[Y] associated with [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 87}
-{"relation": "P31", "template": "[Y] entitled [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 87}
-{"relation": "P31", "template": "[X] is the second largest [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 86}
-{"relation": "P31", "template": "[X] soviet union [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 84}
+{"template": "[Y] including [X] .", "weight": 3.702900357893668e-05}
+{"template": "[Y] like [X] .", "weight": 0.00012674609024543315}
+{"template": "[Y] positions album [X] .", "weight": 0.00010761844168882817}
+{"template": "[Y] include [X] .", "weight": 4.3250616727164015e-05}
+{"template": "[Y] called [X] .", "weight": 0.007653615903109312}
+{"template": "[Y] nomination for [X] .", "weight": 4.256672764313407e-05}
+{"template": "[Y] including the [X] .", "weight": 5.529017289518379e-05}
+{"template": "[Y] known as [X] .", "weight": 7.89005498518236e-05}
+{"template": "[Y] like the [X] .", "weight": 0.00011236400314373896}
+{"template": "[Y] positions certifications [X] .", "weight": 3.452382952673361e-05}
+{"template": "[Y] known as the [X] .", "weight": 0.18512709438800812}
+{"template": "[Y] named [X] .", "weight": 0.005660650320351124}
+{"template": "[X] is the largest [Y] .", "weight": 0.0011134541127830744}
+{"template": "[Y] include the [X] .", "weight": 7.434901635861024e-05}
+{"template": "[Y] of `` [X] .", "weight": 2.6270678063156083e-05}
+{"template": "[X] and subtropical [Y] .", "weight": 0.004343976732343435}
+{"template": "[Y] called the [X] .", "weight": 0.000236482301261276}
+{"template": "[X] and republican [Y] .", "weight": 8.089440234471112e-05}
+{"template": "[X] artist [Y] .", "weight": 0.0005305841914378107}
+{"template": "[Y] based on [X] .", "weight": 4.0935810829978436e-05}
+{"template": "[Y] positions certifications album us [X] .", "weight": 4.0644416003488004e-05}
+{"template": "[X] and liberal [Y] .", "weight": 0.00016465310181956738}
+{"template": "[Y] are : [X] .", "weight": 4.100525984540582e-05}
+{"template": "[Y] ranging from [X] .", "weight": 0.11532965302467346}
+{"template": "[Y] was renamed [X] .", "weight": 2.366270564380102e-05}
+{"template": "[X] is a small [Y] .", "weight": 0.67872554063797}
+{"template": "[X] und [Y] .", "weight": 4.418520620674826e-05}
+{"template": "[Y] may include [X] .", "weight": 3.081260365433991e-05}
+{"template": "[Y] for `` [X] .", "weight": 7.321023440454155e-05}

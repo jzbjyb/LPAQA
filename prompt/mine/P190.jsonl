@@ -1,49 +1,29 @@
-{"relation": "P190", "template": "[X] and [Y] are twin cities .", "label": "twinned administrative body", "description": "twin towns, sister cities, twinned municipalities and other localities that have a partnership or cooperative agreement, either legally or informally acknowledged by their governments", "type": "N-M"}
-{"relation": "P190", "template": "[X] is twinned with : [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 770}
-{"relation": "P190", "template": "[Y] is twinned with : [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 765}
-{"relation": "P190", "template": "[X] und [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 99}
-{"relation": "P190", "template": "[Y] und [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 98}
-{"relation": "P190", "template": "[X] before moving to [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 37}
-{"relation": "P190", "template": "[Y] before moving to [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 36}
-{"relation": "P190", "template": "[Y] tecnol\u00f3gico necaxa [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 34}
-{"relation": "P190", "template": "[X] tecnol\u00f3gico necaxa [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 34}
-{"relation": "P190", "template": "[Y] and raised in [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 32}
-{"relation": "P190", "template": "[Y] before returning to [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 30}
-{"relation": "P190", "template": "[X] before returning to [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 30}
-{"relation": "P190", "template": "[X] and raised in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 30}
-{"relation": "P190", "template": "[X] with offices in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 28}
-{"relation": "P190", "template": "[Y] and died in [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 27}
-{"relation": "P190", "template": "[Y] with offices in [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 26}
-{"relation": "P190", "template": "[X] and died in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 25}
-{"relation": "P190", "template": "[Y] 2003 birmingham 2004 [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 24}
-{"relation": "P190", "template": "[X] 2003 birmingham 2004 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 24}
-{"relation": "P190", "template": "[X] and an honorary consulate in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 23}
-{"relation": "P190", "template": "[Y] 1993 toronto 1995 [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 22}
-{"relation": "P190", "template": "[X] 1993 toronto 1995 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 22}
-{"relation": "P190", "template": "[Y] and an honorary consulate in [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 21}
-{"relation": "P190", "template": "[X] instead of [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
-{"relation": "P190", "template": "[Y] instead of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
-{"relation": "P190", "template": "[X] and later [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
-{"relation": "P190", "template": "[X] azul [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
-{"relation": "P190", "template": "[Y] azul [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
-{"relation": "P190", "template": "[X] azul guadalajara [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
-{"relation": "P190", "template": "[Y] azul guadalajara [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
-{"relation": "P190", "template": "[X] montevideo , uruguay [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 17}
-{"relation": "P190", "template": "[Y] montevideo , uruguay [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 17}
-{"relation": "P190", "template": "[Y] \u2192 [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 17}
-{"relation": "P190", "template": "[X] \u2192 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 17}
-{"relation": "P190", "template": "[Y] 2006 [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 16}
-{"relation": "P190", "template": "[Y] and later [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 16}
-{"relation": "P190", "template": "[Y] 1962 [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 15}
-{"relation": "P190", "template": "[X] 1962 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 15}
-{"relation": "P190", "template": "[Y] santiago , chile [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 15}
-{"relation": "P190", "template": "[X] santiago , chile [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 15}
-{"relation": "P190", "template": "[X] 2006 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 15}
-{"relation": "P190", "template": "[Y] festival in [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 15}
-{"relation": "P190", "template": "[X] festival in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 15}
-{"relation": "P190", "template": "[Y] managua , nicaragua [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 12}
-{"relation": "P190", "template": "[X] managua , nicaragua [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 12}
-{"relation": "P190", "template": "[X] has been twinned with [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 12}
-{"relation": "P190", "template": "[Y] has been twinned with [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 12}
-{"relation": "P190", "template": "[X] by way of [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 11}
-{"relation": "P190", "template": "[Y] by way of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 10}
+{"template": "[X] is twinned with : [Y] .", "weight": 0.00030957424314692616}
+{"template": "[Y] is twinned with : [X] .", "weight": 0.3874047100543976}
+{"template": "[X] und [Y] .", "weight": 9.847497858572751e-05}
+{"template": "[Y] und [X] .", "weight": 0.0002804348769132048}
+{"template": "[X] before moving to [Y] .", "weight": 0.0004526828124653548}
+{"template": "[Y] before moving to [X] .", "weight": 0.00014078873209655285}
+{"template": "[Y] tecnol\u00f3gico necaxa [X] .", "weight": 0.07724666595458984}
+{"template": "[X] tecnol\u00f3gico necaxa [Y] .", "weight": 0.0007847946253605187}
+{"template": "[Y] and raised in [X] .", "weight": 0.00017936760559678078}
+{"template": "[Y] before returning to [X] .", "weight": 0.00019769770733546466}
+{"template": "[X] before returning to [Y] .", "weight": 0.00014120362175162882}
+{"template": "[X] and raised in [Y] .", "weight": 0.0002211981191067025}
+{"template": "[X] with offices in [Y] .", "weight": 0.0003882430319208652}
+{"template": "[Y] and died in [X] .", "weight": 0.0001292109809583053}
+{"template": "[Y] with offices in [X] .", "weight": 0.0001339578302577138}
+{"template": "[X] and died in [Y] .", "weight": 0.0005786342662759125}
+{"template": "[Y] 2003 birmingham 2004 [X] .", "weight": 0.00010924285743385553}
+{"template": "[X] 2003 birmingham 2004 [Y] .", "weight": 0.08955434709787369}
+{"template": "[X] and an honorary consulate in [Y] .", "weight": 0.38226118683815}
+{"template": "[Y] 1993 toronto 1995 [X] .", "weight": 7.240621198434383e-05}
+{"template": "[X] 1993 toronto 1995 [Y] .", "weight": 0.00016005901852622628}
+{"template": "[Y] and an honorary consulate in [X] .", "weight": 7.366930367425084e-05}
+{"template": "[X] instead of [Y] .", "weight": 0.044828642159700394}
+{"template": "[Y] instead of [X] .", "weight": 0.00030990192317403853}
+{"template": "[X] and later [Y] .", "weight": 0.0003043840697500855}
+{"template": "[X] azul [Y] .", "weight": 0.00018272562010679394}
+{"template": "[Y] azul [X] .", "weight": 0.00023632057127542794}
+{"template": "[X] azul guadalajara [Y] .", "weight": 0.0002775366301648319}
+{"template": "[Y] azul guadalajara [X] .", "weight": 0.012941917404532433}

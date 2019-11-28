@@ -1,27 +1,29 @@
-{"relation": "P106", "template": "[X] is a [Y] by profession ."}
-{"relation": "P106", "template": "[X] is a [Y] by profession.", "bt_log_prob": -0.46288856863975525}
-{"relation": "P106", "template": "[X] is [Y] by profession.", "bt_log_prob": -0.517681360244751}
-{"relation": "P106", "template": "[X] is by profession [Y].", "bt_log_prob": -0.5275440216064453}
-{"relation": "P106", "template": "[X] is a [Y] by trade.", "bt_log_prob": -0.5942374169826508}
-{"relation": "P106", "template": "[X] is a [Y].", "bt_log_prob": -0.5968063771724701}
-{"relation": "P106", "template": "[X] is a [Y] profession.", "bt_log_prob": -0.6291221082210541}
-{"relation": "P106", "template": "[X] is a [Y] by occupation.", "bt_log_prob": -0.6726656854152679}
-{"relation": "P106", "template": "[X] is an [Y] by profession.", "bt_log_prob": -0.6795717775821686}
-{"relation": "P106", "template": "[X] is a profession [Y].", "bt_log_prob": -0.7268500328063965}
-{"relation": "P106", "template": "[X] is [Y].", "bt_log_prob": -0.7397995591163635}
-{"relation": "P106", "template": "[X] is a [Y] occupation.", "bt_log_prob": -0.7537520825862885}
-{"relation": "P106", "template": "[X] is by trade [Y].", "bt_log_prob": -0.7664729058742523}
-{"relation": "P106", "template": "[X] is [Y] by trade.", "bt_log_prob": -0.7764936089515686}
-{"relation": "P106", "template": "[X] is profession [Y].", "bt_log_prob": -0.8099742829799652}
-{"relation": "P106", "template": "[X] is an occupation [Y].", "bt_log_prob": -0.825267881155014}
-{"relation": "P106", "template": "[X] is by profession a [Y]", "bt_log_prob": -0.8687321543693542}
-{"relation": "P106", "template": "[X] is a professional [Y].", "bt_log_prob": -0.8913868963718414}
-{"relation": "P106", "template": "[X] is professionally [Y].", "bt_log_prob": -0.901375412940979}
-{"relation": "P106", "template": "[X] is professional [Y].", "bt_log_prob": -0.9361797571182251}
-{"relation": "P106", "template": "[X] is by profession [Y]", "bt_log_prob": -0.9456097185611725}
-{"relation": "P106", "template": "[X] is a [Y] by profession", "bt_log_prob": -1.1514225602149963}
-{"relation": "P106", "template": "[X] is a [Y]", "bt_log_prob": -1.1535694897174835}
-{"relation": "P106", "template": "[X] is professionally a [Y]", "bt_log_prob": -1.1614947617053986}
-{"relation": "P106", "template": "[X] is a by profession [Y]", "bt_log_prob": -1.241426169872284}
-{"relation": "P106", "template": "[X] is [Y] by profession", "bt_log_prob": -1.285262405872345}
-{"relation": "P106", "template": "[X] is an [Y]", "bt_log_prob": -1.3145689964294434}
+{"template": "[Y] and actor [X] .", "weight": 0.44614067673683167}
+{"template": "[Y] and actors [X].", "weight": 0.00016044061339925975}
+{"template": "[Y] and actor [X].", "weight": 0.44614067673683167}
+{"template": "[Y] and Actor [X].", "weight": 4.5724373194389045e-05}
+{"template": "[Y] and Actors [X].", "weight": 1.4084874237596523e-05}
+{"template": "[Y] and the actor [X].", "weight": 5.8552162954583764e-05}
+{"template": "[Y] and actors [X]", "weight": 0.00014585896860808134}
+{"template": "[Y] and performers [X].", "weight": 7.589752203784883e-05}
+{"template": "[Y] and actor [X]", "weight": 0.0010612079640850425}
+{"template": "[Y] and player [X].", "weight": 0.10403138399124146}
+{"template": "[Y] and Actor [X]", "weight": 5.5797652748879045e-05}
+{"template": "[Y] and [X].", "weight": 4.330767842475325e-05}
+{"template": "[Y] and [X] actors.", "weight": 3.1619554647477344e-05}
+{"template": "[Y] and Actors [X]", "weight": 1.0218583156529348e-05}
+{"template": "[Y] and cast [X].", "weight": 1.4949070646252949e-05}
+{"template": "[Y] and [X] actor.", "weight": 3.434048994677141e-05}
+{"template": "[Y] and performer [X].", "weight": 0.0015028759371489286}
+{"template": "[Y] and the cast [X].", "weight": 2.8840215236414224e-05}
+{"template": "[Y] and [X] Actor.", "weight": 1.6220277757383883e-05}
+{"template": "[Y] and [X] Actors.", "weight": 2.752619911916554e-05}
+{"template": "[Y] and the actors [X]", "weight": 3.541959449648857e-05}
+{"template": "[Y] und Actor [X]", "weight": 2.9095281206537038e-05}
+{"template": "[Y] and the actor [X]", "weight": 6.609834963455796e-05}
+{"template": "[Y] und [X] actor.", "weight": 3.5109176678815857e-05}
+{"template": "[Y] und [X] actors.", "weight": 3.344619108247571e-05}
+{"template": "[Y] and [X] actors", "weight": 3.548093081917614e-05}
+{"template": "[Y] and [X]", "weight": 5.454684287542477e-05}
+{"template": "[Y] und [X].", "weight": 3.74151422875002e-05}
+{"template": "[Y], [X].", "weight": 3.310840838821605e-05}

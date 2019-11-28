@@ -1,15 +1,30 @@
-{"relation": "P37", "template": "The official language of [X] is [Y] ."}
-{"relation": "P37", "template": "The official language of [X] is [Y].", "bt_log_prob": -0.3165910542011261}
-{"relation": "P37", "template": "The official language for [X] is [Y].", "bt_log_prob": -0.5234586298465729}
-{"relation": "P37", "template": "[X] is the official language of [Y].", "bt_log_prob": -0.5430189520120621}
-{"relation": "P37", "template": "The official [X] language is [Y].", "bt_log_prob": -0.6391881257295609}
-{"relation": "P37", "template": "The official language of [X] is [Y]", "bt_log_prob": -0.6662518233060837}
-{"relation": "P37", "template": "The official language [X] is [Y].", "bt_log_prob": -0.6828132420778275}
-{"relation": "P37", "template": "The official national language of [X] is [Y].", "bt_log_prob": -0.7282218635082245}
-{"relation": "P37", "template": "The official local language of [X] is [Y].", "bt_log_prob": -0.7507465481758118}
-{"relation": "P37", "template": "The official official language of [X] is [Y].", "bt_log_prob": -0.765769749879837}
-{"relation": "P37", "template": "Official language of [X] is [Y].", "bt_log_prob": -0.7815999984741211}
-{"relation": "P37", "template": "The official language is [X] [Y].", "bt_log_prob": -0.7871952652931213}
-{"relation": "P37", "template": "The official language for [X] is [Y]", "bt_log_prob": -0.8737905919551849}
-{"relation": "P37", "template": "[X] is [Y].", "bt_log_prob": -0.9172812700271606}
-{"relation": "P37", "template": "[X] is officially [Y].", "bt_log_prob": -1.073297917842865}
+{"template": "[X] writing in [Y] .", "weight": 0.0001528920402051881}
+{"template": "[X] in [Y].", "weight": 5.1029142923653126e-05}
+{"template": "[X] written in [Y].", "weight": 0.0012353513156995177}
+{"template": "[X] Font in [Y].", "weight": 3.4647484426386654e-05}
+{"template": "[X] font in [Y].", "weight": 9.681413939688355e-05}
+{"template": "[X] Write in [Y].", "weight": 0.0001523271348560229}
+{"template": "[X] Writing in [Y].", "weight": 4.7022735088830814e-05}
+{"template": "[X] to [Y].", "weight": 4.160200842306949e-05}
+{"template": "[X] writing in [Y].", "weight": 0.0001528920402051881}
+{"template": "[X] Write to [Y].", "weight": 3.6119832657277584e-05}
+{"template": "[X] Text in [Y].", "weight": 0.0011602540034800768}
+{"template": "[X] text in [Y].", "weight": 0.7420521974563599}
+{"template": "[X] into [Y].", "weight": 3.412602382013574e-05}
+{"template": "[X] Written in [Y].", "weight": 0.1112959012389183}
+{"template": "[X] write in [Y].", "weight": 0.002037957077845931}
+{"template": "[X] Writing to [Y].", "weight": 3.8232366932788864e-05}
+{"template": "[X] written to [Y].", "weight": 3.9868933527031913e-05}
+{"template": "[X] write to [Y].", "weight": 4.001291745225899e-05}
+{"template": "write [X] to [Y].", "weight": 3.716795617947355e-05}
+{"template": "[X] Font in [Y]", "weight": 3.6746332625625655e-05}
+{"template": "[X] Writing in [Y]", "weight": 0.07181884348392487}
+{"template": "[X] font in [Y]", "weight": 2.3750390027998947e-05}
+{"template": "[X] written in [Y]", "weight": 4.796430948772468e-05}
+{"template": "[X] writing in [Y]", "weight": 3.339313479955308e-05}
+{"template": "[X] Script in [Y]", "weight": 0.06795535236597061}
+{"template": "[X] in [Y]", "weight": 4.139390148338862e-05}
+{"template": "[X] wrote in [Y].", "weight": 0.0002496278320904821}
+{"template": "[X] is written in [Y]", "weight": 0.00017082634440157562}
+{"template": "[X] at [Y].", "weight": 3.969991303165443e-05}
+{"template": "[X] Text in [Y]", "weight": 0.0008457794319838285}

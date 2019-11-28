@@ -1,28 +1,30 @@
-{"relation": "P136", "template": "[X] plays [Y] music ."}
-{"relation": "P136", "template": "[X] plays [Y] music.", "bt_log_prob": -0.3030181974172592}
-{"relation": "P136", "template": "[X] plays [Y] -music.", "bt_log_prob": -0.4968443065881729}
-{"relation": "P136", "template": "[X] is playing [Y] music.", "bt_log_prob": -0.5249150991439819}
-{"relation": "P136", "template": "[X] plays music [Y].", "bt_log_prob": -0.5687516257166862}
-{"relation": "P136", "template": "[X] plays [Y] Music.", "bt_log_prob": -0.5987696349620819}
-{"relation": "P136", "template": "[X] plays music by [Y].", "bt_log_prob": -0.651499330997467}
-{"relation": "P136", "template": "[X] plays [Y] -Music.", "bt_log_prob": -0.6623986065387726}
-{"relation": "P136", "template": "[X] plays music on [Y].", "bt_log_prob": -0.6907913982868195}
-{"relation": "P136", "template": "[X] play [Y] music.", "bt_log_prob": -0.6926948726177216}
-{"relation": "P136", "template": "[X] plays [Y] music", "bt_log_prob": -0.7319765388965607}
-{"relation": "P136", "template": "[X] plays music from [Y].", "bt_log_prob": -0.7329641878604889}
-{"relation": "P136", "template": "[X] plays [Y].", "bt_log_prob": -0.7535710632801056}
-{"relation": "P136", "template": "[X] is playing music [Y].", "bt_log_prob": -0.783134251832962}
-{"relation": "P136", "template": "[X] performs [Y] music.", "bt_log_prob": -0.7864749729633331}
-{"relation": "P136", "template": "[X] is playing [Y].", "bt_log_prob": -0.914617121219635}
-{"relation": "P136", "template": "[X] plays the music [Y].", "bt_log_prob": -0.9260976612567902}
-{"relation": "P136", "template": "[X] plays Music [Y].", "bt_log_prob": -0.9371406733989716}
-{"relation": "P136", "template": "[X] play music [Y].", "bt_log_prob": -0.9491332173347473}
-{"relation": "P136", "template": "[X] playing music [Y].", "bt_log_prob": -0.9732319712638855}
-{"relation": "P136", "template": "[X] plays music [Y]", "bt_log_prob": -0.9994364380836487}
-{"relation": "P136", "template": "[X] performs [Y].", "bt_log_prob": -1.1014125347137451}
-{"relation": "P136", "template": "[X] is playing [Y] -music", "bt_log_prob": -1.1064185798168182}
-{"relation": "P136", "template": "[X] playing [Y] music.", "bt_log_prob": -1.1640182137489319}
-{"relation": "P136", "template": "[X] is [Y].", "bt_log_prob": -1.1968769431114197}
-{"relation": "P136", "template": "[X] play [Y].", "bt_log_prob": -1.2524446845054626}
-{"relation": "P136", "template": "[X] playing [Y].", "bt_log_prob": -1.266607940196991}
-{"relation": "P136", "template": "[X] plays [Y]", "bt_log_prob": -1.2871728539466858}
+{"template": "[Y] artist [X] .", "weight": 0.029047774150967598}
+{"template": "[Y] Artist [X].", "weight": 0.00010913785081356764}
+{"template": "[Y] Artists [X].", "weight": 0.00012277215137146413}
+{"template": "[Y] artists [X].", "weight": 9.785966540221125e-05}
+{"template": "[Y] artist [X].", "weight": 0.029047774150967598}
+{"template": "[Y] Artists [X]", "weight": 0.00010186825238633901}
+{"template": "Artists [Y] [X].", "weight": 0.00014072864723857492}
+{"template": "[X] Artists [Y].", "weight": 3.6029567127116024e-05}
+{"template": "[Y] the artist [X].", "weight": 9.754529310157523e-05}
+{"template": "[Y] Artist [X]", "weight": 9.027610212797299e-05}
+{"template": "[X] Artist [Y].", "weight": 0.00010613080667098984}
+{"template": "Artist [Y] [X].", "weight": 6.863214366603643e-05}
+{"template": "[Y] -Artists [X]", "weight": 7.473769801435992e-05}
+{"template": "[X] artists [Y].", "weight": 0.31718647480010986}
+{"template": "[Y] artists [X]", "weight": 7.620757241966203e-05}
+{"template": "artists [Y] [X].", "weight": 0.0001678077387623489}
+{"template": "[Y] -artists [X]", "weight": 5.852788672200404e-05}
+{"template": "[X] artist [Y].", "weight": 0.009841449558734894}
+{"template": "[Y] art [X].", "weight": 0.00019745578174479306}
+{"template": "[Y] man [X].", "weight": 9.142340422840789e-05}
+{"template": "[Y] artist [X]", "weight": 0.3294636905193329}
+{"template": "[Y] -Artist [X]", "weight": 7.419198664138094e-05}
+{"template": "Artists [Y] [X]", "weight": 6.461770681198686e-05}
+{"template": "[Y] [X].", "weight": 0.00013362416939344257}
+{"template": "artist [Y] [X].", "weight": 0.00012746252468787134}
+{"template": "[X] Artists [Y]", "weight": 4.141845056437887e-05}
+{"template": "[X] The artist [Y].", "weight": 0.28307321667671204}
+{"template": "[X] Artist [Y]", "weight": 3.622198346420191e-05}
+{"template": "[Y] Art [X]", "weight": 0.00010750854562502354}
+{"template": "[Y] Arts [X]", "weight": 0.00011746682139346376}

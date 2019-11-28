@@ -1,32 +1,20 @@
-{"relation": "P108", "template": "[X] works for [Y] ."}
-{"relation": "P108", "template": "[X] works for [Y].", "bt_log_prob": -0.32779989391565323}
-{"relation": "P108", "template": "[X] works with [Y].", "bt_log_prob": -0.48642387986183167}
-{"relation": "P108", "template": "[X] works on [Y].", "bt_log_prob": -0.6456995159387589}
-{"relation": "P108", "template": "[X] is working for [Y].", "bt_log_prob": -0.6615235507488251}
-{"relation": "P108", "template": "[X] will work for [Y].", "bt_log_prob": -0.6827061027288437}
-{"relation": "P108", "template": "[X] Works for [Y].", "bt_log_prob": -0.7191676944494247}
-{"relation": "P108", "template": "[X] is suitable for [Y].", "bt_log_prob": -0.7282096147537231}
-{"relation": "P108", "template": "[X] works for [Y]", "bt_log_prob": -0.7292185872793198}
-{"relation": "P108", "template": "[X] functions for [Y].", "bt_log_prob": -0.7393526881933212}
-{"relation": "P108", "template": "[X] works after [Y].", "bt_log_prob": -0.7604133784770966}
-{"relation": "P108", "template": "[X] works according to [Y].", "bt_log_prob": -0.7941225171089172}
-{"relation": "P108", "template": "[X] works in [Y].", "bt_log_prob": -0.8025013506412506}
-{"relation": "P108", "template": "[X] is for [Y].", "bt_log_prob": -0.8204916417598724}
-{"relation": "P108", "template": "[X] uses [Y].", "bt_log_prob": -0.8275956511497498}
-{"relation": "P108", "template": "[X] works at [Y].", "bt_log_prob": -0.8414994776248932}
-{"relation": "P108", "template": "[X] will work with [Y].", "bt_log_prob": -0.8524781167507172}
-{"relation": "P108", "template": "[X] works to [Y].", "bt_log_prob": -0.8653069734573364}
-{"relation": "P108", "template": "[X] works with [Y]", "bt_log_prob": -0.8851840198040009}
-{"relation": "P108", "template": "[X] functions with [Y].", "bt_log_prob": -0.9025143086910248}
-{"relation": "P108", "template": "[X] Works with [Y].", "bt_log_prob": -0.9095510542392731}
-{"relation": "P108", "template": "[X] works by [Y].", "bt_log_prob": -0.9117329716682434}
-{"relation": "P108", "template": "[X] operates with [Y].", "bt_log_prob": -0.9315271377563477}
-{"relation": "P108", "template": "[X] is appropriate for [Y].", "bt_log_prob": -0.9369024336338043}
-{"relation": "P108", "template": "[X] will work on [Y].", "bt_log_prob": -0.9421362578868866}
-{"relation": "P108", "template": "[X] works using [Y].", "bt_log_prob": -0.9440004527568817}
-{"relation": "P108", "template": "[X] is using [Y].", "bt_log_prob": -0.9738141894340515}
-{"relation": "P108", "template": "[X] is suitable for [Y]", "bt_log_prob": -1.0551728010177612}
-{"relation": "P108", "template": "[X] is for [Y]", "bt_log_prob": -1.2277841567993164}
-{"relation": "P108", "template": "[X] is working with [Y]", "bt_log_prob": -1.2761998176574707}
-{"relation": "P108", "template": "[X] is [Y] suitable.", "bt_log_prob": -1.277584969997406}
-{"relation": "P108", "template": "[X] is [Y].", "bt_log_prob": -1.2820476293563843}
+{"template": "[Y] announced that [X] .", "weight": 0.011227279901504517}
+{"template": "[Y] announced this [X].", "weight": 0.00031624393886886537}
+{"template": "[Y] announced the [X].", "weight": 0.00030875910306349397}
+{"template": "[Y] announced it [X].", "weight": 0.00047977283247746527}
+{"template": "[Y] announced [X].", "weight": 0.0002508342731744051}
+{"template": "[Y] announced that [X].", "weight": 0.011227279901504517}
+{"template": "[Y] has announced this [X].", "weight": 0.0021067250054329634}
+{"template": "[Y] posted this [X].", "weight": 0.0003429359057918191}
+{"template": "[Y] has announced the [X].", "weight": 0.0009977201698347926}
+{"template": "[Y] has announced [X].", "weight": 0.18525339663028717}
+{"template": "[Y] made this known [X].", "weight": 0.00035380219924263656}
+{"template": "[Y] announced it. [X]", "weight": 0.0003848200140055269}
+{"template": "[Y] announced this. [X]", "weight": 0.0029598057735711336}
+{"template": "[Y] announces this [X].", "weight": 0.39016222953796387}
+{"template": "[Y] announced that. [X]", "weight": 0.14011980593204498}
+{"template": "[Y] [X] announced it.", "weight": 0.2518566846847534}
+{"template": "[Y] announced the [X]", "weight": 0.000399457203457132}
+{"template": "[Y] has announced this [X]", "weight": 0.0005699250032193959}
+{"template": "[Y] announced [X]", "weight": 0.00031519989715889096}
+{"template": "[Y] proclaimed this [X]", "weight": 0.00036727669066749513}

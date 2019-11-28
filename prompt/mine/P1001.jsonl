@@ -1,51 +1,29 @@
-{"relation": "P1001", "template": "[X] is a legal term in [Y] .", "label": "applies to jurisdiction", "description": "the item (an institution, law, public office ...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)", "type": "N-M"}
-{"relation": "P1001", "template": "[X] in the australian [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 325}
-{"relation": "P1001", "template": "[X] of morbihan association insee [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 214}
-{"relation": "P1001", "template": "[X] in the australian state of [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 184}
-{"relation": "P1001", "template": "[Y] politician and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 125}
-{"relation": "P1001", "template": "[X] legislative district maps from the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 115}
-{"relation": "P1001", "template": "[Y] politician and former [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 99}
-{"relation": "P1001", "template": "[X] constituencies of [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 75}
-{"relation": "P1001", "template": "[X] of the province of [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 69}
-{"relation": "P1001", "template": "[Y] that elects members to the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 68}
-{"relation": "P1001", "template": "[X] of the holy [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 67}
-{"relation": "P1001", "template": "[X] of the new [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 63}
-{"relation": "P1001", "template": "[Y] elects a [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 54}
-{"relation": "P1001", "template": "[Y] politician and a former [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 54}
-{"relation": "P1001", "template": "[Y] who served in the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 54}
-{"relation": "P1001", "template": "[X] electorate in the state of [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 50}
-{"relation": "P1001", "template": "[X] were allocated to [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 50}
-{"relation": "P1001", "template": "[Y] volleyball body [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 48}
-{"relation": "P1001", "template": "[X] leader of the opposition ( [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 41}
-{"relation": "P1001", "template": "[Y] who served as a republican [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 40}
-{"relation": "P1001", "template": "[X] of the medical [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 39}
-{"relation": "P1001", "template": "[Y] habitats [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 37}
-{"relation": "P1001", "template": "[X] constituencies of the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 35}
-{"relation": "P1001", "template": "[X] of the law [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 34}
-{"relation": "P1001", "template": "[Y] politician who served in the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 33}
-{"relation": "P1001", "template": "[X] representing [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 31}
-{"relation": "P1001", "template": "[Y] politician and a [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 30}
-{"relation": "P1001", "template": "[X] of nazi [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 30}
-{"relation": "P1001", "template": "[X] website [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 29}
-{"relation": "P1001", "template": "[Y] elections for the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 28}
-{"relation": "P1001", "template": "[Y] parliament website parliamentary profile : [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 28}
-{"relation": "P1001", "template": "[X] website house website [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 27}
-{"relation": "P1001", "template": "[Y] with an elected [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 26}
-{"relation": "P1001", "template": "[Y] map of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 25}
-{"relation": "P1001", "template": "[Y] dance [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 25}
-{"relation": "P1001", "template": "[X] references external links [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 23}
-{"relation": "P1001", "template": "[X] 2010 from ourcampaigns.com 2010 [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 23}
-{"relation": "P1001", "template": "[Y] jurist who served as an [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 22}
-{"relation": "P1001", "template": "[Y] urban [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 21}
-{"relation": "P1001", "template": "[X] saskatchewan archives board -- [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 21}
-{"relation": "P1001", "template": "[X] of the newly created [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 21}
-{"relation": "P1001", "template": "[Y] page [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 20}
-{"relation": "P1001", "template": "[Y] currently serving in the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 20}
-{"relation": "P1001", "template": "[Y] politician , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 20}
-{"relation": "P1001", "template": "[X] elected to represent an unsubdivided [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
-{"relation": "P1001", "template": "[Y] comprises a president , a [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
-{"relation": "P1001", "template": "[X] power in [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
-{"relation": "P1001", "template": "[Y] voter information website 2003 [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
-{"relation": "P1001", "template": "[Y] liberal [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 17}
-{"relation": "P1001", "template": "[X] passed the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 16}
-{"relation": "P1001", "template": "[X] of this african [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 16}
+{"template": "[X] in the australian [Y] .", "weight": 8.354534656973556e-05}
+{"template": "[X] of morbihan association insee [Y] .", "weight": 8.878420339897275e-05}
+{"template": "[X] in the australian state of [Y] .", "weight": 0.003165333066135645}
+{"template": "[Y] politician and [X] .", "weight": 5.547934051719494e-05}
+{"template": "[X] legislative district maps from the [Y] .", "weight": 8.395109762204811e-05}
+{"template": "[Y] politician and former [X] .", "weight": 5.053305358160287e-05}
+{"template": "[X] constituencies of [Y] .", "weight": 0.3337858319282532}
+{"template": "[X] of the province of [Y] .", "weight": 0.0007354513509199023}
+{"template": "[Y] that elects members to the [X] .", "weight": 8.338198676938191e-05}
+{"template": "[X] of the holy [Y] .", "weight": 9.58711389102973e-05}
+{"template": "[X] of the new [Y] .", "weight": 7.56185909267515e-05}
+{"template": "[Y] elects a [X] .", "weight": 0.0012318488443270326}
+{"template": "[Y] politician and a former [X] .", "weight": 6.037272760295309e-05}
+{"template": "[Y] who served in the [X] .", "weight": 0.00010432691487949342}
+{"template": "[X] electorate in the state of [Y] .", "weight": 0.0005336179165169597}
+{"template": "[X] were allocated to [Y] .", "weight": 0.0699446052312851}
+{"template": "[Y] volleyball body [X] .", "weight": 0.00019172823522239923}
+{"template": "[X] leader of the opposition ( [Y] .", "weight": 8.236098074121401e-05}
+{"template": "[Y] who served as a republican [X] .", "weight": 9.111833787756041e-05}
+{"template": "[X] of the medical [Y] .", "weight": 9.48587476159446e-05}
+{"template": "[Y] habitats [X] .", "weight": 8.449710730928928e-05}
+{"template": "[X] constituencies of the [Y] .", "weight": 0.00012714827607851475}
+{"template": "[X] of the law [Y] .", "weight": 9.818458056543022e-05}
+{"template": "[Y] politician who served in the [X] .", "weight": 6.743010453647003e-05}
+{"template": "[X] representing [Y] .", "weight": 0.5886460542678833}
+{"template": "[Y] politician and a [X] .", "weight": 7.011291745584458e-05}
+{"template": "[X] of nazi [Y] .", "weight": 8.127887122100219e-05}
+{"template": "[X] website [Y] .", "weight": 8.431053720414639e-05}
+{"template": "[Y] elections for the [X] .", "weight": 0.00010233476496068761}

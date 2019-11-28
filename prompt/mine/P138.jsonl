@@ -1,46 +1,29 @@
-{"relation": "P138", "template": "[X] is named after [Y] .", "label": "named after", "description": "entity or event that inspired the subject's name, or namesake (in at least one language)", "type": "N-1"}
-{"relation": "P138", "template": "[Y] germany [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 117}
-{"relation": "P138", "template": "[X] and produces [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 72}
-{"relation": "P138", "template": "[X] founder [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 71}
-{"relation": "P138", "template": "[X] is named after [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 70}
-{"relation": "P138", "template": "[X] producing [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 68}
-{"relation": "P138", "template": "[X] refers to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 57}
-{"relation": "P138", "template": "[X] was named after [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 56}
-{"relation": "P138", "template": "[X] color : [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 48}
-{"relation": "P138", "template": "[X] named after [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 47}
-{"relation": "P138", "template": "[Y] months of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
-{"relation": "P138", "template": "[X] in honor of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 39}
-{"relation": "P138", "template": "[X] location northern hemisphere western hemisphere [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 37}
-{"relation": "P138", "template": "[X] by remo giazotto , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 35}
-{"relation": "P138", "template": "[X] near [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 32}
-{"relation": "P138", "template": "[X] de [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 31}
-{"relation": "P138", "template": "[Y] founded the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 28}
-{"relation": "P138", "template": "[Y] months ( [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 27}
-{"relation": "P138", "template": "[X] in honour of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 25}
-{"relation": "P138", "template": "[Y] 2 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 23}
-{"relation": "P138", "template": "[X] county to the new [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 22}
-{"relation": "P138", "template": "[Y] to form [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 22}
-{"relation": "P138", "template": "[X] republic and every republic in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 22}
-{"relation": "P138", "template": "[Y] serving the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 20}
-{"relation": "P138", "template": "[X] is named for [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 19}
-{"relation": "P138", "template": "[Y] and the rise of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 18}
-{"relation": "P138", "template": "[Y] observed stars in the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 18}
-{"relation": "P138", "template": "[Y] of the silvery [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 17}
-{"relation": "P138", "template": "[X] services . platform 1 : [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 16}
-{"relation": "P138", "template": "[Y] services . platform 1 : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 16}
-{"relation": "P138", "template": "[Y] united states [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 16}
-{"relation": "P138", "template": "[X] louisiana superdome [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 15}
-{"relation": "P138", "template": "[Y] months from [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 15}
-{"relation": "P138", "template": "[Y] starts in [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 14}
-{"relation": "P138", "template": "[Y] established the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 13}
-{"relation": "P138", "template": "[Y] created the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 13}
-{"relation": "P138", "template": "[Y] near [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 13}
-{"relation": "P138", "template": "[Y] returned to [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 12}
-{"relation": "P138", "template": "[X] was named for [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 12}
-{"relation": "P138", "template": "[X] assessment , developed by [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 12}
-{"relation": "P138", "template": "[X] co-founder [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 11}
-{"relation": "P138", "template": "[Y] ibn [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 11}
-{"relation": "P138", "template": "[Y] in present - day [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 11}
-{"relation": "P138", "template": "[Y] iraq [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 10}
-{"relation": "P138", "template": "[Y] c++ [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 10}
-{"relation": "P138", "template": "[X] south of the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 10}
+{"template": "[Y] germany [X] .", "weight": 0.00014091641060076654}
+{"template": "[X] and produces [Y] .", "weight": 0.0009973117848858237}
+{"template": "[X] founder [Y] .", "weight": 8.309141412610188e-05}
+{"template": "[X] is named after [Y] .", "weight": 0.01107290294021368}
+{"template": "[X] producing [Y] .", "weight": 0.006215896923094988}
+{"template": "[X] refers to [Y] .", "weight": 0.677713930606842}
+{"template": "[X] was named after [Y] .", "weight": 0.0010249054757878184}
+{"template": "[X] color : [Y] .", "weight": 0.0007727295160293579}
+{"template": "[X] named after [Y] .", "weight": 0.00032209110213443637}
+{"template": "[Y] months of [X] .", "weight": 0.00018375770014245063}
+{"template": "[X] in honor of [Y] .", "weight": 6.49561989121139e-05}
+{"template": "[X] location northern hemisphere western hemisphere [Y] .", "weight": 0.0519338995218277}
+{"template": "[X] by remo giazotto , [Y] .", "weight": 9.202681394526735e-05}
+{"template": "[X] near [Y] .", "weight": 0.000564139278139919}
+{"template": "[X] de [Y] .", "weight": 8.234790584538132e-05}
+{"template": "[Y] founded the [X] .", "weight": 9.414016676601022e-05}
+{"template": "[Y] months ( [X] .", "weight": 0.00017746351659297943}
+{"template": "[X] in honour of [Y] .", "weight": 6.258237408474088e-05}
+{"template": "[Y] 2 [X] .", "weight": 0.00016872258856892586}
+{"template": "[X] county to the new [Y] .", "weight": 0.0004110394511371851}
+{"template": "[Y] to form [X] .", "weight": 0.00015205868112388998}
+{"template": "[X] republic and every republic in [Y] .", "weight": 0.00019343239546287805}
+{"template": "[Y] serving the [X] .", "weight": 0.00012621354835573584}
+{"template": "[X] is named for [Y] .", "weight": 0.2467024326324463}
+{"template": "[Y] and the rise of [X] .", "weight": 4.597521183313802e-05}
+{"template": "[Y] observed stars in the [X] .", "weight": 0.00010078171908389777}
+{"template": "[Y] of the silvery [X] .", "weight": 0.00015575044380966574}
+{"template": "[X] services . platform 1 : [Y] .", "weight": 0.00018838944379240274}
+{"template": "[Y] services . platform 1 : [X] .", "weight": 0.00015629525296390057}

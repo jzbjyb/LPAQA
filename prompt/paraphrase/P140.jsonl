@@ -1,29 +1,30 @@
-{"relation": "P140", "template": "[X] is affiliated with the [Y] religion ."}
-{"relation": "P140", "template": "[X] is related to the [Y] religion.", "bt_log_prob": -0.5622764378786087}
-{"relation": "P140", "template": "[X] is associated with the [Y] religion.", "bt_log_prob": -0.5909677743911743}
-{"relation": "P140", "template": "[X] is related to [Y] religion.", "bt_log_prob": -0.6129908859729767}
-{"relation": "P140", "template": "[X] is related to religion [Y].", "bt_log_prob": -0.63425612449646}
-{"relation": "P140", "template": "[X] is connected to the [Y] religion.", "bt_log_prob": -0.6391783654689789}
-{"relation": "P140", "template": "[X] is connected to religion [Y].", "bt_log_prob": -0.6431198120117188}
-{"relation": "P140", "template": "[X] is close to the [Y] religion.", "bt_log_prob": -0.6447055041790009}
-{"relation": "P140", "template": "[X] is connected with the [Y] religion.", "bt_log_prob": -0.6509189903736115}
-{"relation": "P140", "template": "[X] is connected with religion [Y].", "bt_log_prob": -0.6530231535434723}
-{"relation": "P140", "template": "[X] is associated with [Y] religion.", "bt_log_prob": -0.6645149290561676}
-{"relation": "P140", "template": "[X] is linked to the [Y] religion.", "bt_log_prob": -0.6767658293247223}
-{"relation": "P140", "template": "[X] is connected to the religion [Y].", "bt_log_prob": -0.6893437802791595}
-{"relation": "P140", "template": "[X] is associated with religion [Y].", "bt_log_prob": -0.6932437419891357}
-{"relation": "P140", "template": "[X] is related to the religion [Y].", "bt_log_prob": -0.6988645195960999}
-{"relation": "P140", "template": "[X] is linked to religion [Y].", "bt_log_prob": -0.7074988484382629}
-{"relation": "P140", "template": "[X] is connected with [Y] religion.", "bt_log_prob": -0.7195665538311005}
-{"relation": "P140", "template": "[X] is close to [Y] religion.", "bt_log_prob": -0.7218080759048462}
-{"relation": "P140", "template": "[X] is close to the [Y] -religion.", "bt_log_prob": -0.7229601144790649}
-{"relation": "P140", "template": "[X] is connected to [Y] religion.", "bt_log_prob": -0.7286674380302429}
-{"relation": "P140", "template": "[X] is close to [Y] -religion.", "bt_log_prob": -0.743132472038269}
-{"relation": "P140", "template": "[X] is very close to the [Y] religion.", "bt_log_prob": -0.7822678685188293}
-{"relation": "P140", "template": "[X] is related to the [Y] religion", "bt_log_prob": -1.074414223432541}
-{"relation": "P140", "template": "[X] is connected with the [Y] religion", "bt_log_prob": -1.130597084760666}
-{"relation": "P140", "template": "[X] is related to [Y] religion", "bt_log_prob": -1.1367557346820831}
-{"relation": "P140", "template": "[X] is connected to the [Y] religion", "bt_log_prob": -1.1454556584358215}
-{"relation": "P140", "template": "[X] is related to the [Y] -religion", "bt_log_prob": -1.1560942232608795}
-{"relation": "P140", "template": "[X] is associated with the [Y] religion", "bt_log_prob": -1.1726712882518768}
-{"relation": "P140", "template": "[X] is related to [Y] -religion", "bt_log_prob": -1.1785035729408264}
+{"template": "[X] had converted to [Y] .", "weight": 0.35319018363952637}
+{"template": "[X] was converted to [Y].", "weight": 0.00018230563728138804}
+{"template": "[X] had been converted to [Y].", "weight": 0.00017657040734775364}
+{"template": "[X] had been changed to [Y].", "weight": 6.285532435867935e-05}
+{"template": "[X] to [Y].", "weight": 6.404491432476789e-05}
+{"template": "[X] had turned into [Y].", "weight": 6.216518522705883e-05}
+{"template": "[X] had been transformed into [Y].", "weight": 6.579476030310616e-05}
+{"template": "[X] had been converted into [Y].", "weight": 3.6355577321955934e-05}
+{"template": "[X] was changed to [Y].", "weight": 6.180150376167148e-05}
+{"template": "[X] had been transformed to [Y].", "weight": 5.4366821132134646e-05}
+{"template": "[X] had changed to [Y].", "weight": 5.261555634206161e-05}
+{"template": "[X] was converted into [Y].", "weight": 4.07969273510389e-05}
+{"template": "[X] had changed into [Y].", "weight": 6.308484444161877e-05}
+{"template": "[X] was transformed to [Y].", "weight": 5.439145752461627e-05}
+{"template": "[X] was transformed into [Y].", "weight": 7.437229214701802e-05}
+{"template": "[X] had converted to [Y].", "weight": 0.35319018363952637}
+{"template": "[X] into [Y].", "weight": 6.184135418152437e-05}
+{"template": "[X] had become [Y].", "weight": 6.67706917738542e-05}
+{"template": "[X] has been converted to [Y].", "weight": 0.00023720480385236442}
+{"template": "[X] had transformed into [Y].", "weight": 7.07420040271245e-05}
+{"template": "[X] was turned into [Y].", "weight": 5.384840187616646e-05}
+{"template": "[X] had converted into [Y].", "weight": 5.7755987654672936e-05}
+{"template": "[X] had transformed to [Y].", "weight": 5.6041291827568784e-05}
+{"template": "[X] was converted to [Y]", "weight": 4.079203790752217e-05}
+{"template": "[X] turned into [Y].", "weight": 6.535272405017167e-05}
+{"template": "[X] converted to [Y].", "weight": 0.001418540021404624}
+{"template": "[X] is converted to [Y].", "weight": 0.18127910792827606}
+{"template": "[X] in [Y].", "weight": 0.10907181352376938}
+{"template": "[X] had been converted to [Y]", "weight": 3.392339567653835e-05}
+{"template": "[X] to [Y]", "weight": 5.428955773822963e-05}

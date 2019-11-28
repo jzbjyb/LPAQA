@@ -1,27 +1,30 @@
-{"relation": "P36", "template": "The capital of [X] is [Y] ."}
-{"relation": "P36", "template": "The capital of [X] is [Y].", "bt_log_prob": -0.33572906255722046}
-{"relation": "P36", "template": "The capital city of [X] is [Y].", "bt_log_prob": -0.4909815788269043}
-{"relation": "P36", "template": "[X] is the capital of [Y].", "bt_log_prob": -0.5553023219108582}
-{"relation": "P36", "template": "The capital [X] is [Y].", "bt_log_prob": -0.5937089920043945}
-{"relation": "P36", "template": "The Capital of [X] is [Y].", "bt_log_prob": -0.6039203107357025}
-{"relation": "P36", "template": "The capital of the [X] is [Y].", "bt_log_prob": -0.6069024354219437}
-{"relation": "P36", "template": "[X] is [Y].", "bt_log_prob": -0.6528479233384132}
-{"relation": "P36", "template": "[X] capital is [Y].", "bt_log_prob": -0.6657346189022064}
-{"relation": "P36", "template": "[X] \"s capital is [Y].", "bt_log_prob": -0.6736331880092621}
-{"relation": "P36", "template": "The [X] capital is [Y].", "bt_log_prob": -0.7204781472682953}
-{"relation": "P36", "template": "The capital of [X] is [Y]", "bt_log_prob": -0.7398804128170013}
-{"relation": "P36", "template": "[X] is [Y] capital.", "bt_log_prob": -0.7665967345237732}
-{"relation": "P36", "template": "[X] is the capital city of [Y].", "bt_log_prob": -0.7812390327453613}
-{"relation": "P36", "template": "The capital city of [X] is [Y]", "bt_log_prob": -0.8814587295055389}
-{"relation": "P36", "template": "The Capital [X] is [Y].", "bt_log_prob": -0.901746928691864}
-{"relation": "P36", "template": "Its capital [X] is [Y].", "bt_log_prob": -0.9103672802448273}
-{"relation": "P36", "template": "The capital is [X] [Y].", "bt_log_prob": -0.9273510277271271}
-{"relation": "P36", "template": "The capital of the [X] is [Y]", "bt_log_prob": -0.9801064431667328}
-{"relation": "P36", "template": "[X] is the Capital of [Y].", "bt_log_prob": -0.9998279213905334}
-{"relation": "P36", "template": "[X] is the capital of [Y]", "bt_log_prob": -1.0280997157096863}
-{"relation": "P36", "template": "The capital [X] is [Y]", "bt_log_prob": -1.0304942429065704}
-{"relation": "P36", "template": "[X] is capital of [Y].", "bt_log_prob": -1.0628212094306946}
-{"relation": "P36", "template": "[X] is [Y]", "bt_log_prob": -1.1349528431892395}
-{"relation": "P36", "template": "[X] is the capital city of [Y]", "bt_log_prob": -1.151065707206726}
-{"relation": "P36", "template": "[X] means [Y].", "bt_log_prob": -1.26315176486969}
-{"relation": "P36", "template": "[X] = [Y].", "bt_log_prob": -1.3066264390945435}
+{"template": "[X] town of [Y] .", "weight": 0.17409534752368927}
+{"template": "[X] City [Y].", "weight": 0.00011234652629354969}
+{"template": "[X] city [Y].", "weight": 0.00012699305079877377}
+{"template": "[X] the city [Y].", "weight": 0.00013541449152398854}
+{"template": "[X] Town [Y].", "weight": 0.00012410849740263075}
+{"template": "[X] City of [Y].", "weight": 0.21771042048931122}
+{"template": "[X] of the city [Y].", "weight": 0.00010628926975186914}
+{"template": "[X] town [Y].", "weight": 0.0001341689348919317}
+{"template": "[X] the town [Y].", "weight": 0.00013896042946726084}
+{"template": "[X] City [Y]", "weight": 8.017259096959606e-05}
+{"template": "[X] of [Y].", "weight": 0.0007265616441145539}
+{"template": "[X] city of [Y].", "weight": 0.3445236086845398}
+{"template": "[X] from [Y].", "weight": 0.0006028381176292896}
+{"template": "[X] the City [Y].", "weight": 0.00013918527110945433}
+{"template": "[X] of the town [Y].", "weight": 0.00012015797256026417}
+{"template": "[X] Town of [Y].", "weight": 0.029148714616894722}
+{"template": "[X] The city [Y].", "weight": 0.00013767366181127727}
+{"template": "[X] Place [Y].", "weight": 0.00010207574814558029}
+{"template": "[X] by [Y].", "weight": 0.05604095384478569}
+{"template": "[X] place [Y].", "weight": 0.00011695217835949734}
+{"template": "[X] Location [Y].", "weight": 0.00011439013906056061}
+{"template": "[X] of the City [Y].", "weight": 9.671614679973572e-05}
+{"template": "[X] location [Y].", "weight": 0.00011483670095913112}
+{"template": "[X] The City [Y].", "weight": 0.0001151298638433218}
+{"template": "[X] town of [Y].", "weight": 0.17409534752368927}
+{"template": "[X] of city [Y].", "weight": 0.00010809140076162294}
+{"template": "[X] city [Y]", "weight": 8.509807958034799e-05}
+{"template": "[X] of town [Y].", "weight": 0.00011476411600597203}
+{"template": "[X] City from [Y].", "weight": 0.0006221806397661567}
+{"template": "[X] of the city [Y]", "weight": 0.00011050466855522245}

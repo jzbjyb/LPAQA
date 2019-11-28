@@ -1,15 +1,30 @@
-{"relation": "P31", "template": "[X] is a [Y] ."}
-{"relation": "P31", "template": "[X] is a [Y].", "bt_log_prob": -0.2698991894721985}
-{"relation": "P31", "template": "[X] is an [Y].", "bt_log_prob": -0.4384943097829819}
-{"relation": "P31", "template": "[X] is [Y].", "bt_log_prob": -0.46335504949092865}
-{"relation": "P31", "template": "[X] is one [Y].", "bt_log_prob": -0.5653644055128098}
-{"relation": "P31", "template": "[X] is a [Y]", "bt_log_prob": -0.6969962269067764}
-{"relation": "P31", "template": "[X] is the [Y].", "bt_log_prob": -0.8060961067676544}
-{"relation": "P31", "template": "[X] is that [Y].", "bt_log_prob": -0.9609827399253845}
-{"relation": "P31", "template": "[X] is an [Y]", "bt_log_prob": -1.0553947985172272}
-{"relation": "P31", "template": "[X] is this [Y].", "bt_log_prob": -1.0812481045722961}
-{"relation": "P31", "template": "[X] is [Y]", "bt_log_prob": -1.1333867907524109}
-{"relation": "P31", "template": "[X] means [Y].", "bt_log_prob": -1.1416400074958801}
-{"relation": "P31", "template": "[X] is one [Y]", "bt_log_prob": -1.2751367092132568}
-{"relation": "P31", "template": "[X] = [Y].", "bt_log_prob": -1.3158616423606873}
-{"relation": "P31", "template": "[X] Is a [Y]", "bt_log_prob": -1.405898094177246}
+{"template": "[X] is a small [Y] .", "weight": 0.0016712986398488283}
+{"template": "[X] is a small [Y].", "weight": 0.0016712986398488283}
+{"template": "[X] is a little [Y].", "weight": 0.00010581310925772414}
+{"template": "[X] is a tiny [Y].", "weight": 0.00031135621247813106}
+{"template": "[X] is a short [Y].", "weight": 0.07529261708259583}
+{"template": "[X] is a smaller [Y].", "weight": 0.00010989284055540338}
+{"template": "[X] is small [Y].", "weight": 0.00015147653175517917}
+{"template": "[X] is a [Y].", "weight": 0.2059689462184906}
+{"template": "[X] is the small [Y].", "weight": 0.00020194676471874118}
+{"template": "[X] is the little [Y].", "weight": 0.043233975768089294}
+{"template": "[X] is a smaller one [Y].", "weight": 0.00014377084153238684}
+{"template": "[X] is a minor [Y].", "weight": 0.0009416266111657023}
+{"template": "[X] is smaller [Y].", "weight": 9.732658509165049e-05}
+{"template": "[X] is a lower [Y].", "weight": 0.00027697262703441083}
+{"template": "[X] is the tiny [Y].", "weight": 9.735053754411638e-05}
+{"template": "[X] is the smaller [Y].", "weight": 8.023306872928515e-05}
+{"template": "[X] is the [Y].", "weight": 9.352964843856171e-05}
+{"template": "[X] is a narrow [Y]", "weight": 0.0023320307955145836}
+{"template": "[X] is little [Y].", "weight": 0.00015132893167901784}
+{"template": "[X] is small [Y]", "weight": 0.0002410860761301592}
+{"template": "[X] is tiny [Y].", "weight": 0.00010273014049744233}
+{"template": "[X] is low [Y].", "weight": 0.13419397175312042}
+{"template": "[X] is short [Y].", "weight": 0.00016143232642207295}
+{"template": "[X] is a small [Y]", "weight": 0.00028343615122139454}
+{"template": "[X] is a smaller one [Y]", "weight": 0.000230316465604119}
+{"template": "[X] is a thin [Y]", "weight": 9.753962513059378e-05}
+{"template": "[X] is a narrow [Y].", "weight": 0.5307955741882324}
+{"template": "[X] is a narrow one [Y]", "weight": 0.0002620020241010934}
+{"template": "[X] is a very narrow [Y]", "weight": 0.0005604466423392296}
+{"template": "[X] is a slim [Y]", "weight": 0.00013867685629520565}

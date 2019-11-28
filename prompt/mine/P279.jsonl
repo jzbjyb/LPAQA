@@ -1,51 +1,29 @@
-{"relation": "P279", "template": "[X] is a subclass of [Y] .", "label": "subclass of", "description": "all instances of these items are instances of those items; this item is a class (subset) of that item. Not to be confused with P31 (instance of)", "type": "N-1"}
-{"relation": "P279", "template": "[X] the following [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1588}
-{"relation": "P279", "template": "[Y] like [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1192}
-{"relation": "P279", "template": "[Y] including [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1176}
-{"relation": "P279", "template": "[Y] include [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 775}
-{"relation": "P279", "template": "[X] high [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 519}
-{"relation": "P279", "template": "[Y] called [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 409}
-{"relation": "P279", "template": "[Y] known as [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 219}
-{"relation": "P279", "template": "[Y] including the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 217}
-{"relation": "P279", "template": "[X] is a type of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 185}
-{"relation": "P279", "template": "[X] form of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 185}
-{"relation": "P279", "template": "[Y] like the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 168}
-{"relation": "P279", "template": "[X] and national [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 166}
-{"relation": "P279", "template": "[Y] to five years [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 161}
-{"relation": "P279", "template": "[X] and related [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 156}
-{"relation": "P279", "template": "[Y] include the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 148}
-{"relation": "P279", "template": "[X] sect of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 140}
-{"relation": "P279", "template": "[Y] and / or [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 128}
-{"relation": "P279", "template": "[X] births per 1,000 live [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 127}
-{"relation": "P279", "template": "[Y] included [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 124}
-{"relation": "P279", "template": "[X] and commercial [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 124}
-{"relation": "P279", "template": "[X] united states [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 122}
-{"relation": "P279", "template": "[Y] to five years ' [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 122}
-{"relation": "P279", "template": "[X] and small [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 113}
-{"relation": "P279", "template": "[Y] in the form of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 109}
-{"relation": "P279", "template": "[Y] to ten years [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 103}
-{"relation": "P279", "template": "[X] soviet union [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 99}
-{"relation": "P279", "template": "[Y] 5 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 99}
-{"relation": "P279", "template": "[Y] similar to [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 95}
-{"relation": "P279", "template": "[X] is a form of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 94}
-{"relation": "P279", "template": "[X] and / or [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 93}
-{"relation": "P279", "template": "[X] based [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 92}
-{"relation": "P279", "template": "[Y] ranging from [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 89}
-{"relation": "P279", "template": "[Y] called the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 87}
-{"relation": "P279", "template": "[X] middle [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 85}
-{"relation": "P279", "template": "[Y] instead of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 84}
-{"relation": "P279", "template": "[X] 3 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 82}
-{"relation": "P279", "template": "[Y] include a [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 78}
-{"relation": "P279", "template": "[Y] to ten years ' [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 72}
-{"relation": "P279", "template": "[Y] approved a [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 72}
-{"relation": "P279", "template": "[X] as a separate [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 70}
-{"relation": "P279", "template": "[Y] are : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 66}
-{"relation": "P279", "template": "[X] and similar [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 65}
-{"relation": "P279", "template": "[X] branch of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 65}
-{"relation": "P279", "template": "[X] and senior [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 64}
-{"relation": "P279", "template": "[Y] known as the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 64}
-{"relation": "P279", "template": "[Y] are called [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 61}
-{"relation": "P279", "template": "[X] and associated [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 60}
-{"relation": "P279", "template": "[X] stuka [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 60}
-{"relation": "P279", "template": "[X] is the main [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 59}
-{"relation": "P279", "template": "[Y] of 0 - [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 59}
+{"template": "[X] the following [Y] .", "weight": 0.00011268235539318994}
+{"template": "[Y] like [X] .", "weight": 2.7771528039011173e-05}
+{"template": "[Y] including [X] .", "weight": 3.823800216196105e-05}
+{"template": "[Y] include [X] .", "weight": 4.512304803938605e-05}
+{"template": "[X] high [Y] .", "weight": 6.895212572999299e-05}
+{"template": "[Y] called [X] .", "weight": 0.13357074558734894}
+{"template": "[Y] known as [X] .", "weight": 0.00011458533845143393}
+{"template": "[Y] including the [X] .", "weight": 3.899462171830237e-05}
+{"template": "[X] is a type of [Y] .", "weight": 0.21388180553913116}
+{"template": "[X] form of [Y] .", "weight": 0.512170135974884}
+{"template": "[Y] like the [X] .", "weight": 3.37132005370222e-05}
+{"template": "[X] and national [Y] .", "weight": 0.00012326367141213268}
+{"template": "[Y] to five years [X] .", "weight": 3.117621599812992e-05}
+{"template": "[X] and related [Y] .", "weight": 0.02671224996447563}
+{"template": "[Y] include the [X] .", "weight": 4.340624582255259e-05}
+{"template": "[X] sect of [Y] .", "weight": 1.9368186258361675e-05}
+{"template": "[Y] and / or [X] .", "weight": 1.8056276530842297e-05}
+{"template": "[X] births per 1,000 live [Y] .", "weight": 0.09784343838691711}
+{"template": "[Y] included [X] .", "weight": 3.614570232457481e-05}
+{"template": "[X] and commercial [Y] .", "weight": 3.0173780032782815e-05}
+{"template": "[X] united states [Y] .", "weight": 2.117437543347478e-05}
+{"template": "[Y] to five years ' [X] .", "weight": 3.219983773306012e-05}
+{"template": "[X] and small [Y] .", "weight": 3.844993989332579e-05}
+{"template": "[Y] in the form of [X] .", "weight": 0.014085598289966583}
+{"template": "[Y] to ten years [X] .", "weight": 3.3425967558287084e-05}
+{"template": "[X] soviet union [Y] .", "weight": 3.456110425759107e-05}
+{"template": "[Y] 5 [X] .", "weight": 3.0688257538713515e-05}
+{"template": "[Y] similar to [X] .", "weight": 2.262833368149586e-05}
+{"template": "[X] is a form of [Y] .", "weight": 0.0007414394058287144}

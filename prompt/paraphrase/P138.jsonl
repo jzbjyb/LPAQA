@@ -1,25 +1,25 @@
-{"relation": "P138", "template": "[X] is named after [Y] ."}
-{"relation": "P138", "template": "[X] is named after [Y].", "bt_log_prob": -0.2461581751704216}
-{"relation": "P138", "template": "[X] is named for [Y].", "bt_log_prob": -0.420103095471859}
-{"relation": "P138", "template": "[X] is named after [Y]", "bt_log_prob": -0.5428163334727287}
-{"relation": "P138", "template": "[X] is called after [Y].", "bt_log_prob": -0.611443005502224}
-{"relation": "P138", "template": "[X] was named after [Y].", "bt_log_prob": -0.6318482756614685}
-{"relation": "P138", "template": "[X] is after [Y].", "bt_log_prob": -0.6968558356165886}
-{"relation": "P138", "template": "[X] is named [Y].", "bt_log_prob": -0.7122843563556671}
-{"relation": "P138", "template": "[X] is called [Y].", "bt_log_prob": -0.7425075471401215}
-{"relation": "P138", "template": "[X] has the name [Y].", "bt_log_prob": -0.7572460472583771}
-{"relation": "P138", "template": "[X] has been named after [Y].", "bt_log_prob": -0.7732682228088379}
-{"relation": "P138", "template": "[X] means after [Y].", "bt_log_prob": -0.810304269194603}
-{"relation": "P138", "template": "[X] bears the name [Y].", "bt_log_prob": -0.8131923079490662}
-{"relation": "P138", "template": "[X] was named for [Y].", "bt_log_prob": -0.8167536854743958}
-{"relation": "P138", "template": "[X] carries the name [Y].", "bt_log_prob": -0.8167610764503479}
-{"relation": "P138", "template": "[X] is called for [Y].", "bt_log_prob": -0.9194744825363159}
-{"relation": "P138", "template": "[X] is named by [Y].", "bt_log_prob": -0.924162745475769}
-{"relation": "P138", "template": "[X] is the name [Y].", "bt_log_prob": -0.932305783033371}
-{"relation": "P138", "template": "[X] is named to [Y].", "bt_log_prob": -0.9415019154548645}
-{"relation": "P138", "template": "[X] will be named after [Y]", "bt_log_prob": -0.9784795641899109}
-{"relation": "P138", "template": "[X] means [Y].", "bt_log_prob": -1.0141501426696777}
-{"relation": "P138", "template": "[X] after [Y].", "bt_log_prob": -1.0358359515666962}
-{"relation": "P138", "template": "[X] is given after [Y].", "bt_log_prob": -1.0556491315364838}
-{"relation": "P138", "template": "[X] is given the name [Y]", "bt_log_prob": -1.2331927418708801}
-{"relation": "P138", "template": "[X] is called after [Y]", "bt_log_prob": -1.4412347078323364}
+{"template": "[X] is named after [Y] .", "weight": 0.003778907936066389}
+{"template": "[X] is named after [Y].", "weight": 0.003778907936066389}
+{"template": "[X] is named for [Y].", "weight": 0.16259706020355225}
+{"template": "[X] is named after [Y]", "weight": 0.000136037080665119}
+{"template": "[X] is called after [Y].", "weight": 0.0008516685920767486}
+{"template": "[X] was named after [Y].", "weight": 0.00023428550048265606}
+{"template": "[X] is after [Y].", "weight": 0.0001474286982556805}
+{"template": "[X] is named [Y].", "weight": 0.00013912073336541653}
+{"template": "[X] is called [Y].", "weight": 0.002229390200227499}
+{"template": "[X] has the name [Y].", "weight": 0.0008641424938105047}
+{"template": "[X] has been named after [Y].", "weight": 0.00025415222626179457}
+{"template": "[X] means after [Y].", "weight": 0.163476824760437}
+{"template": "[X] bears the name [Y].", "weight": 0.0004918280756101012}
+{"template": "[X] was named for [Y].", "weight": 0.00037415666156448424}
+{"template": "[X] carries the name [Y].", "weight": 0.2926032841205597}
+{"template": "[X] is called for [Y].", "weight": 0.0002199705777456984}
+{"template": "[X] is named by [Y].", "weight": 0.00019394478294998407}
+{"template": "[X] is the name [Y].", "weight": 0.00010422108607599512}
+{"template": "[X] is named to [Y].", "weight": 0.0002004195557674393}
+{"template": "[X] will be named after [Y]", "weight": 0.0001387815282214433}
+{"template": "[X] means [Y].", "weight": 0.3666410744190216}
+{"template": "[X] after [Y].", "weight": 0.00015930003428366035}
+{"template": "[X] is given after [Y].", "weight": 0.00012968495138920844}
+{"template": "[X] is given the name [Y]", "weight": 0.00013915772433392704}
+{"template": "[X] is called after [Y]", "weight": 0.00011628897482296452}

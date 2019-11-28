@@ -1,31 +1,30 @@
-{"relation": "P19", "template": "[X] was born in [Y] ."}
-{"relation": "P19", "template": "[X] was born in [Y].", "bt_log_prob": -0.26990457624197006}
-{"relation": "P19", "template": "[X] is born in [Y].", "bt_log_prob": -0.6298414766788483}
-{"relation": "P19", "template": "[X] was born in [Y]", "bt_log_prob": -0.6305872350931168}
-{"relation": "P19", "template": "[X] was born [Y].", "bt_log_prob": -0.6369629353284836}
-{"relation": "P19", "template": "[X] was born at [Y].", "bt_log_prob": -0.6822203248739243}
-{"relation": "P19", "template": "[X] comes from [Y].", "bt_log_prob": -0.7032568901777267}
-{"relation": "P19", "template": "[X] was created in [Y].", "bt_log_prob": -0.7109220325946808}
-{"relation": "P19", "template": "[X] has been born in [Y].", "bt_log_prob": -0.7200395315885544}
-{"relation": "P19", "template": "[X] is from [Y].", "bt_log_prob": -0.7394779175519943}
-{"relation": "P19", "template": "[X] was born on [Y].", "bt_log_prob": -0.7523714601993561}
-{"relation": "P19", "template": "[X] originated in [Y].", "bt_log_prob": -0.8148912489414215}
-{"relation": "P19", "template": "[X] born in [Y].", "bt_log_prob": -0.8388173431158066}
-{"relation": "P19", "template": "[X] originates from [Y].", "bt_log_prob": -0.8618385195732117}
-{"relation": "P19", "template": "[X] was taken from [Y].", "bt_log_prob": -0.8951825201511383}
-{"relation": "P19", "template": "[X] stems from [Y].", "bt_log_prob": -0.8993582725524902}
-{"relation": "P19", "template": "[X] arose in [Y].", "bt_log_prob": -0.9099700748920441}
-{"relation": "P19", "template": "[X] is taken from [Y].", "bt_log_prob": -0.9152710735797882}
-{"relation": "P19", "template": "[X] came from [Y].", "bt_log_prob": -0.9177503287792206}
-{"relation": "P19", "template": "[X] was written in [Y].", "bt_log_prob": -0.9254471659660339}
-{"relation": "P19", "template": "[X] was made in [Y].", "bt_log_prob": -0.9326190650463104}
-{"relation": "P19", "template": "[X] was [Y] born.", "bt_log_prob": -0.9372564852237701}
-{"relation": "P19", "template": "[X] [Y] was born.", "bt_log_prob": -0.9640123248100281}
-{"relation": "P19", "template": "[X] is in [Y].", "bt_log_prob": -0.9655071198940277}
-{"relation": "P19", "template": "[X] is born in [Y]", "bt_log_prob": -0.9717511832714081}
-{"relation": "P19", "template": "[X] is born [Y].", "bt_log_prob": -1.0161913633346558}
-{"relation": "P19", "template": "[X] was born [Y]", "bt_log_prob": -1.0399653911590576}
-{"relation": "P19", "template": "[X] had been born in [Y].", "bt_log_prob": -1.0513473451137543}
-{"relation": "P19", "template": "[X] was born. [Y]", "bt_log_prob": -1.0756303071975708}
-{"relation": "P19", "template": "[X] was born into [Y].", "bt_log_prob": -1.1187163293361664}
-{"relation": "P19", "template": "[X] came into being in [Y]", "bt_log_prob": -1.3764416575431824}
+{"template": "[X] was born in [Y] .", "weight": 0.0031161000952124596}
+{"template": "[X] was born in [Y].", "weight": 0.0031161000952124596}
+{"template": "[X] is born in [Y].", "weight": 0.556011974811554}
+{"template": "[X] was born in [Y]", "weight": 0.0011264070635661483}
+{"template": "[X] was born [Y].", "weight": 0.00014137169637251645}
+{"template": "[X] was born at [Y].", "weight": 0.18973203003406525}
+{"template": "[X] comes from [Y].", "weight": 0.0004994607297703624}
+{"template": "[X] was created in [Y].", "weight": 0.0001722781453281641}
+{"template": "[X] has been born in [Y].", "weight": 0.004289351869374514}
+{"template": "[X] is from [Y].", "weight": 0.0002532043436076492}
+{"template": "[X] was born on [Y].", "weight": 0.00011182910384377465}
+{"template": "[X] originated in [Y].", "weight": 0.0001494831667514518}
+{"template": "[X] born in [Y].", "weight": 0.0034471158869564533}
+{"template": "[X] originates from [Y].", "weight": 0.00013400916941463947}
+{"template": "[X] was taken from [Y].", "weight": 0.0003800758277066052}
+{"template": "[X] stems from [Y].", "weight": 0.00019905282533727586}
+{"template": "[X] arose in [Y].", "weight": 0.0004001585766673088}
+{"template": "[X] is taken from [Y].", "weight": 0.0003509594826027751}
+{"template": "[X] came from [Y].", "weight": 0.0006610233103856444}
+{"template": "[X] was written in [Y].", "weight": 0.00018722751701716334}
+{"template": "[X] was made in [Y].", "weight": 0.0013863507192581892}
+{"template": "[X] was [Y] born.", "weight": 0.0003076746070291847}
+{"template": "[X] [Y] was born.", "weight": 0.00029142730636522174}
+{"template": "[X] is in [Y].", "weight": 9.800151019589975e-05}
+{"template": "[X] is born in [Y]", "weight": 0.0005848410655744374}
+{"template": "[X] is born [Y].", "weight": 0.00015791312034707516}
+{"template": "[X] was born [Y]", "weight": 0.0009072482935152948}
+{"template": "[X] had been born in [Y].", "weight": 0.23134569823741913}
+{"template": "[X] was born. [Y]", "weight": 0.00029186176834627986}
+{"template": "[X] was born into [Y].", "weight": 0.00014979741536080837}

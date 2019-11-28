@@ -1,51 +1,29 @@
-{"relation": "P30", "template": "[X] is located in [Y] .", "label": "continent", "description": "continent of which the subject is a part", "type": "N-1"}
-{"relation": "P30", "template": "[Y] countries such as [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 403}
-{"relation": "P30", "template": "[X] league fa cup league cup [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 403}
-{"relation": "P30", "template": "[Y] countries , including [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 324}
-{"relation": "P30", "template": "[X] and the rest of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 257}
-{"relation": "P30", "template": "[Y] including [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 250}
-{"relation": "P30", "template": "[X] and other parts of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 242}
-{"relation": "P30", "template": "[Y] lying between [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 223}
-{"relation": "P30", "template": "[Y] lying between cape williams and [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 222}
-{"relation": "P30", "template": "[Y] countries including [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 191}
-{"relation": "P30", "template": "[X] of victoria land , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 163}
-{"relation": "P30", "template": "[Y] countries like [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 160}
-{"relation": "P30", "template": "[Y] countries , such as [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 153}
-{"relation": "P30", "template": "[Y] country of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 151}
-{"relation": "P30", "template": "[X] composite gazetteer of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 147}
-{"relation": "P30", "template": "[X] league cup [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 145}
-{"relation": "P30", "template": "[Y] countries ( [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 133}
-{"relation": "P30", "template": "[X] league scottish cup league cup [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 124}
-{"relation": "P30", "template": "[Y] champions [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 122}
-{"relation": "P30", "template": "[Y] countries : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 113}
-{"relation": "P30", "template": "[Y] indoor championships [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 112}
-{"relation": "P30", "template": "[X] league dfb - pokal other [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 108}
-{"relation": "P30", "template": "[X] league coppa italia league cup [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 106}
-{"relation": "P30", "template": "[Y] or asian british : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 105}
-{"relation": "P30", "template": "[X] league dfb - pokal [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 102}
-{"relation": "P30", "template": "[Y] countries , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 100}
-{"relation": "P30", "template": "[X] league knvb cup [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 96}
-{"relation": "P30", "template": "[X] league copa del rey [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 77}
-{"relation": "P30", "template": "[Y] nation of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 77}
-{"relation": "P30", "template": "[X] league knvb cup league cup [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 71}
-{"relation": "P30", "template": "[X] league serbian cup [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 68}
-{"relation": "P30", "template": "[Y] countries . [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 67}
-{"relation": "P30", "template": "[X] league azerbaijan cup [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 64}
-{"relation": "P30", "template": "[Y] countries of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 62}
-{"relation": "P30", "template": "[X] and parts of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 61}
-{"relation": "P30", "template": "[X] clubs in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 59}
-{"relation": "P30", "template": "[Y] countries as [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 59}
-{"relation": "P30", "template": "[X] league croatian cup super cup [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 57}
-{"relation": "P30", "template": "[Y] countries . in [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 55}
-{"relation": "P30", "template": "[X] league greek cup league cup [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 53}
-{"relation": "P30", "template": "[X] league svenska cupen [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 52}
-{"relation": "P30", "template": "[X] league greek cup [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 51}
-{"relation": "P30", "template": "[X] league belgian cup league cup [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
-{"relation": "P30", "template": "[Y] outside [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 46}
-{"relation": "P30", "template": "[X] and other countries in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 46}
-{"relation": "P30", "template": "[Y] countries , including the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 46}
-{"relation": "P30", "template": "[Y] excluding [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 43}
-{"relation": "P30", "template": "[Y] countries such as the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
-{"relation": "P30", "template": "[Y] including the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
-{"relation": "P30", "template": "[Y] headquarters in [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 40}
-{"relation": "P30", "template": "[Y] outside of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 37}
+{"template": "[Y] countries such as [X] .", "weight": 3.350290353409946e-05}
+{"template": "[X] league fa cup league cup [Y] .", "weight": 2.7978485377389006e-05}
+{"template": "[Y] countries , including [X] .", "weight": 4.043002627440728e-05}
+{"template": "[X] and the rest of [Y] .", "weight": 0.0007870934205129743}
+{"template": "[Y] including [X] .", "weight": 0.00011411596642574295}
+{"template": "[X] and other parts of [Y] .", "weight": 0.44250190258026123}
+{"template": "[Y] lying between [X] .", "weight": 4.6274493797682226e-05}
+{"template": "[Y] lying between cape williams and [X] .", "weight": 0.3684617280960083}
+{"template": "[Y] countries including [X] .", "weight": 3.663148163468577e-05}
+{"template": "[X] of victoria land , [Y] .", "weight": 7.344510959228501e-05}
+{"template": "[Y] countries like [X] .", "weight": 3.4694090572884306e-05}
+{"template": "[Y] countries , such as [X] .", "weight": 3.688165088533424e-05}
+{"template": "[Y] country of [X] .", "weight": 2.888875314965844e-05}
+{"template": "[X] composite gazetteer of [Y] .", "weight": 0.0036590788513422012}
+{"template": "[X] league cup [Y] .", "weight": 3.545953586581163e-05}
+{"template": "[Y] countries ( [X] .", "weight": 2.9406191970338114e-05}
+{"template": "[X] league scottish cup league cup [Y] .", "weight": 3.281492172391154e-05}
+{"template": "[Y] champions [X] .", "weight": 2.4176939405151643e-05}
+{"template": "[Y] countries : [X] .", "weight": 0.18361327052116394}
+{"template": "[Y] indoor championships [X] .", "weight": 2.4377834051847458e-05}
+{"template": "[X] league dfb - pokal other [Y] .", "weight": 2.571668846940156e-05}
+{"template": "[X] league coppa italia league cup [Y] .", "weight": 3.0226125090848655e-05}
+{"template": "[Y] or asian british : [X] .", "weight": 1.92377974599367e-05}
+{"template": "[X] league dfb - pokal [Y] .", "weight": 2.689356369955931e-05}
+{"template": "[Y] countries , [X] .", "weight": 0.00012613553553819656}
+{"template": "[X] league knvb cup [Y] .", "weight": 3.243197352276184e-05}
+{"template": "[X] league copa del rey [Y] .", "weight": 3.362849747645669e-05}
+{"template": "[Y] nation of [X] .", "weight": 3.205204484402202e-05}
+{"template": "[X] league knvb cup league cup [Y] .", "weight": 3.1679908715886995e-05}

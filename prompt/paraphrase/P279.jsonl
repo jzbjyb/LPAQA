@@ -1,29 +1,30 @@
-{"relation": "P279", "template": "[X] is a subclass of [Y] ."}
-{"relation": "P279", "template": "[X] is a subclass of [Y].", "bt_log_prob": -0.2339090257883072}
-{"relation": "P279", "template": "[X] is the subclass of [Y].", "bt_log_prob": -0.486686646938324}
-{"relation": "P279", "template": "[X] is a sub class of [Y].", "bt_log_prob": -0.528239943087101}
-{"relation": "P279", "template": "[X] is a subset of [Y].", "bt_log_prob": -0.5775093734264374}
-{"relation": "P279", "template": "[X] is a subclass of [Y]", "bt_log_prob": -0.6115090325474739}
-{"relation": "P279", "template": "[X] is a subclass to [Y].", "bt_log_prob": -0.632941760122776}
-{"relation": "P279", "template": "[X] is a subgroup of [Y].", "bt_log_prob": -0.6343915835022926}
-{"relation": "P279", "template": "[X] is a sublayer of [Y].", "bt_log_prob": -0.6366271525621414}
-{"relation": "P279", "template": "[X] is a subclass of the [Y].", "bt_log_prob": -0.6470297127962112}
-{"relation": "P279", "template": "[X] is a sub-class of [Y].", "bt_log_prob": -0.7237683534622192}
-{"relation": "P279", "template": "[X] is a substrate of [Y].", "bt_log_prob": -0.7427626848220825}
-{"relation": "P279", "template": "[X] is the underclass of [Y].", "bt_log_prob": -0.8006622493267059}
-{"relation": "P279", "template": "[X] is the sub class of [Y].", "bt_log_prob": -0.8015565574169159}
-{"relation": "P279", "template": "[X] is a sub-group of [Y].", "bt_log_prob": -0.8118568062782288}
-{"relation": "P279", "template": "[X] is subclass of [Y].", "bt_log_prob": -0.8140508830547333}
-{"relation": "P279", "template": "[X] is a base layer of [Y].", "bt_log_prob": -0.81879523396492}
-{"relation": "P279", "template": "[X] is a lower layer of [Y].", "bt_log_prob": -0.8247201144695282}
-{"relation": "P279", "template": "[X] is the subclass [Y].", "bt_log_prob": -0.8365781009197235}
-{"relation": "P279", "template": "[X] is an underlayer of [Y].", "bt_log_prob": -0.8515636324882507}
-{"relation": "P279", "template": "[X] is a layer of [Y].", "bt_log_prob": -0.889342188835144}
-{"relation": "P279", "template": "[X] is a sub group of [Y].", "bt_log_prob": -0.9083401262760162}
-{"relation": "P279", "template": "[X] is subset of [Y].", "bt_log_prob": -0.9403508305549622}
-{"relation": "P279", "template": "[X] is an underclass of [Y].", "bt_log_prob": -0.9999141097068787}
-{"relation": "P279", "template": "[X] is a subclass [Y].", "bt_log_prob": -1.0343060493469238}
-{"relation": "P279", "template": "[X] is the sub-class of [Y]", "bt_log_prob": -1.0480258166790009}
-{"relation": "P279", "template": "[X] is a substrate of [Y]", "bt_log_prob": -1.0892389714717865}
-{"relation": "P279", "template": "[X] is a subclass of the [Y]", "bt_log_prob": -1.0955073237419128}
-{"relation": "P279", "template": "[X] is a sub-set of [Y]", "bt_log_prob": -1.1580831408500671}
+{"template": "[X] is a type of [Y] .", "weight": 4.818994420929812e-05}
+{"template": "[X] is a kind of [Y].", "weight": 4.56780253443867e-05}
+{"template": "[X] is a type of [Y].", "weight": 4.818994420929812e-05}
+{"template": "[X] is a form of [Y].", "weight": 6.128136737970635e-05}
+{"template": "[X] is a sort of [Y].", "weight": 4.906473259325139e-05}
+{"template": "[X] is a kind [Y].", "weight": 0.0685514509677887}
+{"template": "[X] is kind of [Y].", "weight": 6.01530700805597e-05}
+{"template": "[X] is a type [Y].", "weight": 0.0009847095934674144}
+{"template": "[X] is some kind of [Y].", "weight": 3.834564267890528e-05}
+{"template": "[X] is sort of [Y].", "weight": 6.200987991178408e-05}
+{"template": "[X] is the type of [Y].", "weight": 0.24319122731685638}
+{"template": "[X] is a [Y].", "weight": 0.08376773446798325}
+{"template": "[X] is a [Y] type.", "weight": 5.579400385613553e-05}
+{"template": "[X] is a type of [Y]", "weight": 0.03151356801390648}
+{"template": "[X] is one type of [Y].", "weight": 4.951568917022087e-05}
+{"template": "[X] is a form of [Y]", "weight": 0.00038370341644622386}
+{"template": "[X] is the form of [Y].", "weight": 5.395784683059901e-05}
+{"template": "[X] is one form of [Y].", "weight": 5.8451991208130494e-05}
+{"template": "[X] is type [Y].", "weight": 0.00012351905752439052}
+{"template": "[X] is an [Y].", "weight": 0.0009343134588561952}
+{"template": "[X] is [Y].", "weight": 5.20571120432578e-05}
+{"template": "[X] is a kind of [Y]", "weight": 4.097188138985075e-05}
+{"template": "[X] is a guy [Y].", "weight": 9.25306449062191e-05}
+{"template": "[X] is a Type [Y].", "weight": 5.078336107544601e-05}
+{"template": "[X] is one [Y].", "weight": 0.15087981522083282}
+{"template": "[X] is one type [Y].", "weight": 0.00043962596100755036}
+{"template": "[X] is a sort of [Y]", "weight": 3.6623969208449125e-05}
+{"template": "[X] is a [Y]", "weight": 0.41823896765708923}
+{"template": "[X] is kind of [Y]", "weight": 4.972667738911696e-05}
+{"template": "[X] is some kind of [Y]", "weight": 3.8002686778781936e-05}

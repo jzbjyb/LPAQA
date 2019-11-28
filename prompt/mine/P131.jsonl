@@ -1,51 +1,29 @@
-{"relation": "P131", "template": "[X] is located in [Y] .", "label": "located in the administrative territorial entity", "description": "the item is located on the territory of the following administrative entity. Use P276 (location) for specifying the location of non-administrative places and for items about events", "type": "N-1"}
-{"relation": "P131", "template": "[X] department in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 5642}
-{"relation": "P131", "template": "[X] department in the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 4354}
-{"relation": "P131", "template": "[X] in the u.s. state of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 2797}
-{"relation": "P131", "template": "[X] neighborhood of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1468}
-{"relation": "P131", "template": "[X] region of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1362}
-{"relation": "P131", "template": "[X] area of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1281}
-{"relation": "P131", "template": "[X] in the state of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 974}
-{"relation": "P131", "template": "[X] section of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 763}
-{"relation": "P131", "template": "[X] near [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 698}
-{"relation": "P131", "template": "[X] district of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 658}
-{"relation": "P131", "template": "[X] counties in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 644}
-{"relation": "P131", "template": "[X] counties , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 408}
-{"relation": "P131", "template": "[X] local government area of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 383}
-{"relation": "P131", "template": "[X] in the province of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 382}
-{"relation": "P131", "template": "[X] located in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 379}
-{"relation": "P131", "template": "[X] in northern [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 357}
-{"relation": "P131", "template": "[X] campus in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 349}
-{"relation": "P131", "template": "[X] in northwestern [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 335}
-{"relation": "P131", "template": "[Y] collection at the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 333}
-{"relation": "P131", "template": "[X] in western [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 322}
-{"relation": "P131", "template": "[Y] near [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 319}
-{"relation": "P131", "template": "[X] in southern [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 318}
-{"relation": "P131", "template": "[X] city , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 277}
-{"relation": "P131", "template": "[X] municipality in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 259}
-{"relation": "P131", "template": "[X] is a city in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 251}
-{"relation": "P131", "template": "[X] in central [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 247}
-{"relation": "P131", "template": "[X] in northeastern [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 221}
-{"relation": "P131", "template": "[X] in southwestern [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 208}
-{"relation": "P131", "template": "[X] of the u.s. state of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 186}
-{"relation": "P131", "template": "[X] enters [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 179}
-{"relation": "P131", "template": "[X] held in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 176}
-{"relation": "P131", "template": "[X] in present - day [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 175}
-{"relation": "P131", "template": "[X] of southern [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 171}
-{"relation": "P131", "template": "[X] in the county of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 165}
-{"relation": "P131", "template": "[X] in southeastern [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 165}
-{"relation": "P131", "template": "[X] in eastern [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 160}
-{"relation": "P131", "template": "[Y] town of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 159}
-{"relation": "P131", "template": "[X] in nearby [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 155}
-{"relation": "P131", "template": "[X] in the australian [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 144}
-{"relation": "P131", "template": "[Y] suburb of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 143}
-{"relation": "P131", "template": "[Y] near the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 133}
-{"relation": "P131", "template": "[X] libraries , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 132}
-{"relation": "P131", "template": "[X] is located in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 132}
-{"relation": "P131", "template": "[Y] neighborhood of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 125}
-{"relation": "P131", "template": "[X] in the canadian province of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 123}
-{"relation": "P131", "template": "[Y] united kingdom [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 120}
-{"relation": "P131", "template": "[X] station in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 117}
-{"relation": "P131", "template": "[Y] to study at the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 117}
-{"relation": "P131", "template": "[Y] to attend [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 113}
-{"relation": "P131", "template": "[X] is a town in [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 106}
+{"template": "[X] department in [Y] .", "weight": 0.0003056470595765859}
+{"template": "[X] department in the [Y] .", "weight": 0.03289679065346718}
+{"template": "[X] in the u.s. state of [Y] .", "weight": 0.0004144179110880941}
+{"template": "[X] neighborhood of [Y] .", "weight": 0.1750149130821228}
+{"template": "[X] region of [Y] .", "weight": 0.00019668794993776828}
+{"template": "[X] area of [Y] .", "weight": 0.0004032670985907316}
+{"template": "[X] in the state of [Y] .", "weight": 0.16397246718406677}
+{"template": "[X] section of [Y] .", "weight": 0.000597324047703296}
+{"template": "[X] near [Y] .", "weight": 0.04052167013287544}
+{"template": "[X] district of [Y] .", "weight": 0.20638741552829742}
+{"template": "[X] counties in [Y] .", "weight": 0.0003952435217797756}
+{"template": "[X] counties , [Y] .", "weight": 0.0003065320779569447}
+{"template": "[X] local government area of [Y] .", "weight": 0.0004258180852048099}
+{"template": "[X] in the province of [Y] .", "weight": 0.2913641035556793}
+{"template": "[X] located in [Y] .", "weight": 0.002330681076273322}
+{"template": "[X] in northern [Y] .", "weight": 0.0004054885939694941}
+{"template": "[X] campus in [Y] .", "weight": 0.002364457119256258}
+{"template": "[X] in northwestern [Y] .", "weight": 0.0003618232440203428}
+{"template": "[Y] collection at the [X] .", "weight": 0.06817754358053207}
+{"template": "[X] in western [Y] .", "weight": 0.0003483007603790611}
+{"template": "[Y] near [X] .", "weight": 0.010535123758018017}
+{"template": "[X] in southern [Y] .", "weight": 0.0003645003598649055}
+{"template": "[X] city , [Y] .", "weight": 0.00017031394236255437}
+{"template": "[X] municipality in [Y] .", "weight": 0.0002567881892900914}
+{"template": "[X] is a city in [Y] .", "weight": 0.00025684782303869724}
+{"template": "[X] in central [Y] .", "weight": 0.00020983864669688046}
+{"template": "[X] in northeastern [Y] .", "weight": 0.0003558319294825196}
+{"template": "[X] in southwestern [Y] .", "weight": 0.0003820876299869269}
+{"template": "[X] of the u.s. state of [Y] .", "weight": 0.00027798773953691125}

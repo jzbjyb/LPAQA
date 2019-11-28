@@ -1,29 +1,30 @@
-{"relation": "P190", "template": "[X] and [Y] are twin cities ."}
-{"relation": "P190", "template": "[X] and [Y] are twin cities.", "bt_log_prob": -0.30156266689300537}
-{"relation": "P190", "template": "[X] and [Y] are twin towns.", "bt_log_prob": -0.3756900131702423}
-{"relation": "P190", "template": "[X] and [Y] are sister cities.", "bt_log_prob": -0.4046034514904022}
-{"relation": "P190", "template": "[X] and [Y] are twinned cities.", "bt_log_prob": -0.5133470594882965}
-{"relation": "P190", "template": "[X] and [Y] are town twinning.", "bt_log_prob": -0.530081033706665}
-{"relation": "P190", "template": "[X] and [Y] are twinning.", "bt_log_prob": -0.540911853313446}
-{"relation": "P190", "template": "[X] and [Y] are sister towns.", "bt_log_prob": -0.5424944162368774}
-{"relation": "P190", "template": "[X] and [Y] are city twinning.", "bt_log_prob": -0.5966053307056427}
-{"relation": "P190", "template": "[X] and [Y] are twinned towns.", "bt_log_prob": -0.6276805102825165}
-{"relation": "P190", "template": "[X] and [Y] are twinning cities.", "bt_log_prob": -0.6402624845504761}
-{"relation": "P190", "template": "[X] and [Y] are two cities.", "bt_log_prob": -0.642403244972229}
-{"relation": "P190", "template": "[X] and [Y] are twinned.", "bt_log_prob": -0.6524372398853302}
-{"relation": "P190", "template": "[X] and [Y] are twin cities", "bt_log_prob": -0.8063914179801941}
-{"relation": "P190", "template": "[X] and [Y] are twins.", "bt_log_prob": -0.8122080564498901}
-{"relation": "P190", "template": "[X] and [Y] are both twin cities.", "bt_log_prob": -0.8163204193115234}
-{"relation": "P190", "template": "[X] and [Y] are two towns.", "bt_log_prob": -0.8372596502304077}
-{"relation": "P190", "template": "[X] and [Y] are Twin Cities", "bt_log_prob": -0.8555785119533539}
-{"relation": "P190", "template": "[X] and [Y] are twin towns", "bt_log_prob": -0.9258523881435394}
-{"relation": "P190", "template": "The [X] and [Y] are twin cities.", "bt_log_prob": -0.9841016829013824}
-{"relation": "P190", "template": "The [X] and [Y] are two cities.", "bt_log_prob": -1.0020227432250977}
-{"relation": "P190", "template": "[X] and [Y] are both cities.", "bt_log_prob": -1.0116219520568848}
-{"relation": "P190", "template": "[X] und [Y] are two cities.", "bt_log_prob": -1.0637017488479614}
-{"relation": "P190", "template": "[X] and [Y] are 2 cities.", "bt_log_prob": -1.0769023895263672}
-{"relation": "P190", "template": "The [X] and [Y] are twin towns.", "bt_log_prob": -1.0875124335289001}
-{"relation": "P190", "template": "[X] and [Y] are twins", "bt_log_prob": -1.0974822342395782}
-{"relation": "P190", "template": "[X] and [Y] are two cities", "bt_log_prob": -1.0998149514198303}
-{"relation": "P190", "template": "[X] and [Y] are twinned cities", "bt_log_prob": -1.2122341990470886}
-{"relation": "P190", "template": "[X] and [Y] are two twin cities", "bt_log_prob": -1.2314327955245972}
+{"template": "[X] with offices in [Y] .", "weight": 0.00010765562910819426}
+{"template": "[X] with offices in [Y].", "weight": 0.00010765562910819426}
+{"template": "[X] has offices in [Y].", "weight": 0.4538860619068146}
+{"template": "[X], with offices in [Y].", "weight": 0.00016992610471788794}
+{"template": "[X] with offices in [Y]", "weight": 0.00033334275940433145}
+{"template": "[X] with office in [Y].", "weight": 0.00014418580394703895}
+{"template": "[X] with offices at [Y].", "weight": 0.0015663744416087866}
+{"template": "[X] with an office in [Y].", "weight": 0.00031940799090079963}
+{"template": "[X] with branches in [Y].", "weight": 0.00014826424012426287}
+{"template": "[X] with branches in [Y]", "weight": 0.0005244382773526013}
+{"template": "[X] with subsidiaries in [Y]", "weight": 9.386705642100424e-05}
+{"template": "[X] with headquarters in [Y].", "weight": 0.00017032871255651116}
+{"template": "[X] with branch offices in [Y].", "weight": 0.00012420839630067348}
+{"template": "[X] with seat in [Y].", "weight": 0.00014001430827192962}
+{"template": "[X] based in [Y].", "weight": 0.08304372429847717}
+{"template": "[X] located in [Y].", "weight": 0.00019294956291560084}
+{"template": "[X] with branch offices in [Y]", "weight": 0.00037229113513603806}
+{"template": "[X] with office in [Y]", "weight": 0.0003504102642182261}
+{"template": "[X] with office at [Y].", "weight": 0.18320535123348236}
+{"template": "[X] with Offices in [Y]", "weight": 0.0003648330457508564}
+{"template": "[X] is located in [Y].", "weight": 0.00020292529370635748}
+{"template": "[X], based in [Y].", "weight": 8.205115591408685e-05}
+{"template": "[X] with [Y] offices.", "weight": 0.24043118953704834}
+{"template": "[X] with Office in [Y].", "weight": 0.00011341199569869787}
+{"template": "[X] with the office in [Y].", "weight": 0.00015113585686776787}
+{"template": "[X] with offices on [Y].", "weight": 0.02237064763903618}
+{"template": "[X] With offices in [Y]", "weight": 0.010817857459187508}
+{"template": "[X] Offices in [Y]", "weight": 0.00017086898151319474}
+{"template": "[X] with locations in [Y]", "weight": 9.75044458755292e-05}
+{"template": "[X] office in [Y]", "weight": 0.00019724357116501778}

@@ -1,23 +1,19 @@
-{"relation": "P463", "template": "[X] is a member of [Y] ."}
-{"relation": "P463", "template": "[X] is a member of [Y].", "bt_log_prob": -0.27925415337085724}
-{"relation": "P463", "template": "[X] is member of [Y].", "bt_log_prob": -0.40246765315532684}
-{"relation": "P463", "template": "[X] belongs to [Y].", "bt_log_prob": -0.5901491940021515}
-{"relation": "P463", "template": "[X] is a member of [Y]", "bt_log_prob": -0.6123854070901871}
-{"relation": "P463", "template": "[X] is the member of [Y].", "bt_log_prob": -0.6663442999124527}
-{"relation": "P463", "template": "[X] is a Member of [Y].", "bt_log_prob": -0.6755163222551346}
-{"relation": "P463", "template": "[X] is a [Y] member.", "bt_log_prob": -0.7097326070070267}
-{"relation": "P463", "template": "[X] is part of [Y].", "bt_log_prob": -0.7291106283664703}
-{"relation": "P463", "template": "[X] is member of the [Y].", "bt_log_prob": -0.7585638463497162}
-{"relation": "P463", "template": "[X] is member of [Y]", "bt_log_prob": -0.7623975425958633}
-{"relation": "P463", "template": "[X] is a member in [Y].", "bt_log_prob": -0.8046416640281677}
-{"relation": "P463", "template": "[X] is a user of [Y].", "bt_log_prob": -0.8193274736404419}
-{"relation": "P463", "template": "[X] is member in [Y].", "bt_log_prob": -0.8923581838607788}
-{"relation": "P463", "template": "[X] is a member of the [Y]", "bt_log_prob": -0.9226511716842651}
-{"relation": "P463", "template": "[X] is a [Y].", "bt_log_prob": -1.0037789344787598}
-{"relation": "P463", "template": "[X] belongs to [Y]", "bt_log_prob": -1.005185216665268}
-{"relation": "P463", "template": "[X] is one of [Y].", "bt_log_prob": -1.0302580296993256}
-{"relation": "P463", "template": "[X] is a member [Y].", "bt_log_prob": -1.0618135035037994}
-{"relation": "P463", "template": "[X] is an [Y] member.", "bt_log_prob": -1.068689912557602}
-{"relation": "P463", "template": "[X] belong to [Y].", "bt_log_prob": -1.0736717879772186}
-{"relation": "P463", "template": "[X] joined [Y].", "bt_log_prob": -1.1289821565151215}
-{"relation": "P463", "template": "[X] is [Y].", "bt_log_prob": -1.1606564819812775}
+{"template": "[X] is a member of the [Y] .", "weight": 0.3479651212692261}
+{"template": "[X] is a member of [Y].", "weight": 0.38603290915489197}
+{"template": "[X] is member of [Y].", "weight": 0.0012648733099922538}
+{"template": "[X] is member of the [Y].", "weight": 0.0014005269622430205}
+{"template": "[X] is a [Y] member.", "weight": 0.0024194261059165}
+{"template": "[X] is a member of [Y]", "weight": 0.0024585796054452658}
+{"template": "[X] is a member of the [Y]", "weight": 0.0001620183466002345}
+{"template": "[X] belongs to [Y].", "weight": 0.23153847455978394}
+{"template": "[X] belongs to the [Y].", "weight": 0.00028784971800632775}
+{"template": "[X] is the member of [Y].", "weight": 0.019208025187253952}
+{"template": "[X] is a [Y].", "weight": 0.0005807525594718754}
+{"template": "[X] is a member in [Y].", "weight": 0.004501502029597759}
+{"template": "[X] is part of [Y].", "weight": 0.00010293922241544351}
+{"template": "[X] is a member [Y].", "weight": 0.00021082835155539215}
+{"template": "[X] is an [Y] member.", "weight": 0.0006131033878773451}
+{"template": "[X] belongs to the [Y]", "weight": 0.00029766958323307335}
+{"template": "[X] is the [Y].", "weight": 0.0002707968233153224}
+{"template": "[X] belongs to [Y]", "weight": 0.000280267558991909}
+{"template": "[X] is [Y].", "weight": 0.00040436748531647027}

@@ -1,20 +1,30 @@
-{"relation": "P20", "template": "[X] died in [Y] ."}
-{"relation": "P20", "template": "[X] died in [Y].", "bt_log_prob": -0.28683100640773773}
-{"relation": "P20", "template": "[X] died [Y].", "bt_log_prob": -0.47284719347953796}
-{"relation": "P20", "template": "[X] died in the year [Y].", "bt_log_prob": -0.5767461359500885}
-{"relation": "P20", "template": "[X] died in the [Y].", "bt_log_prob": -0.6444511115550995}
-{"relation": "P20", "template": "[X] died at [Y].", "bt_log_prob": -0.6495722383260727}
-{"relation": "P20", "template": "[X] died the year [Y].", "bt_log_prob": -0.690765917301178}
-{"relation": "P20", "template": "[X] has died in [Y].", "bt_log_prob": -0.6934103071689606}
-{"relation": "P20", "template": "[X] died in year [Y].", "bt_log_prob": -0.7429620027542114}
-{"relation": "P20", "template": "[X] passed away in [Y].", "bt_log_prob": -0.7477680295705795}
-{"relation": "P20", "template": "[X] died in [Y]", "bt_log_prob": -0.7818962782621384}
-{"relation": "P20", "template": "[X] died on [Y].", "bt_log_prob": -0.8018122762441635}
-{"relation": "P20", "template": "[X] died in [Y] year.", "bt_log_prob": -0.8104676604270935}
-{"relation": "P20", "template": "[X] died at the [Y].", "bt_log_prob": -0.8282630741596222}
-{"relation": "P20", "template": "[X] died inside [Y].", "bt_log_prob": -0.8696203529834747}
-{"relation": "P20", "template": "[X] [Y] died.", "bt_log_prob": -0.8791850209236145}
-{"relation": "P20", "template": "[X] died that year [Y].", "bt_log_prob": -0.9087682366371155}
-{"relation": "P20", "template": "[X] died in the year [Y]", "bt_log_prob": -0.9702731370925903}
-{"relation": "P20", "template": "[X] died [Y]", "bt_log_prob": -1.010460615158081}
-{"relation": "P20", "template": "[X] died. [Y]", "bt_log_prob": -1.015384316444397}
+{"template": "[X] was born in [Y] .", "weight": 0.23243841528892517}
+{"template": "[X] was born in [Y].", "weight": 0.23243841528892517}
+{"template": "[X] is born in [Y].", "weight": 0.01689775660634041}
+{"template": "[X] was born in [Y]", "weight": 0.00030495403916575015}
+{"template": "[X] was born [Y].", "weight": 6.0652149841189384e-05}
+{"template": "[X] was born at [Y].", "weight": 0.26223254203796387}
+{"template": "[X] comes from [Y].", "weight": 0.00011791879660449922}
+{"template": "[X] was created in [Y].", "weight": 8.966684254119173e-05}
+{"template": "[X] has been born in [Y].", "weight": 0.0010318588465452194}
+{"template": "[X] is from [Y].", "weight": 0.0001194543729070574}
+{"template": "[X] was born on [Y].", "weight": 4.188198363408446e-05}
+{"template": "[X] originated in [Y].", "weight": 0.0004113266768399626}
+{"template": "[X] born in [Y].", "weight": 0.041628435254096985}
+{"template": "[X] originates from [Y].", "weight": 0.00014367347466759384}
+{"template": "[X] was taken from [Y].", "weight": 0.0003803109284490347}
+{"template": "[X] stems from [Y].", "weight": 0.00015511017409153283}
+{"template": "[X] arose in [Y].", "weight": 0.00022673241619486362}
+{"template": "[X] is taken from [Y].", "weight": 0.00021799698879476637}
+{"template": "[X] came from [Y].", "weight": 0.00014723539061378688}
+{"template": "[X] was written in [Y].", "weight": 0.20722037553787231}
+{"template": "[X] was made in [Y].", "weight": 0.0005852695903740823}
+{"template": "[X] was [Y] born.", "weight": 0.00016402945038862526}
+{"template": "[X] [Y] was born.", "weight": 0.00012256894842721522}
+{"template": "[X] is in [Y].", "weight": 9.400002454640344e-05}
+{"template": "[X] is born in [Y]", "weight": 0.00024108393699862063}
+{"template": "[X] is born [Y].", "weight": 8.847153367241845e-05}
+{"template": "[X] was born [Y]", "weight": 0.00016404713096562773}
+{"template": "[X] had been born in [Y].", "weight": 0.0018529013032093644}
+{"template": "[X] was born. [Y]", "weight": 0.00016380942543037236}
+{"template": "[X] was born into [Y].", "weight": 0.00021897499391343445}

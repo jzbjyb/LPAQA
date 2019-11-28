@@ -1,51 +1,29 @@
-{"relation": "P264", "template": "[X] is represented by music label [Y] .", "label": "record label", "description": "brand and trademark associated with the marketing of subject music recordings and music videos", "type": "N-1"}
-{"relation": "P264", "template": "[X] signed with [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 239}
-{"relation": "P264", "template": "[X] left [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 197}
-{"relation": "P264", "template": "[Y] founder [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 159}
-{"relation": "P264", "template": "[X] signed to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 134}
-{"relation": "P264", "template": "[Y] produced by [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 127}
-{"relation": "P264", "template": "[Y] artist [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 105}
-{"relation": "P264", "template": "[X] released on the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 103}
-{"relation": "P264", "template": "[Y] announced that [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 100}
-{"relation": "P264", "template": "[Y] released [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 97}
-{"relation": "P264", "template": "[X] was signed to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 92}
-{"relation": "P264", "template": "[Y] ceo [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 79}
-{"relation": "P264", "template": "[X] was released by [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 79}
-{"relation": "P264", "template": "[Y] producer [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 68}
-{"relation": "P264", "template": "[Y] chicago , il [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 66}
-{"relation": "P264", "template": "[X] recorded for the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 64}
-{"relation": "P264", "template": "[Y] artists [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 61}
-{"relation": "P264", "template": "[X] appears courtesy of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 50}
-{"relation": "P264", "template": "[X] recorded for [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 47}
-{"relation": "P264", "template": "[X] label : [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 47}
-{"relation": "P264", "template": "[X] signed a recording contract with [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 46}
-{"relation": "P264", "template": "[X] released by [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 45}
-{"relation": "P264", "template": "[Y] president [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 43}
-{"relation": "P264", "template": "[Y] signed [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
-{"relation": "P264", "template": "[Y] recording artist [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
-{"relation": "P264", "template": "[Y] artists such as [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 41}
-{"relation": "P264", "template": "[X] for the gordy ( [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 40}
-{"relation": "P264", "template": "[Y] label . [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 38}
-{"relation": "P264", "template": "[X] recorded the song for [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 35}
-{"relation": "P264", "template": "[X] released on [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 33}
-{"relation": "P264", "template": "[X] signed a record deal with [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 33}
-{"relation": "P264", "template": "[Y] head [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 31}
-{"relation": "P264", "template": "[Y] singing group [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 31}
-{"relation": "P264", "template": "[Y] girl group [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 31}
-{"relation": "P264", "template": "[X] returned to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 30}
-{"relation": "P264", "template": "[Y] labelmates [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 29}
-{"relation": "P264", "template": "[Y] singer [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 28}
-{"relation": "P264", "template": "[X] which was released on the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 28}
-{"relation": "P264", "template": "[Y] rapper [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 28}
-{"relation": "P264", "template": "[Y] owner [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 27}
-{"relation": "P264", "template": "[Y] boss [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 27}
-{"relation": "P264", "template": "[Y] featuring [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 27}
-{"relation": "P264", "template": "[X] signed a deal with [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 27}
-{"relation": "P264", "template": "[Y] released `` [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 26}
-{"relation": "P264", "template": "[Y] star [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 26}
-{"relation": "P264", "template": "[X] signed a contract with [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 25}
-{"relation": "P264", "template": "[Y] announced [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 25}
-{"relation": "P264", "template": "[Y] legend [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
-{"relation": "P264", "template": "[X] parted ways with [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
-{"relation": "P264", "template": "[X] that was released by [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
-{"relation": "P264", "template": "[Y] issued [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
+{"template": "[X] signed with [Y] .", "weight": 0.0011719779577106237}
+{"template": "[X] left [Y] .", "weight": 0.00022047411766834557}
+{"template": "[Y] founder [X] .", "weight": 0.0002829327422659844}
+{"template": "[X] signed to [Y] .", "weight": 0.0008498320821672678}
+{"template": "[Y] produced by [X] .", "weight": 0.00014594214735552669}
+{"template": "[Y] artist [X] .", "weight": 0.0002036235819105059}
+{"template": "[X] released on the [Y] .", "weight": 0.00010784633195726201}
+{"template": "[Y] announced that [X] .", "weight": 0.0001398571184836328}
+{"template": "[Y] released [X] .", "weight": 0.00037108815740793943}
+{"template": "[X] was signed to [Y] .", "weight": 0.0934310108423233}
+{"template": "[Y] ceo [X] .", "weight": 0.00017452854081057012}
+{"template": "[X] was released by [Y] .", "weight": 0.002959073754027486}
+{"template": "[Y] producer [X] .", "weight": 0.0001520509395049885}
+{"template": "[Y] chicago , il [X] .", "weight": 0.0002404400147497654}
+{"template": "[X] recorded for the [Y] .", "weight": 0.0009598032920621336}
+{"template": "[Y] artists [X] .", "weight": 0.00020678156579378992}
+{"template": "[X] appears courtesy of [Y] .", "weight": 0.00022870843531563878}
+{"template": "[X] recorded for [Y] .", "weight": 0.0021132491528987885}
+{"template": "[X] label : [Y] .", "weight": 0.00021065330656711012}
+{"template": "[X] signed a recording contract with [Y] .", "weight": 0.8862420916557312}
+{"template": "[X] released by [Y] .", "weight": 0.0008657975122332573}
+{"template": "[Y] president [X] .", "weight": 0.0002600941515993327}
+{"template": "[Y] signed [X] .", "weight": 0.0001301842276006937}
+{"template": "[Y] recording artist [X] .", "weight": 0.0002427232830086723}
+{"template": "[Y] artists such as [X] .", "weight": 0.0004571886092890054}
+{"template": "[X] for the gordy ( [Y] .", "weight": 0.000219717578147538}
+{"template": "[Y] label . [X] .", "weight": 6.771796324755996e-05}
+{"template": "[X] recorded the song for [Y] .", "weight": 0.007084609009325504}
+{"template": "[X] released on [Y] .", "weight": 0.0002599109138827771}

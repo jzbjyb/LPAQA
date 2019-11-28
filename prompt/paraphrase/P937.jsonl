@@ -1,29 +1,20 @@
-{"relation": "P937", "template": "[X] used to work in [Y] ."}
-{"relation": "P937", "template": "[X] used to work in [Y].", "bt_log_prob": -0.38872653245925903}
-{"relation": "P937", "template": "[X] worked in [Y].", "bt_log_prob": -0.5557762086391449}
-{"relation": "P937", "template": "[X] used to work at [Y].", "bt_log_prob": -0.5726691037416458}
-{"relation": "P937", "template": "[X] previously worked in [Y].", "bt_log_prob": -0.6181053072214127}
-{"relation": "P937", "template": "[X] used to work on [Y].", "bt_log_prob": -0.6248624175786972}
-{"relation": "P937", "template": "[X] formerly worked in [Y].", "bt_log_prob": -0.6492774337530136}
-{"relation": "P937", "template": "[X] used to work under [Y].", "bt_log_prob": -0.6554855406284332}
-{"relation": "P937", "template": "[X] used to work for [Y].", "bt_log_prob": -0.6893565505743027}
-{"relation": "P937", "template": "[X] was working in [Y].", "bt_log_prob": -0.702362447977066}
-{"relation": "P937", "template": "[X] used to work with [Y].", "bt_log_prob": -0.7554458677768707}
-{"relation": "P937", "template": "[X] worked in [Y] before.", "bt_log_prob": -0.755914106965065}
-{"relation": "P937", "template": "[X] has worked in [Y].", "bt_log_prob": -0.7722253203392029}
-{"relation": "P937", "template": "[X] used to function in [Y].", "bt_log_prob": -0.8004607260227203}
-{"relation": "P937", "template": "[X] has worked in [Y] before.", "bt_log_prob": -0.815473735332489}
-{"relation": "P937", "template": "[X] worked on [Y].", "bt_log_prob": -0.8569768071174622}
-{"relation": "P937", "template": "[X] used to be in [Y].", "bt_log_prob": -0.8806565403938293}
-{"relation": "P937", "template": "[X] works in [Y].", "bt_log_prob": -0.8931621611118317}
-{"relation": "P937", "template": "[X] previously worked under [Y].", "bt_log_prob": -0.8981888890266418}
-{"relation": "P937", "template": "[X] used to work in [Y]", "bt_log_prob": -0.9016989767551422}
-{"relation": "P937", "template": "[X] formerly worked under [Y].", "bt_log_prob": -0.9093950986862183}
-{"relation": "P937", "template": "[X] used to be under [Y].", "bt_log_prob": -0.9165309071540833}
-{"relation": "P937", "template": "[X] was working on [Y].", "bt_log_prob": -0.9252646863460541}
-{"relation": "P937", "template": "[X] was in [Y].", "bt_log_prob": -0.9262085855007172}
-{"relation": "P937", "template": "[X] worked at [Y].", "bt_log_prob": -0.9276348650455475}
-{"relation": "P937", "template": "[X] used to operate under [Y].", "bt_log_prob": -0.9337721467018127}
-{"relation": "P937", "template": "[X] was formerly in [Y].", "bt_log_prob": -0.9811482131481171}
-{"relation": "P937", "template": "[X] has worked at [Y].", "bt_log_prob": -0.996315985918045}
-{"relation": "P937", "template": "[X] has been working in [Y]", "bt_log_prob": -1.1613287925720215}
+{"template": "[X] died in [Y] .", "weight": 0.23976834118366241}
+{"template": "[X] died in [Y].", "weight": 0.23976834118366241}
+{"template": "[X] died [Y].", "weight": 0.00015262509987223893}
+{"template": "[X] died in the year [Y].", "weight": 0.00019756646361202002}
+{"template": "[X] died in the [Y].", "weight": 0.00012999059981666505}
+{"template": "[X] died at [Y].", "weight": 0.277638703584671}
+{"template": "[X] died the year [Y].", "weight": 0.00022190001618582755}
+{"template": "[X] has died in [Y].", "weight": 0.23673507571220398}
+{"template": "[X] died in year [Y].", "weight": 0.00021024384477641433}
+{"template": "[X] passed away in [Y].", "weight": 0.0008396237390115857}
+{"template": "[X] died in [Y]", "weight": 0.0017443186370655894}
+{"template": "[X] died on [Y].", "weight": 9.869931091088802e-05}
+{"template": "[X] died in [Y] year.", "weight": 0.00017111517081502825}
+{"template": "[X] died at the [Y].", "weight": 7.483593071810901e-05}
+{"template": "[X] died inside [Y].", "weight": 0.001405689399689436}
+{"template": "[X] [Y] died.", "weight": 0.0001353047846350819}
+{"template": "[X] died that year [Y].", "weight": 0.0001435064768884331}
+{"template": "[X] died in the year [Y]", "weight": 0.00019451725529506803}
+{"template": "[X] died [Y]", "weight": 0.0002046733716269955}
+{"template": "[X] died. [Y]", "weight": 0.0001650815102038905}

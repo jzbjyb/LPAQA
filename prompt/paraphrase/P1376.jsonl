@@ -1,29 +1,30 @@
-{"relation": "P1376", "template": "[X] is the capital of [Y] ."}
-{"relation": "P1376", "template": "[X] is the capital of [Y].", "bt_log_prob": -0.26584888994693756}
-{"relation": "P1376", "template": "[X] is the capital city of [Y].", "bt_log_prob": -0.40548333525657654}
-{"relation": "P1376", "template": "[X] is the capital [Y].", "bt_log_prob": -0.5340708941221237}
-{"relation": "P1376", "template": "[X] is the capital of the [Y].", "bt_log_prob": -0.6097132712602615}
-{"relation": "P1376", "template": "[X] is the capital city [Y].", "bt_log_prob": -0.6146480441093445}
-{"relation": "P1376", "template": "[X] is the Capital of [Y].", "bt_log_prob": -0.6240722239017487}
-{"relation": "P1376", "template": "[X] is the capital of [Y]", "bt_log_prob": -0.6523440182209015}
-{"relation": "P1376", "template": "[X] is capital of [Y].", "bt_log_prob": -0.6642380058765411}
-{"relation": "P1376", "template": "[X] is capital [Y].", "bt_log_prob": -0.6730373054742813}
-{"relation": "P1376", "template": "[X] is the main town of [Y].", "bt_log_prob": -0.7074798345565796}
-{"relation": "P1376", "template": "[X] is the main place of [Y].", "bt_log_prob": -0.7167481482028961}
-{"relation": "P1376", "template": "[X] is the [Y] capital.", "bt_log_prob": -0.7224685251712799}
-{"relation": "P1376", "template": "[X] is the capital city of the [Y].", "bt_log_prob": -0.757224828004837}
-{"relation": "P1376", "template": "[X] is [Y] \"s capital.", "bt_log_prob": -0.7666718363761902}
-{"relation": "P1376", "template": "[X] is the main village of [Y].", "bt_log_prob": -0.771442323923111}
-{"relation": "P1376", "template": "[X] is the capital city of [Y]", "bt_log_prob": -0.7753100097179413}
-{"relation": "P1376", "template": "[X] is Capital [Y].", "bt_log_prob": -0.7768271267414093}
-{"relation": "P1376", "template": "[X] is [Y] capital.", "bt_log_prob": -0.8152965903282166}
-{"relation": "P1376", "template": "[X] is the main city of [Y].", "bt_log_prob": -0.8304434418678284}
-{"relation": "P1376", "template": "[X] is the [Y] capital city.", "bt_log_prob": -0.8425196409225464}
-{"relation": "P1376", "template": "[X] is the [Y] \"s capital.", "bt_log_prob": -0.8494129180908203}
-{"relation": "P1376", "template": "[X] is the capital town of [Y].", "bt_log_prob": -0.8626099526882172}
-{"relation": "P1376", "template": "[X] is the Capital [Y].", "bt_log_prob": -0.8876689374446869}
-{"relation": "P1376", "template": "[X] is the capital [Y]", "bt_log_prob": -0.9838729798793793}
-{"relation": "P1376", "template": "[X] means capital [Y].", "bt_log_prob": -0.9907251000404358}
-{"relation": "P1376", "template": "[X] is the capital city [Y]", "bt_log_prob": -1.0430276095867157}
-{"relation": "P1376", "template": "[X] means Capital [Y].", "bt_log_prob": -1.1378304958343506}
-{"relation": "P1376", "template": "[X] is capital. [Y]", "bt_log_prob": -1.1424581408500671}
+{"template": "[X] is the county seat of [Y] .", "weight": 0.002349911257624626}
+{"template": "[X] is the county seat of [Y].", "weight": 0.002349911257624626}
+{"template": "[X] is the county town of [Y].", "weight": 0.0002799249778036028}
+{"template": "[X] is the district town of [Y].", "weight": 0.191905215382576}
+{"template": "[X] is the county capital of [Y].", "weight": 0.0014398711500689387}
+{"template": "[X] is the district seat of [Y].", "weight": 0.0004584480484481901}
+{"template": "[X] is the district capital of [Y].", "weight": 0.007817879319190979}
+{"template": "[X] is a county town of [Y].", "weight": 6.293392652878538e-05}
+{"template": "[X] is the capital of [Y].", "weight": 0.20318448543548584}
+{"template": "[X] is the county town [Y].", "weight": 0.00011836945486720651}
+{"template": "[X] is a district town of [Y].", "weight": 0.00022584429825656116}
+{"template": "[X] is the seat of [Y].", "weight": 0.0001069003701559268}
+{"template": "[X] is the county seat [Y].", "weight": 0.00011347894906066358}
+{"template": "[X] is the district town [Y].", "weight": 0.00011757501488318667}
+{"template": "[X] is the district city of [Y].", "weight": 0.005816163960844278}
+{"template": "[X] is the county capital [Y].", "weight": 0.00010817146539920941}
+{"template": "[X] is the headquarters of [Y].", "weight": 0.00038199801929295063}
+{"template": "[X] is the district of [Y].", "weight": 0.23657163977622986}
+{"template": "[X] is the district city [Y].", "weight": 0.0001147974471678026}
+{"template": "[X] is the city of [Y].", "weight": 0.3415229320526123}
+{"template": "[X] is the district capital [Y].", "weight": 0.00010718032717704773}
+{"template": "[X] is the district seat [Y].", "weight": 0.00010752655362011865}
+{"template": "[X] is district town of [Y].", "weight": 0.0014769306872040033}
+{"template": "[X] is the registered office of [Y].", "weight": 0.0006357941310852766}
+{"template": "[X] is the location of [Y].", "weight": 6.914766709087417e-05}
+{"template": "[X] is the seat of the [Y].", "weight": 0.00011667389480862767}
+{"template": "[X] is the county town of [Y]..", "weight": 0.00020017751376144588}
+{"template": "[X] is the county seat of [Y]..", "weight": 0.0002595217665657401}
+{"template": "[X] is the district town of [Y]..", "weight": 0.0007112693856470287}
+{"template": "[X] is the county capital of [Y]..", "weight": 0.0012693824246525764}

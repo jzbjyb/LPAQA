@@ -1,16 +1,30 @@
-{"relation": "P1001", "template": "[X] is a legal term in [Y] ."}
-{"relation": "P1001", "template": "[X] is a legal term in [Y].", "bt_log_prob": -0.40294188261032104}
-{"relation": "P1001", "template": "[X] is a legal expression in [Y].", "bt_log_prob": -0.49314530193805695}
-{"relation": "P1001", "template": "[X] is a legal term used in [Y].", "bt_log_prob": -0.6008350849151611}
-{"relation": "P1001", "template": "[X] is a legal concept in [Y].", "bt_log_prob": -0.6418472826480865}
-{"relation": "P1001", "template": "[X] is a legal term for [Y].", "bt_log_prob": -0.6667976379394531}
-{"relation": "P1001", "template": "[X] is a legal term given in [Y].", "bt_log_prob": -0.6694174706935883}
-{"relation": "P1001", "template": "[X] is the legal term in [Y].", "bt_log_prob": -0.6719431281089783}
-{"relation": "P1001", "template": "[X] is a legal word in [Y].", "bt_log_prob": -0.6990225315093994}
-{"relation": "P1001", "template": "[X] is a legal term found in [Y].", "bt_log_prob": -0.7141034305095673}
-{"relation": "P1001", "template": "[X] is the legal expression in [Y].", "bt_log_prob": -0.7308321893215179}
-{"relation": "P1001", "template": "[X] is a legal expression of [Y].", "bt_log_prob": -0.745318740606308}
-{"relation": "P1001", "template": "[X] is a legal expression for [Y].", "bt_log_prob": -0.7938028275966644}
-{"relation": "P1001", "template": "[X] is an expression in [Y].", "bt_log_prob": -0.8534905910491943}
-{"relation": "P1001", "template": "[X] is a legal expression in [Y]", "bt_log_prob": -0.8642139136791229}
-{"relation": "P1001", "template": "[X] is legal expression in [Y].", "bt_log_prob": -0.8748254477977753}
+{"template": "[X] representing [Y] .", "weight": 0.026117119938135147}
+{"template": "[X] represents [Y].", "weight": 0.00035413604928180575}
+{"template": "[X] stands for [Y].", "weight": 6.261558883124962e-05}
+{"template": "[X] for [Y].", "weight": 0.00015621258353348821}
+{"template": "[X] is representing [Y].", "weight": 0.003914313390851021}
+{"template": "[X] representing [Y].", "weight": 0.026117119938135147}
+{"template": "[X] is for [Y].", "weight": 4.061919025843963e-05}
+{"template": "[X] means [Y].", "weight": 6.523909542011097e-05}
+{"template": "[X] represent [Y].", "weight": 0.0004673610383179039}
+{"template": "[X] is [Y].", "weight": 5.452253753901459e-05}
+{"template": "[X] represents [Y]", "weight": 3.686293712235056e-05}
+{"template": "[X], which is [Y].", "weight": 5.540149504668079e-05}
+{"template": "[X], which represents [Y].", "weight": 0.00015006760077085346}
+{"template": "[X] that represents [Y].", "weight": 5.2048038924112916e-05}
+{"template": "[X] representative of [Y].", "weight": 0.387953519821167}
+{"template": "[X] which represents [Y].", "weight": 0.00012622213398572057}
+{"template": "[X] standing for [Y].", "weight": 5.737388346460648e-05}
+{"template": "[X], which means [Y].", "weight": 6.455749098677188e-05}
+{"template": "[X], representing [Y].", "weight": 0.5531395673751831}
+{"template": "[X] denotes [Y].", "weight": 6.206135003594682e-05}
+{"template": "[X] stands for [Y]", "weight": 6.135091825854033e-05}
+{"template": "[X] for [Y]", "weight": 4.6337063395185396e-05}
+{"template": "[X] to [Y].", "weight": 4.411928966874257e-05}
+{"template": "[X] what [Y] represents.", "weight": 4.9625647079665214e-05}
+{"template": "[X], which represent [Y]", "weight": 4.402542253956199e-05}
+{"template": "[X] representing [Y]", "weight": 0.0005415757768787444}
+{"template": "[X], which represents [Y]", "weight": 3.22012638207525e-05}
+{"template": "[X] that represent [Y]", "weight": 4.588131923810579e-05}
+{"template": "[X] = [Y].", "weight": 4.666590757551603e-05}
+{"template": "[X] which represent [Y]", "weight": 4.1235063690692186e-05}

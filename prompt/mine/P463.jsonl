@@ -1,51 +1,29 @@
-{"relation": "P463", "template": "[X] is a member of [Y] .", "label": "member of", "description": "organization or club to which the subject belongs. Do not use for membership in ethnic or social groups, nor for holding a position such as a member of parliament (use P39 for that).", "type": "N-M"}
-{"relation": "P463", "template": "[Y] frontman [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1159}
-{"relation": "P463", "template": "[Y] guitarist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 1044}
-{"relation": "P463", "template": "[Y] member [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 952}
-{"relation": "P463", "template": "[X] joined the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 668}
-{"relation": "P463", "template": "[Y] singer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 552}
-{"relation": "P463", "template": "[Y] members [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 534}
-{"relation": "P463", "template": "[Y] drummer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 486}
-{"relation": "P463", "template": "[X] stats at [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 476}
-{"relation": "P463", "template": "[Y] vocalist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 426}
-{"relation": "P463", "template": "[Y] bassist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 385}
-{"relation": "P463", "template": "[X] is a member of the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 365}
-{"relation": "P463", "template": "[Y] lead singer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 363}
-{"relation": "P463", "template": "[Y] leader [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 348}
-{"relation": "P463", "template": "[X] delegation to the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 336}
-{"relation": "P463", "template": "[X] committee for exceptional services to [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 287}
-{"relation": "P463", "template": "[Y] player for the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 238}
-{"relation": "P463", "template": "[X] joined [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 220}
-{"relation": "P463", "template": "[X] mission to the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 184}
-{"relation": "P463", "template": "[X] became a member of the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 179}
-{"relation": "P463", "template": "[X] of the band [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 164}
-{"relation": "P463", "template": "[Y] mission in [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 146}
-{"relation": "P463", "template": "[Y] who played for the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 146}
-{"relation": "P463", "template": "[X] joins the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 144}
-{"relation": "P463", "template": "[Y] bandmate [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 132}
-{"relation": "P463", "template": "[Y] president [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 130}
-{"relation": "P463", "template": "[Y] founder [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 109}
-{"relation": "P463", "template": "[X] presidency of the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 96}
-{"relation": "P463", "template": "[X] was elected to the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 95}
-{"relation": "P463", "template": "[X] left [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 92}
-{"relation": "P463", "template": "[Y] member , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 86}
-{"relation": "P463", "template": "[X] delegate to the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 82}
-{"relation": "P463", "template": "[X] to leave the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 76}
-{"relation": "P463", "template": "[Y] player , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 75}
-{"relation": "P463", "template": "[Y] master [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 74}
-{"relation": "P463", "template": "[X] left the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 74}
-{"relation": "P463", "template": "[X] membership of the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 70}
-{"relation": "P463", "template": "[Y] special envoy to [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 69}
-{"relation": "P463", "template": "[Y] sanctions against [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 68}
-{"relation": "P463", "template": "[X] was a member of the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 67}
-{"relation": "P463", "template": "[Y] running back for the [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 66}
-{"relation": "P463", "template": "[Y] led by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 66}
-{"relation": "P463", "template": "[Y] front man [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 66}
-{"relation": "P463", "template": "[Y] co-founder [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 66}
-{"relation": "P463", "template": "[Y] player for [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 65}
-{"relation": "P463", "template": "[X] was admitted to the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 64}
-{"relation": "P463", "template": "[Y] bandmates [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 64}
-{"relation": "P463", "template": "[X] joining the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 64}
-{"relation": "P463", "template": "[X] join the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 62}
-{"relation": "P463", "template": "[X] representative to the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 60}
-{"relation": "P463", "template": "[Y] for the dallas cowboys and [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 60}
+{"template": "[Y] frontman [X] .", "weight": 0.00010162034595850855}
+{"template": "[Y] guitarist [X] .", "weight": 0.00010182744154008105}
+{"template": "[Y] member [X] .", "weight": 0.15221934020519257}
+{"template": "[X] joined the [Y] .", "weight": 3.711459430633113e-05}
+{"template": "[Y] singer [X] .", "weight": 0.00010012214625021443}
+{"template": "[Y] members [X] .", "weight": 0.0002023360284511}
+{"template": "[Y] drummer [X] .", "weight": 9.906250488711521e-05}
+{"template": "[X] stats at [Y] .", "weight": 0.00011786094546550885}
+{"template": "[Y] vocalist [X] .", "weight": 0.00010278808622388169}
+{"template": "[Y] bassist [X] .", "weight": 0.00010436383308842778}
+{"template": "[X] is a member of the [Y] .", "weight": 0.24528107047080994}
+{"template": "[Y] lead singer [X] .", "weight": 9.737758955452591e-05}
+{"template": "[Y] leader [X] .", "weight": 0.000314022385282442}
+{"template": "[X] delegation to the [Y] .", "weight": 0.2993291914463043}
+{"template": "[X] committee for exceptional services to [Y] .", "weight": 0.29757049679756165}
+{"template": "[Y] player for the [X] .", "weight": 9.491817763773724e-05}
+{"template": "[X] joined [Y] .", "weight": 0.00010529381688684225}
+{"template": "[X] mission to the [Y] .", "weight": 0.002174593275412917}
+{"template": "[X] became a member of the [Y] .", "weight": 0.0009118706802837551}
+{"template": "[X] of the band [Y] .", "weight": 4.6664288674946874e-05}
+{"template": "[Y] mission in [X] .", "weight": 0.00010767242929432541}
+{"template": "[Y] who played for the [X] .", "weight": 9.63896163739264e-05}
+{"template": "[X] joins the [Y] .", "weight": 0.00010773727262858301}
+{"template": "[Y] bandmate [X] .", "weight": 0.00010123712127096951}
+{"template": "[Y] president [X] .", "weight": 9.362989658256993e-05}
+{"template": "[Y] founder [X] .", "weight": 0.0001508420828031376}
+{"template": "[X] presidency of the [Y] .", "weight": 0.00011217210703762248}
+{"template": "[X] was elected to the [Y] .", "weight": 6.512800609925762e-05}
+{"template": "[X] left [Y] .", "weight": 5.315015368978493e-05}

@@ -1,51 +1,29 @@
-{"relation": "P17", "template": "[X] is located in [Y] .", "label": "country", "description": "sovereign state of this item; don't use on humans", "type": "N-1"}
-{"relation": "P17", "template": "[Y] league [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 7075}
-{"relation": "P17", "template": "[Y] city of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 4132}
-{"relation": "P17", "template": "[X] county , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 3143}
-{"relation": "P17", "template": "[Y] capital [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1592}
-{"relation": "P17", "template": "[Y] capital of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1286}
-{"relation": "P17", "template": "[Y] company [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1244}
-{"relation": "P17", "template": "[Y] island of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1224}
-{"relation": "P17", "template": "[X] region of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1157}
-{"relation": "P17", "template": "[Y] politician of the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1101}
-{"relation": "P17", "template": "[Y] town of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1059}
-{"relation": "P17", "template": "[Y] broadcaster [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 931}
-{"relation": "P17", "template": "[Y] champions [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 921}
-{"relation": "P17", "template": "[X] in western [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 878}
-{"relation": "P17", "template": "[X] in northern [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 836}
-{"relation": "P17", "template": "[Y] capital , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 817}
-{"relation": "P17", "template": "[Y] football club [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 615}
-{"relation": "P17", "template": "[Y] politician , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 461}
-{"relation": "P17", "template": "[X] area of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 432}
-{"relation": "P17", "template": "[Y] airline [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 421}
-{"relation": "P17", "template": "[Y] port of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 421}
-{"relation": "P17", "template": "[Y] label [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 420}
-{"relation": "P17", "template": "[X] in southwestern [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 418}
-{"relation": "P17", "template": "[X] in present - day [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 395}
-{"relation": "P17", "template": "[Y] near [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 390}
-{"relation": "P17", "template": "[Y] firm [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 388}
-{"relation": "P17", "template": "[Y] automaker [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 375}
-{"relation": "P17", "template": "[Y] lawyer and [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 349}
-{"relation": "P17", "template": "[Y] lawyer and politician , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 315}
-{"relation": "P17", "template": "[Y] city [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 288}
-{"relation": "P17", "template": "[X] and other parts of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 236}
-{"relation": "P17", "template": "[X] and the rest of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 231}
-{"relation": "P17", "template": "[Y] professional football club based in [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 222}
-{"relation": "P17", "template": "[X] in modern - day [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 222}
-{"relation": "P17", "template": "[Y] capital city of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 216}
-{"relation": "P17", "template": "[Y] cities , including [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 174}
-{"relation": "P17", "template": "[Y] ports of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 164}
-{"relation": "P17", "template": "[Y] league coupe de france [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 163}
-{"relation": "P17", "template": "[Y] port city of [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 162}
-{"relation": "P17", "template": "[Y] forces in [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 149}
-{"relation": "P17", "template": "[X] 2010 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 148}
-{"relation": "P17", "template": "[Y] 2010 [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 146}
-{"relation": "P17", "template": "[Y] include [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 137}
-{"relation": "P17", "template": "[Y] cities including [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 127}
-{"relation": "P17", "template": "[Y] naval base at [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 125}
-{"relation": "P17", "template": "[Y] league ta\u00e7a de portugal [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 123}
-{"relation": "P17", "template": "[Y] to join the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 122}
-{"relation": "P17", "template": "[Y] telecommunications company [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 115}
-{"relation": "P17", "template": "[Y] oil company [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 115}
-{"relation": "P17", "template": "[Y] champion [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 114}
-{"relation": "P17", "template": "[Y] air force headquarters [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 111}
+{"template": "[Y] league [X] .", "weight": 8.325836097355932e-05}
+{"template": "[Y] city of [X] .", "weight": 9.726163989398628e-05}
+{"template": "[X] county , [Y] .", "weight": 0.17249219119548798}
+{"template": "[Y] capital [X] .", "weight": 7.806813664501533e-05}
+{"template": "[Y] capital of [X] .", "weight": 8.518964750692248e-05}
+{"template": "[Y] company [X] .", "weight": 0.0001631220948183909}
+{"template": "[Y] island of [X] .", "weight": 0.00030754940235055983}
+{"template": "[X] region of [Y] .", "weight": 0.03536270931363106}
+{"template": "[Y] politician of the [X] .", "weight": 0.00010659018880687654}
+{"template": "[Y] town of [X] .", "weight": 0.0001032017680699937}
+{"template": "[Y] broadcaster [X] .", "weight": 0.0002622324100229889}
+{"template": "[Y] champions [X] .", "weight": 0.00016563705867156386}
+{"template": "[X] in western [Y] .", "weight": 0.2773427665233612}
+{"template": "[X] in northern [Y] .", "weight": 0.2920507490634918}
+{"template": "[Y] capital , [X] .", "weight": 8.140613499563187e-05}
+{"template": "[Y] football club [X] .", "weight": 0.0001088620483642444}
+{"template": "[Y] politician , [X] .", "weight": 9.133542334893718e-05}
+{"template": "[X] area of [Y] .", "weight": 0.00033792693284340203}
+{"template": "[Y] airline [X] .", "weight": 0.21320143342018127}
+{"template": "[Y] port of [X] .", "weight": 0.00010569523146841675}
+{"template": "[Y] label [X] .", "weight": 0.00025182394892908633}
+{"template": "[X] in southwestern [Y] .", "weight": 0.00600610114634037}
+{"template": "[X] in present - day [Y] .", "weight": 0.0005798242636956275}
+{"template": "[Y] near [X] .", "weight": 5.033988054492511e-05}
+{"template": "[Y] firm [X] .", "weight": 0.00013658440730068833}
+{"template": "[Y] automaker [X] .", "weight": 0.0001058124253177084}
+{"template": "[Y] lawyer and [X] .", "weight": 7.270781497936696e-05}
+{"template": "[Y] lawyer and politician , [X] .", "weight": 8.363778761122376e-05}
+{"template": "[Y] city [X] .", "weight": 8.598589192843065e-05}

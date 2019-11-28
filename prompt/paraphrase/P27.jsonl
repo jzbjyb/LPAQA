@@ -1,25 +1,24 @@
-{"relation": "P27", "template": "[X] is [Y] citizen ."}
-{"relation": "P27", "template": "[X] is a [Y] citizen.", "bt_log_prob": -0.4413372576236725}
-{"relation": "P27", "template": "[X] is a citizen of [Y].", "bt_log_prob": -0.4710792601108551}
-{"relation": "P27", "template": "[X] is [Y] -citizen.", "bt_log_prob": -0.49342453479766846}
-{"relation": "P27", "template": "[X] is [Y] citizen.", "bt_log_prob": -0.4964994192123413}
-{"relation": "P27", "template": "[X] is citizen [Y].", "bt_log_prob": -0.5119224637746811}
-{"relation": "P27", "template": "[X] is a [Y] -citizen.", "bt_log_prob": -0.5390821099281311}
-{"relation": "P27", "template": "[X] is citizen of [Y].", "bt_log_prob": -0.5418978929519653}
-{"relation": "P27", "template": "[X] is a citizen [Y].", "bt_log_prob": -0.587974950671196}
-{"relation": "P27", "template": "[X] is [Y] a citizen.", "bt_log_prob": -0.5892017036676407}
-{"relation": "P27", "template": "[X] is [Y] -Citizen.", "bt_log_prob": -0.6735853850841522}
-{"relation": "P27", "template": "[X] is [Y] Citizen.", "bt_log_prob": -0.7445664405822754}
-{"relation": "P27", "template": "[X] is Citizen of [Y].", "bt_log_prob": -0.7783945500850677}
-{"relation": "P27", "template": "[X] is a [Y] national.", "bt_log_prob": -0.7877524495124817}
-{"relation": "P27", "template": "[X] is [Y] a national.", "bt_log_prob": -0.7902060747146606}
-{"relation": "P27", "template": "[X] is a citizen of [Y]", "bt_log_prob": -0.8201321959495544}
-{"relation": "P27", "template": "[X] is citizens of [Y].", "bt_log_prob": -0.8883542716503143}
-{"relation": "P27", "template": "[X] is a national [Y].", "bt_log_prob": -0.9080598950386047}
-{"relation": "P27", "template": "[X] is citizen of [Y]", "bt_log_prob": -0.9221555292606354}
-{"relation": "P27", "template": "[X] is citizens [Y].", "bt_log_prob": -0.9477466940879822}
-{"relation": "P27", "template": "[X] is a citizen [Y]", "bt_log_prob": -0.9522029459476471}
-{"relation": "P27", "template": "[X] is [Y].", "bt_log_prob": -0.9539380371570587}
-{"relation": "P27", "template": "[X] is citizen [Y]", "bt_log_prob": -0.9638211131095886}
-{"relation": "P27", "template": "[X] is a citizen. [Y]", "bt_log_prob": -1.0015617311000824}
-{"relation": "P27", "template": "[X] is [Y] a citizen", "bt_log_prob": -1.022771030664444}
+{"template": "[X] returned to [Y] .", "weight": 0.0004346178029663861}
+{"template": "[X] returned to [Y].", "weight": 0.0004346178029663861}
+{"template": "[X] has returned to [Y].", "weight": 0.3976088762283325}
+{"template": "[X] went back to [Y].", "weight": 2.5767410988919437e-05}
+{"template": "[X] is back to [Y].", "weight": 2.2530601199832745e-05}
+{"template": "[X] returns to [Y].", "weight": 0.00020911835599690676}
+{"template": "[X] back to [Y].", "weight": 2.5801842639339156e-05}
+{"template": "[X] reverted to [Y].", "weight": 5.023511403123848e-05}
+{"template": "[X] came back to [Y].", "weight": 2.6561661798041314e-05}
+{"template": "[X] returned to [Y]", "weight": 9.463636524742469e-05}
+{"template": "[X] to [Y].", "weight": 2.0430967197171412e-05}
+{"template": "[X] is returned to [Y].", "weight": 0.00011500257096486166}
+{"template": "[X] is back in [Y].", "weight": 0.13547152280807495}
+{"template": "[X] return to [Y].", "weight": 0.0017729653045535088}
+{"template": "[X] has returned to [Y]", "weight": 0.0001015300877043046}
+{"template": "[X] went to [Y].", "weight": 2.363001294725109e-05}
+{"template": "[X] returned back to [Y].", "weight": 3.793927680817433e-05}
+{"template": "[X] back to [Y]", "weight": 2.326477988390252e-05}
+{"template": "[X] to [Y] back.", "weight": 3.102912160102278e-05}
+{"template": "back [X] to [Y].", "weight": 2.1742798708146438e-05}
+{"template": "[X] to [Y] again.", "weight": 3.0113566026557237e-05}
+{"template": "[X] has gone back to [Y]", "weight": 1.2026245713059325e-05}
+{"template": "[X] to [Y]", "weight": 1.6968388081295416e-05}
+{"template": "[X] Returned to [Y]", "weight": 0.4633890390396118}

@@ -1,51 +1,29 @@
-{"relation": "P1303", "template": "[X] plays [Y] .", "label": "instrument", "description": "musical instrument that a person plays", "type": "N-M"}
-{"relation": "P1303", "template": "[X] played [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 320}
-{"relation": "P1303", "template": "[Y] works of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 197}
-{"relation": "P1303", "template": "[X] plays [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 177}
-{"relation": "P1303", "template": "[X] international [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 155}
-{"relation": "P1303", "template": "[X] played the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 123}
-{"relation": "P1303", "template": "[X] playing [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 123}
-{"relation": "P1303", "template": "[Y] player [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 119}
-{"relation": "P1303", "template": "[Y] bar : [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 111}
-{"relation": "P1303", "template": "[X] playing the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 84}
-{"relation": "P1303", "template": "[Y] virtuoso [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 82}
-{"relation": "P1303", "template": "[Y] works by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 71}
-{"relation": "P1303", "template": "[Y] sonatas of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 50}
-{"relation": "P1303", "template": "[X] plays the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 45}
-{"relation": "P1303", "template": "[Y] production [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 37}
-{"relation": "P1303", "template": "[Y] pieces by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 35}
-{"relation": "P1303", "template": "[Y] solo by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 34}
-{"relation": "P1303", "template": "[Y] and orchestra by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 34}
-{"relation": "P1303", "template": "[X] studied [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 29}
-{"relation": "P1303", "template": "[Y] maestro [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 29}
-{"relation": "P1303", "template": "[Y] mike mccready -- guitars [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 29}
-{"relation": "P1303", "template": "[X] on vocals and [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 28}
-{"relation": "P1303", "template": "[X] also played [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 27}
-{"relation": "P1303", "template": "[X] to play [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 25}
-{"relation": "P1303", "template": "[Y] played by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 25}
-{"relation": "P1303", "template": "[Y] legend [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 21}
-{"relation": "P1303", "template": "[Y] competition [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 21}
-{"relation": "P1303", "template": "[Y] additional personnel [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 20}
-{"relation": "P1303", "template": "[Y] additional musicians [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 20}
-{"relation": "P1303", "template": "[X] contributed [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
-{"relation": "P1303", "template": "[Y] work by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 19}
-{"relation": "P1303", "template": "[X] concerto for [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
-{"relation": "P1303", "template": "[Y] concertos by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
-{"relation": "P1303", "template": "[Y] solos by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 18}
-{"relation": "P1303", "template": "[X] playing a [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 17}
-{"relation": "P1303", "template": "[Y] sonatas by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 17}
-{"relation": "P1303", "template": "[Y] student of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 16}
-{"relation": "P1303", "template": "[Y] players [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 16}
-{"relation": "P1303", "template": "[Y] composed by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 16}
-{"relation": "P1303", "template": "[Y] studies with [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 16}
-{"relation": "P1303", "template": "[Y] width : 3 bar : [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 16}
-{"relation": "P1303", "template": "[X] complete [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 15}
-{"relation": "P1303", "template": "[X] began playing [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 15}
-{"relation": "P1303", "template": "[Y] player , [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 15}
-{"relation": "P1303", "template": "[Y] on `` [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 14}
-{"relation": "P1303", "template": "[Y] performed by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 14}
-{"relation": "P1303", "template": "[X] sings and plays [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 14}
-{"relation": "P1303", "template": "[Y] competition `` [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 14}
-{"relation": "P1303", "template": "[Y] like [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 13}
-{"relation": "P1303", "template": "[X] began playing the [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 13}
-{"relation": "P1303", "template": "[X] performed a [Y] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 12}
+{"template": "[X] played [Y] .", "weight": 8.85504050529562e-05}
+{"template": "[Y] works of [X] .", "weight": 0.00013874768046662211}
+{"template": "[X] plays [Y] .", "weight": 0.00014959575491957366}
+{"template": "[X] international [Y] .", "weight": 0.00011105342127848417}
+{"template": "[X] played the [Y] .", "weight": 0.0010359631851315498}
+{"template": "[X] playing [Y] .", "weight": 0.0003645466058515012}
+{"template": "[Y] player [X] .", "weight": 4.728254862129688e-05}
+{"template": "[Y] bar : [X] .", "weight": 0.00012163710198365152}
+{"template": "[X] playing the [Y] .", "weight": 0.23494161665439606}
+{"template": "[Y] virtuoso [X] .", "weight": 8.116722165141255e-05}
+{"template": "[Y] works by [X] .", "weight": 0.00011345995881129056}
+{"template": "[Y] sonatas of [X] .", "weight": 0.00012418677215464413}
+{"template": "[X] plays the [Y] .", "weight": 0.0021132309921085835}
+{"template": "[Y] production [X] .", "weight": 0.00018221157370135188}
+{"template": "[Y] pieces by [X] .", "weight": 9.930200030794367e-05}
+{"template": "[Y] solo by [X] .", "weight": 0.27278849482536316}
+{"template": "[Y] and orchestra by [X] .", "weight": 0.0007297780830413103}
+{"template": "[X] studied [Y] .", "weight": 8.824090036796406e-05}
+{"template": "[Y] maestro [X] .", "weight": 9.455373947275802e-05}
+{"template": "[Y] mike mccready -- guitars [X] .", "weight": 9.967428195523098e-05}
+{"template": "[X] on vocals and [Y] .", "weight": 0.4841151535511017}
+{"template": "[X] also played [Y] .", "weight": 0.0002655047283042222}
+{"template": "[X] to play [Y] .", "weight": 0.00012889791105408221}
+{"template": "[Y] played by [X] .", "weight": 0.00013432468404062092}
+{"template": "[Y] legend [X] .", "weight": 0.00011330463166814297}
+{"template": "[Y] competition [X] .", "weight": 0.00013217746163718402}
+{"template": "[Y] additional personnel [X] .", "weight": 9.251606388716027e-05}
+{"template": "[Y] additional musicians [X] .", "weight": 7.562271639471874e-05}
+{"template": "[X] contributed [Y] .", "weight": 0.0014294518623501062}

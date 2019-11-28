@@ -1,26 +1,30 @@
-{"relation": "P17", "template": "[X] is located in [Y] ."}
-{"relation": "P17", "template": "[X] is in [Y].", "bt_log_prob": -0.3445419818162918}
-{"relation": "P17", "template": "[X] is located in [Y].", "bt_log_prob": -0.4435227960348129}
-{"relation": "P17", "template": "[X] is found in [Y].", "bt_log_prob": -0.6388464123010635}
-{"relation": "P17", "template": "[X] lies in [Y].", "bt_log_prob": -0.6671467274427414}
-{"relation": "P17", "template": "[X] is in the [Y].", "bt_log_prob": -0.7209570109844208}
-{"relation": "P17", "template": "[X] is placed in [Y].", "bt_log_prob": -0.732551321387291}
-{"relation": "P17", "template": "[X] is inside [Y].", "bt_log_prob": -0.7365006357431412}
-{"relation": "P17", "template": "[X] is located in the [Y].", "bt_log_prob": -0.7531158924102783}
-{"relation": "P17", "template": "[X] is [Y].", "bt_log_prob": -0.7552724033594131}
-{"relation": "P17", "template": "[X] is in [Y]", "bt_log_prob": -0.7591179460287094}
-{"relation": "P17", "template": "[X] is located in [Y]", "bt_log_prob": -0.8412871807813644}
-{"relation": "P17", "template": "[X] is located at [Y].", "bt_log_prob": -0.8963502049446106}
-{"relation": "P17", "template": "[X] is on [Y].", "bt_log_prob": -0.9123460352420807}
-{"relation": "P17", "template": "[X] stands in [Y].", "bt_log_prob": -0.9781621396541595}
-{"relation": "P17", "template": "[X] is written in [Y].", "bt_log_prob": -0.9958726167678833}
-{"relation": "P17", "template": "[X] is set to [Y].", "bt_log_prob": -1.0288735032081604}
-{"relation": "P17", "template": "[X] will be in [Y].", "bt_log_prob": -1.0526671409606934}
-{"relation": "P17", "template": "[X] is in [Y]..", "bt_log_prob": -1.054703339934349}
-{"relation": "P17", "template": "[X] is located in the [Y]", "bt_log_prob": -1.1077861189842224}
-{"relation": "P17", "template": "[X] is located in [Y]..", "bt_log_prob": -1.1417223811149597}
-{"relation": "P17", "template": "[X] in [Y].", "bt_log_prob": -1.256942093372345}
-{"relation": "P17", "template": "[X] is found in [Y]..", "bt_log_prob": -1.336891621351242}
-{"relation": "P17", "template": "[X] located in [Y]..", "bt_log_prob": -1.4434237480163574}
-{"relation": "P17", "template": "[X] is in [Y];", "bt_log_prob": -1.448424756526947}
-{"relation": "P17", "template": "[X] is in [Y],", "bt_log_prob": -1.4892060160636902}
+{"template": "[X] in western [Y] .", "weight": 0.28959572315216064}
+{"template": "[X] in the western [Y].", "weight": 0.00019593018805608153}
+{"template": "[X] in Western [Y].", "weight": 0.005471191834658384}
+{"template": "[X] in western [Y].", "weight": 0.28959572315216064}
+{"template": "[X] in the west [Y].", "weight": 8.459338278044015e-05}
+{"template": "[X] in the West [Y].", "weight": 0.009364144876599312}
+{"template": "[X] in the Western [Y].", "weight": 0.21594621241092682}
+{"template": "[X] in the western part [Y].", "weight": 8.806033292785287e-05}
+{"template": "[X] to the west [Y].", "weight": 9.414396481588483e-05}
+{"template": "[X] in Westerns [Y].", "weight": 0.00011217925930395722}
+{"template": "[X] to west [Y].", "weight": 4.232062929077074e-05}
+{"template": "[X] in [Y].", "weight": 0.18581333756446838}
+{"template": "[X] to western [Y].", "weight": 0.00032425345852971077}
+{"template": "[X] in West [Y].", "weight": 0.000701968849170953}
+{"template": "[X] west [Y].", "weight": 8.435663039563224e-05}
+{"template": "[X] in the western [Y]", "weight": 0.00010595268395263702}
+{"template": "[X] to West [Y].", "weight": 5.283308928483166e-05}
+{"template": "[X] to Western [Y].", "weight": 0.00029383035143837333}
+{"template": "[X] into western [Y].", "weight": 0.0003487400826998055}
+{"template": "[X] in westerns [Y].", "weight": 0.0003470895462669432}
+{"template": "[X] in the west [Y]", "weight": 0.00014956375525798649}
+{"template": "[X] in the West [Y]", "weight": 0.00013969915744382888}
+{"template": "[X] in the Western part [Y].", "weight": 9.10718081286177e-05}
+{"template": "[X] in the western section [Y].", "weight": 0.00010166029096581042}
+{"template": "[X] in western part [Y].", "weight": 0.0001239197445102036}
+{"template": "[X] in the west part [Y].", "weight": 0.00010428275709273294}
+{"template": "[X] into Western [Y].", "weight": 0.00024741131346672773}
+{"template": "[X] in The Western [Y].", "weight": 0.00020890412270091474}
+{"template": "[X] at the western part [Y].", "weight": 9.846487228060141e-05}
+{"template": "[X] on west [Y].", "weight": 7.255023228935897e-05}

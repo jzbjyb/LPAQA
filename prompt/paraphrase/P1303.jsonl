@@ -1,16 +1,30 @@
-{"relation": "P1303", "template": "[X] plays [Y] ."}
-{"relation": "P1303", "template": "[X] plays [Y].", "bt_log_prob": -0.2428172454237938}
-{"relation": "P1303", "template": "[X] is playing [Y].", "bt_log_prob": -0.4038633033633232}
-{"relation": "P1303", "template": "[X] performs [Y].", "bt_log_prob": -0.5906587168574333}
-{"relation": "P1303", "template": "[X] is [Y].", "bt_log_prob": -0.6861231252551079}
-{"relation": "P1303", "template": "[X] play [Y].", "bt_log_prob": -0.7416908666491508}
-{"relation": "P1303", "template": "[X] playing [Y].", "bt_log_prob": -0.7558541223406792}
-{"relation": "P1303", "template": "[X] plays [Y]", "bt_log_prob": -0.776419036090374}
-{"relation": "P1303", "template": "[X] [Y].", "bt_log_prob": -1.2132662534713745}
-{"relation": "P1303", "template": "[X] playing [Y]", "bt_log_prob": -1.2297413349151611}
-{"relation": "P1303", "template": "[X] Play [Y].", "bt_log_prob": -1.2482910752296448}
-{"relation": "P1303", "template": "[X] is playing [Y]", "bt_log_prob": -1.2712372839450836}
-{"relation": "P1303", "template": "[X] play [Y]", "bt_log_prob": -1.3221927881240845}
-{"relation": "P1303", "template": "[X] [Y] play.", "bt_log_prob": -1.3899708986282349}
-{"relation": "P1303", "template": "[X] performs [Y]", "bt_log_prob": -1.398184597492218}
-{"relation": "P1303", "template": "[X] played [Y]", "bt_log_prob": -1.5447343587875366}
+{"template": "[X] on vocals and [Y] .", "weight": 0.32620397210121155}
+{"template": "[X] on vocals and [Y].", "weight": 0.32620397210121155}
+{"template": "[X] for voice and [Y].", "weight": 0.12051340192556381}
+{"template": "[X] on voice and [Y].", "weight": 3.6708479456137866e-05}
+{"template": "[X] with vocals and [Y].", "weight": 0.0005416013300418854}
+{"template": "[X] while singing and [Y].", "weight": 3.566611485439353e-05}
+{"template": "[X] to vocals and [Y].", "weight": 0.00016675403458066285}
+{"template": "[X] when singing and [Y].", "weight": 4.0150647691916674e-05}
+{"template": "[X] for vocals and [Y].", "weight": 0.0004077904741279781}
+{"template": "[X] in vocals and [Y].", "weight": 0.0003114907303825021}
+{"template": "[X] singing and [Y].", "weight": 3.13578057102859e-05}
+{"template": "[X] with voice and [Y].", "weight": 0.0005117467953823507}
+{"template": "[X] in voice and [Y].", "weight": 0.0001355504646198824}
+{"template": "[X] in singing and [Y].", "weight": 5.732550562242977e-05}
+{"template": "[X] to voice and [Y].", "weight": 9.884734754450619e-05}
+{"template": "[X] with singing and [Y].", "weight": 3.345016375533305e-05}
+{"template": "[X] in song and [Y].", "weight": 8.482426346745342e-05}
+{"template": "[X] for singing and [Y].", "weight": 3.435420148889534e-05}
+{"template": "[X] on song and [Y].", "weight": 2.4332966859219596e-05}
+{"template": "[X] to Voice and [Y].", "weight": 6.343601853586733e-05}
+{"template": "[X] in the song and [Y].", "weight": 4.466922109713778e-05}
+{"template": "[X] in the singing and [Y].", "weight": 4.20791948272381e-05}
+{"template": "[X] during singing and [Y].", "weight": 3.489126902422868e-05}
+{"template": "[X] and [Y].", "weight": 4.024611916975118e-05}
+{"template": "[X] for vocal and [Y].", "weight": 0.14700894057750702}
+{"template": "[X] on Voice and [Y].", "weight": 4.668113979278132e-05}
+{"template": "[X] while singing, and [Y].", "weight": 3.93937953049317e-05}
+{"template": "[X] on vocals and [Y]", "weight": 0.00011301256017759442}
+{"template": "[X] for song and [Y].", "weight": 6.393379590008408e-05}
+{"template": "[X] for voice and [Y]", "weight": 0.07702948898077011}

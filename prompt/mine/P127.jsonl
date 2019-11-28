@@ -1,51 +1,29 @@
-{"relation": "P127", "template": "[X] is owned by [Y] .", "label": "owned by", "description": "owner of the subject", "type": "N-1"}
-{"relation": "P127", "template": "[X] \u2022 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 351}
-{"relation": "P127", "template": "[X] owner [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 270}
-{"relation": "P127", "template": "[Y] canada [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 199}
-{"relation": "P127", "template": "[Y] united states [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 159}
-{"relation": "P127", "template": "[Y] schools , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 108}
-{"relation": "P127", "template": "[X] and published by [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 94}
-{"relation": "P127", "template": "[Y] acquired [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 91}
-{"relation": "P127", "template": "[X] ceo [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 88}
-{"relation": "P127", "template": "[X] founder [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 80}
-{"relation": "P127", "template": "[X] event produced by [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 78}
-{"relation": "P127", "template": "[X] is maintained by the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 72}
-{"relation": "P127", "template": "[Y] germany [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 60}
-{"relation": "P127", "template": "[Y] formats : [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 59}
-{"relation": "P127", "template": "[Y] mexico city [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 57}
-{"relation": "P127", "template": "[X] on the campus of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 56}
-{"relation": "P127", "template": "[X] local media subsidiary of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 54}
-{"relation": "P127", "template": "[Y] announced that [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 51}
-{"relation": "P127", "template": "[X] chairman [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 49}
-{"relation": "P127", "template": "[Y] purchased [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 48}
-{"relation": "P127", "template": "[Y] austria [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 48}
-{"relation": "P127", "template": "[Y] subsidiary [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 43}
-{"relation": "P127", "template": "[X] on youtube [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 43}
-{"relation": "P127", "template": "[X] was acquired by [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
-{"relation": "P127", "template": "[X] and released by [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
-{"relation": "P127", "template": "[Y] puebla , puebla [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
-{"relation": "P127", "template": "[Y] bought [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 41}
-{"relation": "P127", "template": "[Y] purchased the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 38}
-{"relation": "P127", "template": "[X] is owned by [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 37}
-{"relation": "P127", "template": "[X] division of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 33}
-{"relation": "P127", "template": "[X] was sold to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 33}
-{"relation": "P127", "template": "[Y] acquired the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 32}
-{"relation": "P127", "template": "[X] was purchased by the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 31}
-{"relation": "P127", "template": "[Y] connecting [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 30}
-{"relation": "P127", "template": "[X] co-founder [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 29}
-{"relation": "P127", "template": "[Y] launched [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 28}
-{"relation": "P127", "template": "[X] references external links [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 28}
-{"relation": "P127", "template": "[Y] announced that the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 27}
-{"relation": "P127", "template": "[X] references external links official [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 26}
-{"relation": "P127", "template": "[X] on the campus of the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 23}
-{"relation": "P127", "template": "[Y] spain [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 23}
-{"relation": "P127", "template": "[X] information at the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 22}
-{"relation": "P127", "template": "[X] was purchased by [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 22}
-{"relation": "P127", "template": "[Y] sold [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 21}
-{"relation": "P127", "template": "[X] is a station on the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 20}
-{"relation": "P127", "template": "[Y] channel [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 20}
-{"relation": "P127", "template": "[X] public music [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 20}
-{"relation": "P127", "template": "[X] tennis stadium , [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 19}
-{"relation": "P127", "template": "[Y] motors ( later [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 19}
-{"relation": "P127", "template": "[X] event , produced by [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 19}
-{"relation": "P127", "template": "[X] and distributed by [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 18}
+{"template": "[X] \u2022 [Y] .", "weight": 0.00017630172078497708}
+{"template": "[X] owner [Y] .", "weight": 0.00019867254013661295}
+{"template": "[Y] canada [X] .", "weight": 0.0003069337399210781}
+{"template": "[Y] united states [X] .", "weight": 0.000216108383028768}
+{"template": "[Y] schools , [X] .", "weight": 0.0002498172107152641}
+{"template": "[X] and published by [Y] .", "weight": 0.0002553847152739763}
+{"template": "[Y] acquired [X] .", "weight": 0.0007679586415179074}
+{"template": "[X] ceo [Y] .", "weight": 0.0002423585974611342}
+{"template": "[X] founder [Y] .", "weight": 0.0001981778332265094}
+{"template": "[X] event produced by [Y] .", "weight": 0.000971730740275234}
+{"template": "[X] is maintained by the [Y] .", "weight": 8.337789768120274e-05}
+{"template": "[Y] germany [X] .", "weight": 0.00028809031937271357}
+{"template": "[Y] formats : [X] .", "weight": 0.00023780869378242642}
+{"template": "[Y] mexico city [X] .", "weight": 0.0003481879539322108}
+{"template": "[X] on the campus of [Y] .", "weight": 0.015283565036952496}
+{"template": "[X] local media subsidiary of [Y] .", "weight": 0.09139265865087509}
+{"template": "[Y] announced that [X] .", "weight": 0.09402617812156677}
+{"template": "[X] chairman [Y] .", "weight": 0.00020999510888941586}
+{"template": "[Y] purchased [X] .", "weight": 0.0003435919061303139}
+{"template": "[Y] austria [X] .", "weight": 0.0002723438374232501}
+{"template": "[Y] subsidiary [X] .", "weight": 0.003932977095246315}
+{"template": "[X] on youtube [Y] .", "weight": 0.00022504491789732128}
+{"template": "[X] was acquired by [Y] .", "weight": 0.15134558081626892}
+{"template": "[X] and released by [Y] .", "weight": 0.00156302354298532}
+{"template": "[Y] puebla , puebla [X] .", "weight": 0.0002569133066572249}
+{"template": "[Y] bought [X] .", "weight": 0.00025389195070602}
+{"template": "[Y] purchased the [X] .", "weight": 0.00024646095698699355}
+{"template": "[X] is owned by [Y] .", "weight": 0.4848857522010803}
+{"template": "[X] division of [Y] .", "weight": 0.1512211263179779}

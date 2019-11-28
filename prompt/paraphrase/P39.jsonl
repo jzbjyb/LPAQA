@@ -1,40 +1,26 @@
-{"relation": "P39", "template": "[X] has the position of [Y] ."}
-{"relation": "P39", "template": "[X] has the position of [Y].", "bt_log_prob": -0.40806692838668823}
-{"relation": "P39", "template": "[X] is the position of [Y].", "bt_log_prob": -0.46259763836860657}
-{"relation": "P39", "template": "[X] takes the position of [Y].", "bt_log_prob": -0.5240595787763596}
-{"relation": "P39", "template": "[X] is in position [Y].", "bt_log_prob": -0.5352784991264343}
-{"relation": "P39", "template": "[X] is in the position of [Y].", "bt_log_prob": -0.548002153635025}
-{"relation": "P39", "template": "[X] has the position [Y].", "bt_log_prob": -0.5549141466617584}
-{"relation": "P39", "template": "[X] has the location of [Y].", "bt_log_prob": -0.5958469808101654}
-{"relation": "P39", "template": "[X] has the status of [Y].", "bt_log_prob": -0.6289032399654388}
-{"relation": "P39", "template": "[X] is the location of [Y].", "bt_log_prob": -0.6333197951316833}
-{"relation": "P39", "template": "[X] is in position of [Y].", "bt_log_prob": -0.6341559290885925}
-{"relation": "P39", "template": "[X] has position [Y].", "bt_log_prob": -0.6601933538913727}
-{"relation": "P39", "template": "[X] is positioned [Y].", "bt_log_prob": -0.6880108714103699}
-{"relation": "P39", "template": "[X] is at position [Y].", "bt_log_prob": -0.698415994644165}
-{"relation": "P39", "template": "[X] has the position of the [Y].", "bt_log_prob": -0.7002100944519043}
-{"relation": "P39", "template": "[X] is positioned in [Y].", "bt_log_prob": -0.7063098847866058}
-{"relation": "P39", "template": "[X] is set to [Y].", "bt_log_prob": -0.7095683813095093}
-{"relation": "P39", "template": "[X] occupies the position of [Y].", "bt_log_prob": -0.7223137617111206}
-{"relation": "P39", "template": "[X] has the position of a [Y].", "bt_log_prob": -0.7289697527885437}
-{"relation": "P39", "template": "[X] takes the place of [Y].", "bt_log_prob": -0.7380934357643127}
-{"relation": "P39", "template": "[X] has the [Y] position.", "bt_log_prob": -0.7546238303184509}
-{"relation": "P39", "template": "[X] has the state of [Y].", "bt_log_prob": -0.7744100391864777}
-{"relation": "P39", "template": "[X] is the status of [Y].", "bt_log_prob": -0.8110666573047638}
-{"relation": "P39", "template": "[X] is equal to [Y].", "bt_log_prob": -0.8150339424610138}
-{"relation": "P39", "template": "[X] takes the position of [Y]", "bt_log_prob": -0.821232795715332}
-{"relation": "P39", "template": "[X] is the [Y] position.", "bt_log_prob": -0.8395369946956635}
-{"relation": "P39", "template": "[X] is [Y].", "bt_log_prob": -0.8398635387420654}
-{"relation": "P39", "template": "[X] replaces [Y].", "bt_log_prob": -0.8796741962432861}
-{"relation": "P39", "template": "[X] is in [Y].", "bt_log_prob": -0.8944871723651886}
-{"relation": "P39", "template": "[X] has the status [Y].", "bt_log_prob": -0.9078330099582672}
-{"relation": "P39", "template": "[X] has a [Y] position.", "bt_log_prob": -0.9211044609546661}
-{"relation": "P39", "template": "[X] is in [Y] position.", "bt_log_prob": -0.9684984385967255}
-{"relation": "P39", "template": "[X] has the status of [Y]", "bt_log_prob": -0.989139050245285}
-{"relation": "P39", "template": "[X] occupies the position of [Y]", "bt_log_prob": -1.011115849018097}
-{"relation": "P39", "template": "[X] has the position of the [Y]", "bt_log_prob": -1.0422140061855316}
-{"relation": "P39", "template": "[X] is in the position [Y]", "bt_log_prob": -1.0462839305400848}
-{"relation": "P39", "template": "[X] has the position of a [Y]", "bt_log_prob": -1.0546866059303284}
-{"relation": "P39", "template": "[X] has the position of [Y]", "bt_log_prob": -1.0651333630084991}
-{"relation": "P39", "template": "[X] is the position of the [Y]", "bt_log_prob": -1.0995008647441864}
-{"relation": "P39", "template": "[X] is the position of a [Y]", "bt_log_prob": -1.190942406654358}
+{"template": "[X] was crowned [Y] .", "weight": 0.00024346374266315252}
+{"template": "[X] was crowned [Y].", "weight": 0.00024346374266315252}
+{"template": "[X] was crowned with [Y].", "weight": 0.18796877562999725}
+{"template": "[X] has been crowned [Y].", "weight": 4.751006417791359e-05}
+{"template": "[X] was [Y] crowned.", "weight": 3.475171251920983e-05}
+{"template": "[X] was crowned as [Y].", "weight": 0.3605804443359375}
+{"template": "[X] was crowned by [Y].", "weight": 6.46575354039669e-05}
+{"template": "[X] was crowned the [Y].", "weight": 0.00038407245301641524}
+{"template": "[X] [Y] was crowned.", "weight": 7.108260615495965e-05}
+{"template": "[X] is crowned [Y].", "weight": 0.00012621960195247084}
+{"template": "[X] was crowned to [Y].", "weight": 2.63789279415505e-05}
+{"template": "[X] is crowned with [Y].", "weight": 0.00042011323967017233}
+{"template": "[X] was crowned [Y]", "weight": 3.797903627855703e-05}
+{"template": "[X] was topped by [Y].", "weight": 5.0753671530401334e-05}
+{"template": "[X] was crowned with [Y]", "weight": 3.870106957037933e-05}
+{"template": "[X] became crowned [Y].", "weight": 0.0004234639636706561}
+{"template": "[X] was topped with [Y].", "weight": 4.848716707783751e-05}
+{"template": "[X] was crowned. [Y]", "weight": 7.27258448023349e-05}
+{"template": "[X] is crowned by [Y].", "weight": 8.299363980768248e-05}
+{"template": "[X] was [Y].", "weight": 2.4891895009204745e-05}
+{"template": "[X] was the crowning [Y].", "weight": 5.566103573073633e-05}
+{"template": "[X] became [Y].", "weight": 0.2652081847190857}
+{"template": "[X] was followed by [Y].", "weight": 7.620651012985036e-05}
+{"template": "[X] was crowned as [Y]", "weight": 0.18358445167541504}
+{"template": "[X] has been crowned by [Y]", "weight": 3.791133713093586e-05}
+{"template": "[X] was crowned by [Y]..", "weight": 4.651182462112047e-05}

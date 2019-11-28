@@ -1,32 +1,30 @@
-{"relation": "P740", "template": "[X] was founded in [Y] ."}
-{"relation": "P740", "template": "[X] was founded in [Y].", "bt_log_prob": -0.39429327845573425}
-{"relation": "P740", "template": "[X] was established in [Y].", "bt_log_prob": -0.5415672957897186}
-{"relation": "P740", "template": "[X] was formed in [Y].", "bt_log_prob": -0.5710695683956146}
-{"relation": "P740", "template": "[X] was created in [Y].", "bt_log_prob": -0.6105991899967194}
-{"relation": "P740", "template": "[X] was founded [Y].", "bt_log_prob": -0.6230354458093643}
-{"relation": "P740", "template": "[X] was founded in [Y] year.", "bt_log_prob": -0.6233732104301453}
-{"relation": "P740", "template": "[X] was set up in [Y].", "bt_log_prob": -0.6618036925792694}
-{"relation": "P740", "template": "[X] was founded in the [Y].", "bt_log_prob": -0.7102197706699371}
-{"relation": "P740", "template": "[X] was born in [Y].", "bt_log_prob": -0.731042891740799}
-{"relation": "P740", "template": "[X] was founded in [Y]", "bt_log_prob": -0.7327527701854706}
-{"relation": "P740", "template": "[X] was founded in the year [Y]", "bt_log_prob": -0.7824952602386475}
-{"relation": "P740", "template": "[X] was created in the year [Y].", "bt_log_prob": -0.7970167845487595}
-{"relation": "P740", "template": "[X] was founded by [Y].", "bt_log_prob": -0.8068129122257233}
-{"relation": "P740", "template": "[X] was formed [Y].", "bt_log_prob": -0.8211699724197388}
-{"relation": "P740", "template": "[X] was established [Y].", "bt_log_prob": -0.8289837837219238}
-{"relation": "P740", "template": "[X] was founded on [Y].", "bt_log_prob": -0.8534249663352966}
-{"relation": "P740", "template": "[X] originated in [Y].", "bt_log_prob": -0.8599933087825775}
-{"relation": "P740", "template": "[X] was [Y] founded.", "bt_log_prob": -0.8630618155002594}
-{"relation": "P740", "template": "[X] was created [Y].", "bt_log_prob": -0.8702280223369598}
-{"relation": "P740", "template": "[X] originated in the year [Y].", "bt_log_prob": -0.878862589597702}
-{"relation": "P740", "template": "[X] was made in the year [Y].", "bt_log_prob": -0.8979284465312958}
-{"relation": "P740", "template": "[X] was established in the year [Y]", "bt_log_prob": -0.9040654897689819}
-{"relation": "P740", "template": "[X] was written in the year [Y].", "bt_log_prob": -0.9341767132282257}
-{"relation": "P740", "template": "[X] was created in year [Y].", "bt_log_prob": -0.952864795923233}
-{"relation": "P740", "template": "[X] arose in [Y].", "bt_log_prob": -0.9550721347332001}
-{"relation": "P740", "template": "[X] was formed in the year [Y]", "bt_log_prob": -0.9638290405273438}
-{"relation": "P740", "template": "[X] was written in [Y].", "bt_log_prob": -0.9705492258071899}
-{"relation": "P740", "template": "[X] was made in [Y].", "bt_log_prob": -0.9777211248874664}
-{"relation": "P740", "template": "[X] is in [Y].", "bt_log_prob": -1.0106091797351837}
-{"relation": "P740", "template": "[X] was created in the year [Y]", "bt_log_prob": -1.162234365940094}
-{"relation": "P740", "template": "[X] came into being in [Y]", "bt_log_prob": -1.4215437173843384}
+{"template": "[X] studios in [Y] .", "weight": 0.07328388094902039}
+{"template": "[X] Studios in [Y].", "weight": 0.2677094340324402}
+{"template": "[X] studios in [Y].", "weight": 0.07328388094902039}
+{"template": "[X] Studios at [Y].", "weight": 0.0016564615070819855}
+{"template": "[X] Studios in [Y]", "weight": 0.0009048168431036174}
+{"template": "[X] Studio in [Y].", "weight": 0.003214965108782053}
+{"template": "[X] Studios [Y].", "weight": 0.000158215596457012}
+{"template": "[X] in [Y].", "weight": 0.0019451762782409787}
+{"template": "[X] studios at [Y].", "weight": 0.0001339539885520935}
+{"template": "[X] studios in [Y]", "weight": 0.00037212762981653214}
+{"template": "[X] to [Y].", "weight": 0.0005992544465698302}
+{"template": "[X] studio in [Y].", "weight": 0.29894566535949707}
+{"template": "[X] at [Y] Studios.", "weight": 0.001221945509314537}
+{"template": "[X] at the [Y] Studios.", "weight": 0.0011869416339322925}
+{"template": "[X] Studio in [Y]", "weight": 0.001187554793432355}
+{"template": "[X] Studio Apartments in [Y]", "weight": 0.005626882426440716}
+{"template": "[X] in the [Y] Studios.", "weight": 0.0003690418670885265}
+{"template": "[X] into [Y].", "weight": 0.12897999584674835}
+{"template": "[X] in [Y] Studios.", "weight": 0.000292869342956692}
+{"template": "[X] studios on [Y].", "weight": 0.0001222910505020991}
+{"template": "[X] studios [Y].", "weight": 0.00010406108049210161}
+{"template": "[X] at [Y] studios.", "weight": 0.00039369467413052917}
+{"template": "[X] Studio apartments in [Y]", "weight": 0.0006054510013200343}
+{"template": "[X] Studios at [Y]", "weight": 0.13443680107593536}
+{"template": "[X] studio in [Y]", "weight": 0.001012321445159614}
+{"template": "[X] -Studios in [Y]", "weight": 0.0005311772110871971}
+{"template": "[X] Studios [Y]", "weight": 0.0003959480964113027}
+{"template": "[X] Apartments in [Y]", "weight": 0.0008327579125761986}
+{"template": "[X] at [Y].", "weight": 0.00026942481053993106}
+{"template": "[X] on [Y].", "weight": 0.00022299986449070275}

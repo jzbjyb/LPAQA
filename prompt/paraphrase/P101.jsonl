@@ -1,27 +1,21 @@
-{"relation": "P101", "template": "[X] works in the field of [Y] ."}
-{"relation": "P101", "template": "[X] works in the range [Y].", "bt_log_prob": -0.5004761666059494}
-{"relation": "P101", "template": "[X] works in the range of [Y].", "bt_log_prob": -0.5256642401218414}
-{"relation": "P101", "template": "[X] works in range [Y].", "bt_log_prob": -0.5564727038145065}
-{"relation": "P101", "template": "[X] works in the area [Y].", "bt_log_prob": -0.5691892951726913}
-{"relation": "P101", "template": "[X] works in area [Y].", "bt_log_prob": -0.5933099240064621}
-{"relation": "P101", "template": "[X] works in [Y].", "bt_log_prob": -0.6000159829854965}
-{"relation": "P101", "template": "[X] works in the [Y] area.", "bt_log_prob": -0.6069986671209335}
-{"relation": "P101", "template": "[X] operates in the range of [Y].", "bt_log_prob": -0.61056187748909}
-{"relation": "P101", "template": "[X] works in the [Y] range.", "bt_log_prob": -0.6170739978551865}
-{"relation": "P101", "template": "[X] works within the range of [Y].", "bt_log_prob": -0.6343630850315094}
-{"relation": "P101", "template": "[X] is in the range of [Y].", "bt_log_prob": -0.6542675197124481}
-{"relation": "P101", "template": "[X] works in the field [Y].", "bt_log_prob": -0.7130712866783142}
-{"relation": "P101", "template": "[X] works in the area of [Y].", "bt_log_prob": -0.7466136813163757}
-{"relation": "P101", "template": "[X] works in the field of [Y].", "bt_log_prob": -0.7530533373355865}
-{"relation": "P101", "template": "[X] works in section [Y].", "bt_log_prob": -0.786179393529892}
-{"relation": "P101", "template": "[X] works in the [Y] domain.", "bt_log_prob": -0.8130691945552826}
-{"relation": "P101", "template": "[X] works in the [Y] field.", "bt_log_prob": -0.8519521653652191}
-{"relation": "P101", "template": "[X] works in the range of [Y]", "bt_log_prob": -0.8908414840698242}
-{"relation": "P101", "template": "[X] works on [Y].", "bt_log_prob": -0.9150079786777496}
-{"relation": "P101", "template": "[X] works in the field of [Y]", "bt_log_prob": -1.007639855146408}
-{"relation": "P101", "template": "[X] works in the area of [Y]", "bt_log_prob": -1.0965981185436249}
-{"relation": "P101", "template": "[X] is working in the field of [Y]", "bt_log_prob": -1.1479260623455048}
-{"relation": "P101", "template": "[X] works in the domain of [Y]", "bt_log_prob": -1.167958378791809}
-{"relation": "P101", "template": "[X] works on the field of [Y]", "bt_log_prob": -1.250353068113327}
-{"relation": "P101", "template": "[X] works on [Y]", "bt_log_prob": -1.3110334277153015}
-{"relation": "P101", "template": "[X] works in [Y]", "bt_log_prob": -1.3223517537117004}
+{"template": "[X] professor of [Y] .", "weight": 0.15888208150863647}
+{"template": "[X] Professor of [Y].", "weight": 0.00010575468331808224}
+{"template": "[X] Professor for [Y].", "weight": 0.0002345121611142531}
+{"template": "[X] professor of [Y].", "weight": 0.15888208150863647}
+{"template": "[X] Professor [Y].", "weight": 0.0002514776133466512}
+{"template": "[X] Professor from [Y].", "weight": 0.00012035699182888493}
+{"template": "[X] Professor of [Y]", "weight": 0.00010194115020567551}
+{"template": "[X] professor for [Y].", "weight": 0.595554769039154}
+{"template": "[X] Professor for [Y]", "weight": 0.00017870655574370176}
+{"template": "[X] professor from [Y].", "weight": 0.00010984072287101299}
+{"template": "[X] Professor of the [Y].", "weight": 0.00010443481733091176}
+{"template": "[X] professor [Y].", "weight": 0.004832975100725889}
+{"template": "[X] professor of [Y]", "weight": 0.001940379966981709}
+{"template": "[X] Professor [Y]", "weight": 0.00024673910229466856}
+{"template": "[X] professor for [Y]", "weight": 0.001865711878053844}
+{"template": "[X] Professor the [Y].", "weight": 0.07585357874631882}
+{"template": "[X] Prof. [Y].", "weight": 0.00018030487990472466}
+{"template": "[X] Professor at [Y]", "weight": 0.00011899265518877655}
+{"template": "[X] Prof. of [Y]", "weight": 0.00010790748638100922}
+{"template": "[X] Professor of the [Y]", "weight": 9.68802924035117e-05}
+{"template": "[X] [Y] professor.", "weight": 0.00023054810299072415}

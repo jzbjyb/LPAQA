@@ -1,51 +1,29 @@
-{"relation": "P1412", "template": "[X] used to communicate in [Y] .", "label": "languages spoken, written or signed", "description": "language(s) that a person speaks or writes, including the native language(s)", "type": "N-M"}
-{"relation": "P1412", "template": "[Y] translation by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 985}
-{"relation": "P1412", "template": "[Y] singer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 520}
-{"relation": "P1412", "template": "[Y] writer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 502}
-{"relation": "P1412", "template": "[Y] author [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 423}
-{"relation": "P1412", "template": "[Y] actor [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 384}
-{"relation": "P1412", "template": "[Y] poet [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 362}
-{"relation": "P1412", "template": "[Y] composer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 297}
-{"relation": "P1412", "template": "[Y] musician [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 260}
-{"relation": "P1412", "template": "[Y] singer - songwriter [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 211}
-{"relation": "P1412", "template": "[Y] explorer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 210}
-{"relation": "P1412", "template": "[Y] naturalist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 207}
-{"relation": "P1412", "template": "[Y] novelist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 185}
-{"relation": "P1412", "template": "[Y] botanist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 175}
-{"relation": "P1412", "template": "[Y] artist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 147}
-{"relation": "P1412", "template": "[Y] playwright [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 145}
-{"relation": "P1412", "template": "[Y] actress [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 142}
-{"relation": "P1412", "template": "[Y] astronomer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 137}
-{"relation": "P1412", "template": "[Y] zoologist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 135}
-{"relation": "P1412", "template": "[Y] historian [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 125}
-{"relation": "P1412", "template": "[Y] drama film directed by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 124}
-{"relation": "P1412", "template": "[Y] footballer [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 120}
-{"relation": "P1412", "template": "[Y] playwright and poet [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 119}
-{"relation": "P1412", "template": "[Y] painter [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 112}
-{"relation": "P1412", "template": "[Y] libretto by [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 100}
-{"relation": "P1412", "template": "[Y] director [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 94}
-{"relation": "P1412", "template": "[Y] architect [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 84}
-{"relation": "P1412", "template": "[Y] philosopher [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 83}
-{"relation": "P1412", "template": "[Y] ornithologist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 83}
-{"relation": "P1412", "template": "[Y] mathematician [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 81}
-{"relation": "P1412", "template": "[Y] scholar [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 75}
-{"relation": "P1412", "template": "[Y] cricketer . [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 64}
-{"relation": "P1412", "template": "[Y] chemist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 62}
-{"relation": "P1412", "template": "[Y] film director [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 58}
-{"relation": "P1412", "template": "[Y] translation of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 56}
-{"relation": "P1412", "template": "[Y] dramatist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 56}
-{"relation": "P1412", "template": "[Y] rock musician [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 55}
-{"relation": "P1412", "template": "[Y] physician [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 54}
-{"relation": "P1412", "template": "[Y] scientist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 54}
-{"relation": "P1412", "template": "[Y] film actor [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 51}
-{"relation": "P1412", "template": "[Y] politician [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 50}
-{"relation": "P1412", "template": "[Y] recording artist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 49}
-{"relation": "P1412", "template": "[Y] singer and songwriter [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 44}
-{"relation": "P1412", "template": "[Y] rock band [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 44}
-{"relation": "P1412", "template": "[Y] filmmaker [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 43}
-{"relation": "P1412", "template": "[Y] physicist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 42}
-{"relation": "P1412", "template": "[Y] version of [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 40}
-{"relation": "P1412", "template": "[Y] comedian [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 35}
-{"relation": "P1412", "template": "[Y] biologist [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 34}
-{"relation": "P1412", "template": "[Y] writers such as [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 33}
-{"relation": "P1412", "template": "[Y] football player [X] .", "label": null, "description": null, "type": "N-M", "wikipedia_count": 33}
+{"template": "[Y] translation by [X] .", "weight": 0.6341690421104431}
+{"template": "[Y] singer [X] .", "weight": 0.0004373961710371077}
+{"template": "[Y] writer [X] .", "weight": 0.00024332616885658354}
+{"template": "[Y] author [X] .", "weight": 0.0003342913114465773}
+{"template": "[Y] actor [X] .", "weight": 0.00031544314697384834}
+{"template": "[Y] poet [X] .", "weight": 0.0004925583489239216}
+{"template": "[Y] composer [X] .", "weight": 0.00012009697093162686}
+{"template": "[Y] musician [X] .", "weight": 0.0009127425728365779}
+{"template": "[Y] singer - songwriter [X] .", "weight": 0.0002443726407364011}
+{"template": "[Y] explorer [X] .", "weight": 0.05854857712984085}
+{"template": "[Y] naturalist [X] .", "weight": 0.0015103024197742343}
+{"template": "[Y] novelist [X] .", "weight": 0.00020357173343654722}
+{"template": "[Y] botanist [X] .", "weight": 0.00020430769654922187}
+{"template": "[Y] artist [X] .", "weight": 0.0005648608785122633}
+{"template": "[Y] playwright [X] .", "weight": 0.00021449165069498122}
+{"template": "[Y] actress [X] .", "weight": 0.0003618135233409703}
+{"template": "[Y] astronomer [X] .", "weight": 0.1826319843530655}
+{"template": "[Y] zoologist [X] .", "weight": 9.381708514411002e-05}
+{"template": "[Y] historian [X] .", "weight": 0.00013609768939204514}
+{"template": "[Y] drama film directed by [X] .", "weight": 0.03719114884734154}
+{"template": "[Y] footballer [X] .", "weight": 0.0792306661605835}
+{"template": "[Y] playwright and poet [X] .", "weight": 0.0006067453068681061}
+{"template": "[Y] painter [X] .", "weight": 0.00024123799812514335}
+{"template": "[Y] libretto by [X] .", "weight": 0.00018527456268202513}
+{"template": "[Y] director [X] .", "weight": 0.0001007245882647112}
+{"template": "[Y] architect [X] .", "weight": 0.00014577580441255122}
+{"template": "[Y] philosopher [X] .", "weight": 0.00022062550124246627}
+{"template": "[Y] ornithologist [X] .", "weight": 0.00017928883607964963}
+{"template": "[Y] mathematician [X] .", "weight": 0.00015944249753374606}

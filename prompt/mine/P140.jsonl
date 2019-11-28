@@ -1,51 +1,29 @@
-{"relation": "P140", "template": "[X] is affiliated with the [Y] religion .", "label": "religion", "description": "religion of a person, organization or religious building, or associated with this subject", "type": "N-1"}
-{"relation": "P140", "template": "[X] converted to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 135}
-{"relation": "P140", "template": "[Y] founder [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 99}
-{"relation": "P140", "template": "[Y] scholar [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 67}
-{"relation": "P140", "template": "[Y] leader [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 60}
-{"relation": "P140", "template": "[Y] tirthankara [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 43}
-{"relation": "P140", "template": "[Y] theologian [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 42}
-{"relation": "P140", "template": "[Y] philosopher [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 40}
-{"relation": "P140", "template": "[X] and a local [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 38}
-{"relation": "P140", "template": "[X] embraced [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 33}
-{"relation": "P140", "template": "[Y] preacher [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 27}
-{"relation": "P140", "template": "[Y] jurist [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 27}
-{"relation": "P140", "template": "[Y] dedicated to [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 26}
-{"relation": "P140", "template": "[Y] daughter [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 24}
-{"relation": "P140", "template": "[Y] and ruler of the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 23}
-{"relation": "P140", "template": "[Y] like [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 23}
-{"relation": "P140", "template": "[X] who converted to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 22}
-{"relation": "P140", "template": "[Y] scholars such as [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 21}
-{"relation": "P140", "template": "[Y] north american convention , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 20}
-{"relation": "P140", "template": "[X] is affiliated with the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 19}
-{"relation": "P140", "template": "[X] brought [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 19}
-{"relation": "P140", "template": "[X] was received into the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 17}
-{"relation": "P140", "template": "[Y] historian [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 17}
-{"relation": "P140", "template": "[X] and converted to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 17}
-{"relation": "P140", "template": "[Y] apostle [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 16}
-{"relation": "P140", "template": "[Y] saint [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 16}
-{"relation": "P140", "template": "[Y] tradition , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 16}
-{"relation": "P140", "template": "[Y] and changed his name to [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 15}
-{"relation": "P140", "template": "[X] had converted to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 14}
-{"relation": "P140", "template": "[Y] tirthankar [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 14}
-{"relation": "P140", "template": "[X] rc [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 14}
-{"relation": "P140", "template": "[X] is a member of the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 14}
-{"relation": "P140", "template": "[X] converts to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 13}
-{"relation": "P140", "template": "[X] introduced [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 12}
-{"relation": "P140", "template": "[X] was born to a [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 12}
-{"relation": "P140", "template": "[Y] reformer [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 12}
-{"relation": "P140", "template": "[X] accepted [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 12}
-{"relation": "P140", "template": "[Y] bishop in the [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 12}
-{"relation": "P140", "template": "[Y] believe that [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 12}
-{"relation": "P140", "template": "[X] who belong to the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 12}
-{"relation": "P140", "template": "[X] believed that [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 11}
-{"relation": "P140", "template": "[X] was a member of the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 11}
-{"relation": "P140", "template": "[X] branch of [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 11}
-{"relation": "P140", "template": "[X] adopted [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 11}
-{"relation": "P140", "template": "[X] residents for [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 11}
-{"relation": "P140", "template": "[X] left the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 10}
-{"relation": "P140", "template": "[X] was born into a [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 10}
-{"relation": "P140", "template": "[X] joined the [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 10}
-{"relation": "P140", "template": "[Y] scholars [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 10}
-{"relation": "P140", "template": "[X] to convert to [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 10}
-{"relation": "P140", "template": "[Y] president [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 10}
+{"template": "[X] converted to [Y] .", "weight": 0.0009110293467529118}
+{"template": "[Y] founder [X] .", "weight": 0.00011242699838476256}
+{"template": "[Y] scholar [X] .", "weight": 0.00022493759752251208}
+{"template": "[Y] leader [X] .", "weight": 9.415442036697641e-05}
+{"template": "[Y] tirthankara [X] .", "weight": 0.19013506174087524}
+{"template": "[Y] theologian [X] .", "weight": 0.0001966837589861825}
+{"template": "[Y] philosopher [X] .", "weight": 0.0007792593678459525}
+{"template": "[X] and a local [Y] .", "weight": 5.324439553078264e-05}
+{"template": "[X] embraced [Y] .", "weight": 0.00019122120284009725}
+{"template": "[Y] preacher [X] .", "weight": 7.290002395166084e-05}
+{"template": "[Y] jurist [X] .", "weight": 0.00010269637277815491}
+{"template": "[Y] dedicated to [X] .", "weight": 0.11037048697471619}
+{"template": "[Y] daughter [X] .", "weight": 0.0001149316449300386}
+{"template": "[Y] and ruler of the [X] .", "weight": 0.0001139755840995349}
+{"template": "[Y] like [X] .", "weight": 7.829556852811947e-05}
+{"template": "[X] who converted to [Y] .", "weight": 0.614888608455658}
+{"template": "[Y] scholars such as [X] .", "weight": 0.0001647282188059762}
+{"template": "[Y] north american convention , [X] .", "weight": 0.00011406329576857388}
+{"template": "[X] is affiliated with the [Y] .", "weight": 0.07739030569791794}
+{"template": "[X] brought [Y] .", "weight": 8.95984485396184e-05}
+{"template": "[X] was received into the [Y] .", "weight": 8.929372415877879e-05}
+{"template": "[Y] historian [X] .", "weight": 0.00010714697418734431}
+{"template": "[X] and converted to [Y] .", "weight": 0.000680670200381428}
+{"template": "[Y] apostle [X] .", "weight": 9.3832568381913e-05}
+{"template": "[Y] saint [X] .", "weight": 0.0002906574518419802}
+{"template": "[Y] tradition , [X] .", "weight": 0.0006810406921431422}
+{"template": "[Y] and changed his name to [X] .", "weight": 5.662505645886995e-05}
+{"template": "[X] had converted to [Y] .", "weight": 0.0016421229811385274}
+{"template": "[Y] tirthankar [X] .", "weight": 0.00015994408749975264}

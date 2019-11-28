@@ -1,20 +1,26 @@
-{"relation": "P178", "template": "[X] is developed by [Y] ."}
-{"relation": "P178", "template": "[X] is developed by [Y].", "bt_log_prob": -0.2924048900604248}
-{"relation": "P178", "template": "[X] was developed by [Y].", "bt_log_prob": -0.40140603482723236}
-{"relation": "P178", "template": "[X] is a development of [Y].", "bt_log_prob": -0.5682801604270935}
-{"relation": "P178", "template": "[X] is developed by [Y]", "bt_log_prob": -0.5957274734973907}
-{"relation": "P178", "template": "[X] is created by [Y].", "bt_log_prob": -0.6391295790672302}
-{"relation": "P178", "template": "[X] developed by [Y].", "bt_log_prob": -0.6528235375881195}
-{"relation": "P178", "template": "[X] is an evolution of [Y].", "bt_log_prob": -0.6530794203281403}
-{"relation": "P178", "template": "[X] is designed by [Y].", "bt_log_prob": -0.6578033864498138}
-{"relation": "P178", "template": "[X] was created by [Y].", "bt_log_prob": -0.6593458950519562}
-{"relation": "P178", "template": "[X] was designed by [Y].", "bt_log_prob": -0.7013656497001648}
-{"relation": "P178", "template": "[X] was developed by [Y]", "bt_log_prob": -0.7282096743583679}
-{"relation": "P178", "template": "[X] is developed from [Y].", "bt_log_prob": -0.729101836681366}
-{"relation": "P178", "template": "[X] is the development of [Y].", "bt_log_prob": -0.7874553501605988}
-{"relation": "P178", "template": "[X] has been developed by [Y]", "bt_log_prob": -0.8319261074066162}
-{"relation": "P178", "template": "[X] is a [Y] development.", "bt_log_prob": -0.9491373002529144}
-{"relation": "P178", "template": "[X] is developed through [Y].", "bt_log_prob": -0.9507783353328705}
-{"relation": "P178", "template": "[X] is an evolution of [Y]", "bt_log_prob": -1.0393657386302948}
-{"relation": "P178", "template": "[X] is being developed by [Y]", "bt_log_prob": -1.0558330714702606}
-{"relation": "P178", "template": "[X] is the evolution of [Y]", "bt_log_prob": -1.2020178139209747}
+{"template": "[X] was developed by [Y] .", "weight": 0.10505853593349457}
+{"template": "[X] was developed by [Y].", "weight": 0.10505853593349457}
+{"template": "[X] is developed by [Y].", "weight": 0.7838591933250427}
+{"template": "[X] was created by [Y].", "weight": 0.0008328285184688866}
+{"template": "[X] was designed by [Y].", "weight": 0.00018149957759305835}
+{"template": "[X] was developed by [Y]", "weight": 0.0003459450963418931}
+{"template": "[X] is designed by [Y].", "weight": 0.0009756251238286495}
+{"template": "[X] is a development of [Y].", "weight": 5.3094543545739725e-05}
+{"template": "[X] has been developed by [Y]", "weight": 0.0005472878110595047}
+{"template": "[X] is an evolution of [Y].", "weight": 8.952026109909639e-05}
+{"template": "[X] comes from [Y].", "weight": 0.00010172029578825459}
+{"template": "[X] is from [Y].", "weight": 9.9023207440041e-05}
+{"template": "[X] developed by [Y].", "weight": 0.00020097817468922585}
+{"template": "[X] is the development of [Y].", "weight": 9.137791494140401e-05}
+{"template": "[X] is created by [Y].", "weight": 0.0015657386975362897}
+{"template": "[X] originates from [Y].", "weight": 0.00010122332605533302}
+{"template": "[X] is by [Y].", "weight": 7.638029637746513e-05}
+{"template": "[X] came from [Y].", "weight": 0.00010427348752273247}
+{"template": "[X] originated from [Y].", "weight": 9.661114745540544e-05}
+{"template": "[X] was designed by [Y]", "weight": 7.709675992373377e-05}
+{"template": "[X] was taken from [Y].", "weight": 8.836672350298613e-05}
+{"template": "[X] designed by [Y].", "weight": 6.241321534616873e-05}
+{"template": "[X] is a [Y] development.", "weight": 9.204688103636727e-05}
+{"template": "[X] is an evolution of [Y]", "weight": 8.558967238059267e-05}
+{"template": "[X] has been designed by [Y]", "weight": 5.861345198354684e-05}
+{"template": "[X] is the evolution of [Y]", "weight": 9.649376443121582e-05}

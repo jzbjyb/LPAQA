@@ -1,29 +1,13 @@
-{"relation": "P413", "template": "[X] plays in [Y] position ."}
-{"relation": "P413", "template": "[X] plays in [Y] position.", "bt_log_prob": -0.4065016061067581}
-{"relation": "P413", "template": "[X] plays in position [Y].", "bt_log_prob": -0.4725038409233093}
-{"relation": "P413", "template": "[X] plays in [Y] -position.", "bt_log_prob": -0.47639888525009155}
-{"relation": "P413", "template": "[X] plays in the [Y] position.", "bt_log_prob": -0.5607683062553406}
-{"relation": "P413", "template": "[X] plays in the [Y] -position.", "bt_log_prob": -0.6180046200752258}
-{"relation": "P413", "template": "[X] plays at [Y] position.", "bt_log_prob": -0.6254719793796539}
-{"relation": "P413", "template": "[X] plays on [Y] position.", "bt_log_prob": -0.6271021366119385}
-{"relation": "P413", "template": "[X] is playing in [Y] position.", "bt_log_prob": -0.6433157622814178}
-{"relation": "P413", "template": "[X] plays in the position [Y].", "bt_log_prob": -0.6747136414051056}
-{"relation": "P413", "template": "[X] plays in [Y] -Position.", "bt_log_prob": -0.6804413795471191}
-{"relation": "P413", "template": "[X] is playing in position [Y].", "bt_log_prob": -0.6863930523395538}
-{"relation": "P413", "template": "[X] plays to [Y] position.", "bt_log_prob": -0.7001796960830688}
-{"relation": "P413", "template": "[X] is in [Y] position.", "bt_log_prob": -0.7041134834289551}
-{"relation": "P413", "template": "[X] plays on [Y] -position.", "bt_log_prob": -0.723223090171814}
-{"relation": "P413", "template": "[X] is in position [Y].", "bt_log_prob": -0.7286521792411804}
-{"relation": "P413", "template": "[X] plays at [Y] -position.", "bt_log_prob": -0.7355826199054718}
-{"relation": "P413", "template": "[X] is playing in the [Y] position.", "bt_log_prob": -0.7481969892978668}
-{"relation": "P413", "template": "[X] is in the [Y] position.", "bt_log_prob": -0.7673599123954773}
-{"relation": "P413", "template": "[X] plays the position [Y].", "bt_log_prob": -0.7755119204521179}
-{"relation": "P413", "template": "[X] plays at position [Y].", "bt_log_prob": -0.7790055572986603}
-{"relation": "P413", "template": "[X] plays [Y] position.", "bt_log_prob": -0.8148516714572906}
-{"relation": "P413", "template": "[X] is in [Y] -position.", "bt_log_prob": -0.8159457147121429}
-{"relation": "P413", "template": "[X] plays in [Y] position", "bt_log_prob": -0.8195797502994537}
-{"relation": "P413", "template": "[X] play in [Y] position.", "bt_log_prob": -0.8502084016799927}
-{"relation": "P413", "template": "[X] plays in [Y].", "bt_log_prob": -0.8855910301208496}
-{"relation": "P413", "template": "[X] plays the [Y] position.", "bt_log_prob": -0.8907755613327026}
-{"relation": "P413", "template": "[X] is playing in [Y] -position", "bt_log_prob": -1.0345739126205444}
-{"relation": "P413", "template": "[X] is playing in the [Y] position", "bt_log_prob": -1.1603562831878662}
+{"template": "[Y] 9 [X] .", "weight": 9.084206249099225e-05}
+{"template": "[Y] 9 [X].", "weight": 9.084206249099225e-05}
+{"template": "[Y] 9 [X]", "weight": 0.00013226663577370346}
+{"template": "[Y] 8 [X].", "weight": 0.25672686100006104}
+{"template": "[Y] 10 [X].", "weight": 0.0001435823505744338}
+{"template": "[Y] 7 [X].", "weight": 9.449815115658566e-05}
+{"template": "[Y] 6 [X].", "weight": 0.00010306132026016712}
+{"template": "[Y] 8 [X]", "weight": 0.7398346662521362}
+{"template": "[Y] 6 [X]", "weight": 8.703290222911164e-05}
+{"template": "[Y] 10 [X]", "weight": 4.797670044354163e-05}
+{"template": "[Y] 7 [X]", "weight": 5.932883141213097e-05}
+{"template": "[Y] 5 [X]", "weight": 0.0011068552266806364}
+{"template": "[Y] 5 [X].", "weight": 0.0014821740332990885}

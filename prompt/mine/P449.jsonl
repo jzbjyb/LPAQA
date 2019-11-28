@@ -1,51 +1,29 @@
-{"relation": "P449", "template": "[X] was originally aired on [Y] .", "label": "original network", "description": "network(s) the radio or television show was originally aired on,  including", "type": "N-1"}
-{"relation": "P449", "template": "[Y] series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 5925}
-{"relation": "P449", "template": "[Y] television series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 2380}
-{"relation": "P449", "template": "[Y] sitcom [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 2217}
-{"relation": "P449", "template": "[Y] soap opera [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 1474}
-{"relation": "P449", "template": "[Y] drama series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 928}
-{"relation": "P449", "template": "[Y] drama [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 908}
-{"relation": "P449", "template": "[Y] tv series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 797}
-{"relation": "P449", "template": "[Y] soap opera , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 545}
-{"relation": "P449", "template": "[Y] comedy series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 507}
-{"relation": "P449", "template": "[Y] television series , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 462}
-{"relation": "P449", "template": "[Y] series , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 460}
-{"relation": "P449", "template": "[Y] program [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 431}
-{"relation": "P449", "template": "[Y] television show [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 430}
-{"relation": "P449", "template": "[Y] miniseries [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 379}
-{"relation": "P449", "template": "[Y] original series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 333}
-{"relation": "P449", "template": "[X] premiered on [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 305}
-{"relation": "P449", "template": "[Y] crime drama [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 303}
-{"relation": "P449", "template": "[X] \u2021 [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 288}
-{"relation": "P449", "template": "[Y] animated series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 247}
-{"relation": "P449", "template": "[Y] tv show [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 232}
-{"relation": "P449", "template": "[Y] medical drama [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 224}
-{"relation": "P449", "template": "[Y] soap [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 213}
-{"relation": "P449", "template": "[Y] comedy [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 205}
-{"relation": "P449", "template": "[Y] renewed [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 194}
-{"relation": "P449", "template": "[Y] daytime soap opera [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 192}
-{"relation": "P449", "template": "[Y] announced that [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 172}
-{"relation": "P449", "template": "[Y] show , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 163}
-{"relation": "P449", "template": "[X] aired on [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 161}
-{"relation": "P449", "template": "[Y] anthology series , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 161}
-{"relation": "P449", "template": "[Y] sitcom , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 160}
-{"relation": "P449", "template": "[Y] local programming [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 159}
-{"relation": "P449", "template": "[Y] reality show [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 157}
-{"relation": "P449", "template": "[Y] game show [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 145}
-{"relation": "P449", "template": "[Y] police drama [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 141}
-{"relation": "P449", "template": "[Y] television drama [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 138}
-{"relation": "P449", "template": "[Y] anthology series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 134}
-{"relation": "P449", "template": "[Y] television program [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 128}
-{"relation": "P449", "template": "[Y] programme [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 125}
-{"relation": "P449", "template": "[Y] reality television series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 106}
-{"relation": "P449", "template": "[Y] drama series , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 104}
-{"relation": "P449", "template": "[Y] comedy - drama series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 98}
-{"relation": "P449", "template": "[Y] daytime drama [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 98}
-{"relation": "P449", "template": "[Y] reality series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 95}
-{"relation": "P449", "template": "[X] premieres on [Y] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 94}
-{"relation": "P449", "template": "[Y] science fiction drama series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 92}
-{"relation": "P449", "template": "[Y] legal drama [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 87}
-{"relation": "P449", "template": "[Y] western series , [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 85}
-{"relation": "P449", "template": "[Y] comedy - drama [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 83}
-{"relation": "P449", "template": "[Y] shows [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 79}
-{"relation": "P449", "template": "[Y] crime drama series [X] .", "label": null, "description": null, "type": "N-1", "wikipedia_count": 79}
+{"template": "[Y] series [X] .", "weight": 7.064831879688427e-05}
+{"template": "[Y] television series [X] .", "weight": 0.00018986465875059366}
+{"template": "[Y] sitcom [X] .", "weight": 0.0008247533114627004}
+{"template": "[Y] soap opera [X] .", "weight": 0.00042424106504768133}
+{"template": "[Y] drama series [X] .", "weight": 0.002889408729970455}
+{"template": "[Y] drama [X] .", "weight": 0.00017077119264286011}
+{"template": "[Y] tv series [X] .", "weight": 7.508660928579047e-05}
+{"template": "[Y] soap opera , [X] .", "weight": 0.00013869204849470407}
+{"template": "[Y] comedy series [X] .", "weight": 0.03719465062022209}
+{"template": "[Y] television series , [X] .", "weight": 0.00015188223915174603}
+{"template": "[Y] series , [X] .", "weight": 7.884975639171898e-05}
+{"template": "[Y] program [X] .", "weight": 0.00010302239388693124}
+{"template": "[Y] television show [X] .", "weight": 0.00010299940913682804}
+{"template": "[Y] miniseries [X] .", "weight": 0.00010160089004784822}
+{"template": "[Y] original series [X] .", "weight": 0.0001710432698018849}
+{"template": "[X] premiered on [Y] .", "weight": 0.37568801641464233}
+{"template": "[Y] crime drama [X] .", "weight": 0.00041300442535430193}
+{"template": "[X] \u2021 [Y] .", "weight": 6.409024354070425e-05}
+{"template": "[Y] animated series [X] .", "weight": 8.370243449462578e-05}
+{"template": "[Y] tv show [X] .", "weight": 8.194023394025862e-05}
+{"template": "[Y] medical drama [X] .", "weight": 0.00019838141452055424}
+{"template": "[Y] soap [X] .", "weight": 0.00010000425390899181}
+{"template": "[Y] comedy [X] .", "weight": 0.00013997651694808155}
+{"template": "[Y] renewed [X] .", "weight": 9.90046828519553e-05}
+{"template": "[Y] daytime soap opera [X] .", "weight": 0.29237571358680725}
+{"template": "[Y] announced that [X] .", "weight": 0.00019553567108232528}
+{"template": "[Y] show , [X] .", "weight": 7.955174805829301e-05}
+{"template": "[X] aired on [Y] .", "weight": 0.28767862915992737}
+{"template": "[Y] anthology series , [X] .", "weight": 0.00011495543731143698}

@@ -1,26 +1,18 @@
-{"relation": "P30", "template": "[X] is located in [Y] ."}
-{"relation": "P30", "template": "[X] is in [Y].", "bt_log_prob": -0.3445419818162918}
-{"relation": "P30", "template": "[X] is located in [Y].", "bt_log_prob": -0.4435227960348129}
-{"relation": "P30", "template": "[X] is found in [Y].", "bt_log_prob": -0.6388464123010635}
-{"relation": "P30", "template": "[X] lies in [Y].", "bt_log_prob": -0.6671467274427414}
-{"relation": "P30", "template": "[X] is in the [Y].", "bt_log_prob": -0.7209570109844208}
-{"relation": "P30", "template": "[X] is placed in [Y].", "bt_log_prob": -0.732551321387291}
-{"relation": "P30", "template": "[X] is inside [Y].", "bt_log_prob": -0.7365006357431412}
-{"relation": "P30", "template": "[X] is located in the [Y].", "bt_log_prob": -0.7531158924102783}
-{"relation": "P30", "template": "[X] is [Y].", "bt_log_prob": -0.7552724033594131}
-{"relation": "P30", "template": "[X] is in [Y]", "bt_log_prob": -0.7591179460287094}
-{"relation": "P30", "template": "[X] is located in [Y]", "bt_log_prob": -0.8412871807813644}
-{"relation": "P30", "template": "[X] is located at [Y].", "bt_log_prob": -0.8963502049446106}
-{"relation": "P30", "template": "[X] is on [Y].", "bt_log_prob": -0.9123460352420807}
-{"relation": "P30", "template": "[X] stands in [Y].", "bt_log_prob": -0.9781621396541595}
-{"relation": "P30", "template": "[X] is written in [Y].", "bt_log_prob": -0.9958726167678833}
-{"relation": "P30", "template": "[X] is set to [Y].", "bt_log_prob": -1.0288735032081604}
-{"relation": "P30", "template": "[X] will be in [Y].", "bt_log_prob": -1.0526671409606934}
-{"relation": "P30", "template": "[X] is in [Y]..", "bt_log_prob": -1.054703339934349}
-{"relation": "P30", "template": "[X] is located in the [Y]", "bt_log_prob": -1.1077861189842224}
-{"relation": "P30", "template": "[X] is located in [Y]..", "bt_log_prob": -1.1417223811149597}
-{"relation": "P30", "template": "[X] in [Y].", "bt_log_prob": -1.256942093372345}
-{"relation": "P30", "template": "[X] is found in [Y]..", "bt_log_prob": -1.336891621351242}
-{"relation": "P30", "template": "[X] located in [Y]..", "bt_log_prob": -1.4434237480163574}
-{"relation": "P30", "template": "[X] is in [Y];", "bt_log_prob": -1.448424756526947}
-{"relation": "P30", "template": "[X] is in [Y],", "bt_log_prob": -1.4892060160636902}
+{"template": "[X] and other parts of [Y] .", "weight": 0.0003204833483323455}
+{"template": "[X] and other parts of [Y].", "weight": 0.0003204833483323455}
+{"template": "[X] and other parts [Y].", "weight": 9.656750626163557e-05}
+{"template": "[X] and other parts of the [Y].", "weight": 0.00012658607738558203}
+{"template": "[X], and other parts of [Y].", "weight": 0.5985455513000488}
+{"template": "[X] and other parts of [Y]", "weight": 3.5647564800456166e-05}
+{"template": "[X] and others parts of [Y].", "weight": 0.0002751742722466588}
+{"template": "[X], and other parts of the [Y].", "weight": 0.00025329290656372905}
+{"template": "[X] and other sections of [Y].", "weight": 3.056094647035934e-05}
+{"template": "[X] and other portions of [Y].", "weight": 2.382450838922523e-05}
+{"template": "[X] and other parts of the [Y]", "weight": 6.597696483368054e-05}
+{"template": "[X] and other parts [Y]", "weight": 0.00022653216728940606}
+{"template": "[X] and Other Parts of [Y]", "weight": 0.1215049996972084}
+{"template": "[X] and others [Y].", "weight": 0.2402343899011612}
+{"template": "[X], and other parts of [Y]", "weight": 4.310018630349077e-05}
+{"template": "[X] and other pieces [Y].", "weight": 0.03774278238415718}
+{"template": "[X] and other portions of [Y]", "weight": 3.886733975377865e-05}
+{"template": "[X] and others parts of [Y]", "weight": 0.00011519913823576644}

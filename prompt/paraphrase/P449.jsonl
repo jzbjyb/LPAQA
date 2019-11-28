@@ -1,25 +1,30 @@
-{"relation": "P449", "template": "[X] was originally aired on [Y] ."}
-{"relation": "P449", "template": "[X] was originally broadcast on [Y].", "bt_log_prob": -0.389067679643631}
-{"relation": "P449", "template": "[X] was originally aired on [Y].", "bt_log_prob": -0.45437029004096985}
-{"relation": "P449", "template": "[X] originally aired on [Y].", "bt_log_prob": -0.46373866498470306}
-{"relation": "P449", "template": "[X] was originally broadcast in [Y].", "bt_log_prob": -0.5001256167888641}
-{"relation": "P449", "template": "[X] was originally aired in [Y].", "bt_log_prob": -0.5443179309368134}
-{"relation": "P449", "template": "[X] was originally shown on [Y].", "bt_log_prob": -0.5776116698980331}
-{"relation": "P449", "template": "[X] was originally broadcast via [Y].", "bt_log_prob": -0.6228645443916321}
-{"relation": "P449", "template": "[X] originally aired in [Y].", "bt_log_prob": -0.6354178488254547}
-{"relation": "P449", "template": "[X] was originally shown in [Y].", "bt_log_prob": -0.6359699964523315}
-{"relation": "P449", "template": "[X] was originally sent to [Y].", "bt_log_prob": -0.6507133841514587}
-{"relation": "P449", "template": "[X] was originally transmitted on [Y].", "bt_log_prob": -0.6830086410045624}
-{"relation": "P449", "template": "[X] was originally broadcast on [Y]", "bt_log_prob": -0.6834455579519272}
-{"relation": "P449", "template": "[X] was originally broadcast by [Y].", "bt_log_prob": -0.6936550140380859}
-{"relation": "P449", "template": "[X] was originally on [Y].", "bt_log_prob": -0.6949499696493149}
-{"relation": "P449", "template": "[X] was originally sent on [Y].", "bt_log_prob": -0.7033928334712982}
-{"relation": "P449", "template": "[X] was originally transmitted in [Y].", "bt_log_prob": -0.7224882245063782}
-{"relation": "P449", "template": "[X] was originally broadcast over [Y].", "bt_log_prob": -0.7340063154697418}
-{"relation": "P449", "template": "[X] was originally sent in [Y].", "bt_log_prob": -0.7683195173740387}
-{"relation": "P449", "template": "[X] was originally broadcast at [Y].", "bt_log_prob": -0.7735562324523926}
-{"relation": "P449", "template": "[X] was originally aired by [Y].", "bt_log_prob": -0.7836267054080963}
-{"relation": "P449", "template": "[X] originally aired on [Y]", "bt_log_prob": -0.8003896325826645}
-{"relation": "P449", "template": "[X] was originally broadcast on the [Y].", "bt_log_prob": -0.81435227394104}
-{"relation": "P449", "template": "[X] was originally broadcasted on [Y]", "bt_log_prob": -0.9413434863090515}
-{"relation": "P449", "template": "[X] was originally broadcasted in [Y]", "bt_log_prob": -0.9830842912197113}
+{"template": "[X] aired on [Y] .", "weight": 0.3723505735397339}
+{"template": "[X] was broadcast on [Y].", "weight": 0.04103182628750801}
+{"template": "[X] aired on [Y].", "weight": 0.3723505735397339}
+{"template": "[X] broadcast on [Y].", "weight": 0.00039267464308068156}
+{"template": "[X] was aired on [Y].", "weight": 0.0034172956366091967}
+{"template": "[X] was sent to [Y].", "weight": 6.994030991336331e-05}
+{"template": "[X] broadcast in [Y].", "weight": 5.297242387314327e-05}
+{"template": "[X] ran on [Y].", "weight": 3.645461401902139e-05}
+{"template": "[X] was broadcast in [Y].", "weight": 4.8588062782073393e-05}
+{"template": "[X] was shown on [Y].", "weight": 0.0007133412291295826}
+{"template": "[X] on [Y].", "weight": 4.203554999548942e-05}
+{"template": "[X] was aired in [Y].", "weight": 3.8561316614504904e-05}
+{"template": "[X] aired in [Y].", "weight": 3.7500525650102645e-05}
+{"template": "[X] has been sent to [Y].", "weight": 7.080868817865849e-05}
+{"template": "[X] has been broadcast on [Y].", "weight": 0.20503738522529602}
+{"template": "[X] was shown in [Y].", "weight": 4.993029506294988e-05}
+{"template": "[X] has been aired on [Y].", "weight": 0.002433670684695244}
+{"template": "[X] to [Y].", "weight": 5.710167533834465e-05}
+{"template": "[X] is sent to [Y].", "weight": 6.951386603759602e-05}
+{"template": "[X] airing on [Y].", "weight": 0.00042069534538313746}
+{"template": "[X] was set to [Y].", "weight": 5.815722033730708e-05}
+{"template": "[X] airs on [Y].", "weight": 0.0003081360482610762}
+{"template": "[X] ran to [Y].", "weight": 5.954984953859821e-05}
+{"template": "[X] aired at [Y].", "weight": 0.000548589217942208}
+{"template": "[X] has been broadcast in [Y].", "weight": 4.7049103159224615e-05}
+{"template": "[X] ran [Y].", "weight": 5.3554475016426295e-05}
+{"template": "[X] was sent on [Y].", "weight": 4.3452775571495295e-05}
+{"template": "[X] was on [Y].", "weight": 4.1051196603802964e-05}
+{"template": "[X] is set to [Y].", "weight": 5.795143806608394e-05}
+{"template": "[X] was sent to [Y]", "weight": 6.115392898209393e-05}
