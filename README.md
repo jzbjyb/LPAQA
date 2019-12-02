@@ -1,5 +1,7 @@
 # LPAQA: Language model Prompt And Query Archive
 
+This repository contains data and code for the paper [How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
+
 ## Install
 Our repository is based on [LAMA](https://github.com/facebookresearch/LAMA). Please download our fork
  from [here](https://github.com/jzbjyb/LAMA) and follow the instructions to set up the environment and download pre-trained language models.
