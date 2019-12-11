@@ -8,6 +8,7 @@ Our repository is based on [LAMA](https://github.com/facebookresearch/LAMA). Ple
 ```bash
 # clone to the currect directory
 git clone https://github.com/jzbjyb/LAMA .
+git reset --hard b6b1885c64de5981f249a8b65de25cb0802b4bd5
 # follow the instructions to install
 ./setup.sh
 ```
