@@ -6,10 +6,14 @@ This repository contains data and code for the paper [How Can We Know What Langu
 Our repository is based on [LAMA](https://github.com/facebookresearch/LAMA). Please download our fork
  from [here](https://github.com/jzbjyb/LAMA) and follow the instructions to set up the environment and download pre-trained language models.
 ```bash
-# clone to the currect directory
-git clone https://github.com/jzbjyb/LAMA .
-git reset --hard b6b1885c64de5981f249a8b65de25cb0802b4bd5
+# clone LPAQA
+git clone https://github.com/jzbjyb/LPAQA.git LPAQA
+# clone LAMA
+git clone https://github.com/jzbjyb/LAMA.git LAMA
+pushd LAMA && git reset --hard b6b1885c64de5981f249a8b65de25cb0802b4bd5 && rm -rf .git && popd
+mv LAMA/* LPAQA/ && rm -rf LAMA
 # follow the instructions to install
+cd LPAQA
 ./setup.sh
 ```
 
