@@ -1,0 +1,25 @@
+The original language of [X] is [Y] .
+The original language of [X] is [Y].
+The original language for [X] is [Y].
+The native language of [X] is [Y].
+The source language of [X] is [Y].
+[X] is the original language of [Y].
+The primary language of [X] is [Y].
+The original [X] language is [Y].
+The original language of [X] is [Y]
+The original language of [X] was [Y].
+[X] is the original [Y].
+The initial language of [X] is [Y].
+The source language for [X] is [Y].
+The language of [X] is [Y].
+[X] is original [Y].
+[X] is in original [Y].
+The default language of [X] is [Y].
+The source of [X] is [Y].
+[X] is the source language of [Y].
+[X] is [Y].
+[X] is originally [Y].
+The original language of [X] is [Y]..
+[X] is in [Y].
+[X] is the original [Y]
+The original language for [X] is [Y]..

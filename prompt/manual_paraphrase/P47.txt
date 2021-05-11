@@ -1,0 +1,30 @@
+[X] shares border with [Y] .
+[X] borders on [Y].
+[X] borders [Y].
+[X] shares a border with [Y].
+[X] has a common border with [Y].
+[X] adjoins [Y].
+[X] shares a boundary with [Y].
+[X] verges on [Y].
+[X] is bordering on [Y].
+[X] shares the border with [Y].
+[X] borders with [Y].
+[X] has a shared border with [Y].
+[X] has a border with [Y].
+[X] shares the boundary with [Y].
+[X] has the same border as [Y].
+[X] has the common border with [Y].
+[X] has common boundaries with [Y].
+[X] divides the border with [Y].
+[X] has common borders with [Y].
+[X] has common limits with [Y].
+[X] shares common boundaries with [Y].
+[X] shares borders with [Y].
+[X] has common limitations with [Y].
+[X] communicates the border with [Y].
+[X] will share the border with [Y].
+[X] has a common boundary with [Y]
+[X] is bordering on [Y]
+[X] shares a border with [Y]
+[X] has the same boundary as [Y]
+[X] has a common border with [Y]

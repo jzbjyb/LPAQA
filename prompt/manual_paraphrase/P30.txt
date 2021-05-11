@@ -1,0 +1,26 @@
+[X] is located in [Y] .
+[X] is in [Y].
+[X] is located in [Y].
+[X] is found in [Y].
+[X] lies in [Y].
+[X] is in the [Y].
+[X] is placed in [Y].
+[X] is inside [Y].
+[X] is located in the [Y].
+[X] is [Y].
+[X] is in [Y]
+[X] is located in [Y]
+[X] is located at [Y].
+[X] is on [Y].
+[X] stands in [Y].
+[X] is written in [Y].
+[X] is set to [Y].
+[X] will be in [Y].
+[X] is in [Y]..
+[X] is located in the [Y]
+[X] is located in [Y]..
+[X] in [Y].
+[X] is found in [Y]..
+[X] located in [Y]..
+[X] is in [Y];
+[X] is in [Y],

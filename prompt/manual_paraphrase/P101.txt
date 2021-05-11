@@ -1,0 +1,27 @@
+[X] works in the field of [Y] .
+[X] works in the range [Y].
+[X] works in the range of [Y].
+[X] works in range [Y].
+[X] works in the area [Y].
+[X] works in area [Y].
+[X] works in [Y].
+[X] works in the [Y] area.
+[X] operates in the range of [Y].
+[X] works in the [Y] range.
+[X] works within the range of [Y].
+[X] is in the range of [Y].
+[X] works in the field [Y].
+[X] works in the area of [Y].
+[X] works in the field of [Y].
+[X] works in section [Y].
+[X] works in the [Y] domain.
+[X] works in the [Y] field.
+[X] works in the range of [Y]
+[X] works on [Y].
+[X] works in the field of [Y]
+[X] works in the area of [Y]
+[X] is working in the field of [Y]
+[X] works in the domain of [Y]
+[X] works on the field of [Y]
+[X] works on [Y]
+[X] works in [Y]

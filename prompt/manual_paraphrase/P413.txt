@@ -1,0 +1,29 @@
+[X] plays in [Y] position .
+[X] plays in [Y] position.
+[X] plays in position [Y].
+[X] plays in [Y] -position.
+[X] plays in the [Y] position.
+[X] plays in the [Y] -position.
+[X] plays at [Y] position.
+[X] plays on [Y] position.
+[X] is playing in [Y] position.
+[X] plays in the position [Y].
+[X] plays in [Y] -Position.
+[X] is playing in position [Y].
+[X] plays to [Y] position.
+[X] is in [Y] position.
+[X] plays on [Y] -position.
+[X] is in position [Y].
+[X] plays at [Y] -position.
+[X] is playing in the [Y] position.
+[X] is in the [Y] position.
+[X] plays the position [Y].
+[X] plays at position [Y].
+[X] plays [Y] position.
+[X] is in [Y] -position.
+[X] plays in [Y] position
+[X] play in [Y] position.
+[X] plays in [Y].
+[X] plays the [Y] position.
+[X] is playing in [Y] -position
+[X] is playing in the [Y] position

@@ -1,0 +1,16 @@
+[X] plays [Y] .
+[X] plays [Y].
+[X] is playing [Y].
+[X] performs [Y].
+[X] is [Y].
+[X] play [Y].
+[X] playing [Y].
+[X] plays [Y]
+[X] [Y].
+[X] playing [Y]
+[X] Play [Y].
+[X] is playing [Y]
+[X] play [Y]
+[X] [Y] play.
+[X] performs [Y]
+[X] played [Y]

@@ -1,0 +1,25 @@
+[X] is [Y] citizen .
+[X] is a [Y] citizen.
+[X] is a citizen of [Y].
+[X] is [Y] -citizen.
+[X] is [Y] citizen.
+[X] is citizen [Y].
+[X] is a [Y] -citizen.
+[X] is citizen of [Y].
+[X] is a citizen [Y].
+[X] is [Y] a citizen.
+[X] is [Y] -Citizen.
+[X] is [Y] Citizen.
+[X] is Citizen of [Y].
+[X] is a [Y] national.
+[X] is [Y] a national.
+[X] is a citizen of [Y]
+[X] is citizens of [Y].
+[X] is a national [Y].
+[X] is citizen of [Y]
+[X] is citizens [Y].
+[X] is a citizen [Y]
+[X] is [Y].
+[X] is citizen [Y]
+[X] is a citizen. [Y]
+[X] is [Y] a citizen

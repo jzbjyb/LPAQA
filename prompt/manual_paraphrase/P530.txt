@@ -1,0 +1,17 @@
+[X] maintains diplomatic relations with [Y] .
+[X] maintains diplomatic relations with [Y].
+[X] has diplomatic relations with [Y].
+[X] maintains diplomatic relations to [Y].
+[X] maintains diplomatic ties with [Y].
+[X] maintains diplomatic relationships with [Y].
+[X] has diplomatic relations to [Y].
+[X] maintains diplomatic relations with [Y]
+[X] maintain diplomatic relations with [Y].
+[X] maintains diplomatic contacts with [Y].
+[X] have diplomatic relations with [Y].
+[X] is in diplomatic relations with [Y].
+[X] holds diplomatic relations with [Y].
+[X] have diplomatic relations to [Y].
+[X] maintain diplomatic relations to [Y].
+[X] maintain diplomatic ties with [Y].
+[X] maintains a diplomatic relationship with [Y]

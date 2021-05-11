@@ -1,0 +1,29 @@
+[X] is a subclass of [Y] .
+[X] is a subclass of [Y].
+[X] is the subclass of [Y].
+[X] is a sub class of [Y].
+[X] is a subset of [Y].
+[X] is a subclass of [Y]
+[X] is a subclass to [Y].
+[X] is a subgroup of [Y].
+[X] is a sublayer of [Y].
+[X] is a subclass of the [Y].
+[X] is a sub-class of [Y].
+[X] is a substrate of [Y].
+[X] is the underclass of [Y].
+[X] is the sub class of [Y].
+[X] is a sub-group of [Y].
+[X] is subclass of [Y].
+[X] is a base layer of [Y].
+[X] is a lower layer of [Y].
+[X] is the subclass [Y].
+[X] is an underlayer of [Y].
+[X] is a layer of [Y].
+[X] is a sub group of [Y].
+[X] is subset of [Y].
+[X] is an underclass of [Y].
+[X] is a subclass [Y].
+[X] is the sub-class of [Y]
+[X] is a substrate of [Y]
+[X] is a subclass of the [Y]
+[X] is a sub-set of [Y]

@@ -1,0 +1,16 @@
+[X] is represented by music label [Y] .
+[X] is represented by the music label [Y].
+[X] is represented by the record label [Y].
+[X] is represented by the [Y] music label.
+[X] is represented by the label [Y].
+[X] is represented by [Y].
+[X] is represented by music label [Y].
+[X] is represented by the [Y] label.
+[X] is represented by the [Y] record label.
+[X] is represented by the music label [Y]
+[X] is represented by the record label [Y]
+[X] represented by the music label [Y]
+[X] is represented by the [Y] music label
+[X] is represented by the label [Y]
+[X] is represented by music label [Y]
+[X] is represented by [Y]

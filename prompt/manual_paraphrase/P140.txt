@@ -1,0 +1,29 @@
+[X] is affiliated with the [Y] religion .
+[X] is related to the [Y] religion.
+[X] is associated with the [Y] religion.
+[X] is related to [Y] religion.
+[X] is related to religion [Y].
+[X] is connected to the [Y] religion.
+[X] is connected to religion [Y].
+[X] is close to the [Y] religion.
+[X] is connected with the [Y] religion.
+[X] is connected with religion [Y].
+[X] is associated with [Y] religion.
+[X] is linked to the [Y] religion.
+[X] is connected to the religion [Y].
+[X] is associated with religion [Y].
+[X] is related to the religion [Y].
+[X] is linked to religion [Y].
+[X] is connected with [Y] religion.
+[X] is close to [Y] religion.
+[X] is close to the [Y] -religion.
+[X] is connected to [Y] religion.
+[X] is close to [Y] -religion.
+[X] is very close to the [Y] religion.
+[X] is related to the [Y] religion
+[X] is connected with the [Y] religion
+[X] is related to [Y] religion
+[X] is connected to the [Y] religion
+[X] is related to the [Y] -religion
+[X] is associated with the [Y] religion
+[X] is related to [Y] -religion

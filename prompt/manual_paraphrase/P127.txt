@@ -1,0 +1,18 @@
+[X] is owned by [Y] .
+[X] belongs to [Y].
+[X] is the property of [Y].
+[X] is owned by [Y].
+[X] is property of [Y].
+[X] belongs [Y].
+[X] belongs to [Y]
+[X] is [Y].
+[X] belong to [Y].
+[X] is held by [Y].
+[X] is part of [Y].
+[X] is a property of [Y].
+[X] is the property of [Y]
+[X] is owned by [Y]
+[X] is property of [Y]
+[X] is one of [Y].
+[X] are property of [Y]
+[X] property of [Y]

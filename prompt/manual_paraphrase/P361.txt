@@ -1,0 +1,20 @@
+[X] is part of [Y] .
+[X] is part of [Y].
+[X] belongs to [Y].
+[X] is a part of [Y].
+[X] is a component of [Y].
+[X] is part of the [Y].
+[X] is part [Y].
+[X] is part of [Y]
+[X] belongs to [Y]
+[X] is an element of [Y].
+[X] is a portion of [Y].
+[X] is a part of [Y]
+[X] is one of [Y].
+[X] belong to [Y].
+[X] is a component of [Y]
+[X] is [Y].
+[X] is part of the [Y]
+[X] is a part [Y].
+[X] is Part [Y].
+[X] is part [Y]

@@ -1,0 +1,28 @@
+[X] plays [Y] music .
+[X] plays [Y] music.
+[X] plays [Y] -music.
+[X] is playing [Y] music.
+[X] plays music [Y].
+[X] plays [Y] Music.
+[X] plays music by [Y].
+[X] plays [Y] -Music.
+[X] plays music on [Y].
+[X] play [Y] music.
+[X] plays [Y] music
+[X] plays music from [Y].
+[X] plays [Y].
+[X] is playing music [Y].
+[X] performs [Y] music.
+[X] is playing [Y].
+[X] plays the music [Y].
+[X] plays Music [Y].
+[X] play music [Y].
+[X] playing music [Y].
+[X] plays music [Y]
+[X] performs [Y].
+[X] is playing [Y] -music
+[X] playing [Y] music.
+[X] is [Y].
+[X] play [Y].
+[X] playing [Y].
+[X] plays [Y]

@@ -1,0 +1,30 @@
+[X] has the position of [Y] .
+[X] has the position of [Y].
+[X] is the position of [Y].
+[X] takes the position of [Y].
+[X] is in position [Y].
+[X] is in the position of [Y].
+[X] has the position [Y].
+[X] has the location of [Y].
+[X] has the status of [Y].
+[X] is the location of [Y].
+[X] is in position of [Y].
+[X] has position [Y].
+[X] is positioned [Y].
+[X] is at position [Y].
+[X] has the position of the [Y].
+[X] is positioned in [Y].
+[X] is set to [Y].
+[X] occupies the position of [Y].
+[X] has the position of a [Y].
+[X] takes the place of [Y].
+[X] has the [Y] position.
+[X] has the state of [Y].
+[X] is the status of [Y].
+[X] is equal to [Y].
+[X] takes the position of [Y]
+[X] is the [Y] position.
+[X] is [Y].
+[X] replaces [Y].
+[X] is in [Y].
+[X] has the status [Y].

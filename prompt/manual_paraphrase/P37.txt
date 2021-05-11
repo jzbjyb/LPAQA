@@ -1,0 +1,15 @@
+The official language of [X] is [Y] .
+The official language of [X] is [Y].
+The official language for [X] is [Y].
+[X] is the official language of [Y].
+The official [X] language is [Y].
+The official language of [X] is [Y]
+The official language [X] is [Y].
+The official national language of [X] is [Y].
+The official local language of [X] is [Y].
+The official official language of [X] is [Y].
+Official language of [X] is [Y].
+The official language is [X] [Y].
+The official language for [X] is [Y]
+[X] is [Y].
+[X] is officially [Y].

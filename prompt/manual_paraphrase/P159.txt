@@ -1,0 +1,15 @@
+The headquarter of [X] is in [Y] .
+The headquarters of [X] are located in [Y].
+The headquarters of [X] is located in [Y].
+[X] is headquartered in [Y].
+The head office of [X] is in [Y].
+The headquarters of [X] is in [Y].
+The headquarters of [X] are in [Y].
+The headquarter of [X] is in [Y].
+[X] has its headquarters in [Y].
+[X] headquarters are located in [Y].
+[X] is located in [Y].
+The head office of [X] is located in [Y]
+The headquarters of [X] is located in [Y]
+The headquarters of [X] are located in [Y]
+The headquarters of [X] is in [Y]
